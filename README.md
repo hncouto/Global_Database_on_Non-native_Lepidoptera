@@ -38,4 +38,3 @@ Run TaxonomyExtract.ipynb notebook and then DatabaseCreation.ipynb
 ## Badges
 
 ## How to Contribute
-
