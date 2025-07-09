@@ -4,7 +4,9 @@ Repository for the code on the development of the Established Non-native Lepidop
 
 
 ## Overview
+
 Project Description
+
 
 ## Install and Run
 
@@ -17,12 +19,12 @@ asyncio; nest_asyncio; tenacity; aiohttp; pandas
 
 #### Database Creation
 
-pandas; sqlite3
+pandas; sqlite3; os
 
 
 ### Base Install and Run Locally
 
-Clone Repository and then delete: TaxonomyRaw.csv , ENNLWD.db, and all files under Database Tables folder.
+Clone Repository and then (optional) delete: TaxonomyRaw.csv and all files under Database Tables folder.
 
 If you don't have any of the packages and libvraries required first run the install_libs.ipynb
 
