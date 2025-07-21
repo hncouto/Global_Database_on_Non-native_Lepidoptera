@@ -85,7 +85,7 @@ Darna pallivitta,Oxyplax pallivitta,Limacodidae,Oxyplax
 Megalorhipida leucodactylus,Megalorhipida leucodactylus,Pterophoridae,Megalorhipida
 Praeacedes atomosella,Praeacedes atomosella,Tineidae,Praeacedes
 Agrius cingulatus,Agrius cingulata,Sphingidae,Agrius
-Erschoviella musculana,Erschoviella musculana,Nolidae,Garella
+Garella musculana,Garella musculana,Nolidae,Garella
 Eurema blanda,Eurema blanda,Pieridae,Eurema
 Sesamia grisescens,Sesamia grisescens,Noctuidae,Sesamia
 Tineola bisselliella,Tineola bisselliella,Tineidae,Tineola
@@ -101,9 +101,8 @@ Phyllonorycter messaniella,Phyllonorycter messaniella,Gracillariidae,Phyllonoryc
 Tebenna micalis,Tebenna micalis,Choreutidae,Tebenna
 Spodoptera ornithogalli,Spodoptera ornithogalli,Noctuidae,Spodoptera
 Carmenta mimosa,Carmenta mimosa,Sesiidae,Carmenta
-Leuciris fimbriaria ,Leuciris fimbriaria,Geometridae,Leuciris
+Leuciris fimbriaria,Leuciris fimbriaria,Geometridae,Leuciris
 Macaria pallidata,Digrammia pallidata,Geometridae,Digrammia
-Cameraria ohridella ,Cameraria ohridella,Gracillariidae,Cameraria
 Keiferia lycopersicella,Keiferia lycopersicella,Gelechiidae,Keiferia
 Malacosoma disstria,Malacosoma disstria,Lasiocampidae,Malacosoma
 Choristoneura parallela,Choristoneura parallela,Tortricidae,Choristoneura
@@ -122,8 +121,8 @@ Hofmannophila pseudospretella,Hofmannophila pseudospretella,Oecophoridae,Hofmann
 Schreckensteinia festaliella,Schreckensteinia festaliella,Schreckensteiniidae,Schreckensteinia
 Phtheochroa vulneratana,Phtheochroa vulneratana,Tortricidae,Phtheochroa
 Spodoptera praefica,Spodoptera praefica,Noctuidae,Spodoptera
-Choristoneura occidentalis biennis,Choristoneura occidentalis,Tortricidae,Choristoneura
-Choristoneura pinus pinus,Choristoneura pinus,Tortricidae,Choristoneura
+Choristoneura occidentalis,Choristoneura occidentalis,Tortricidae,Choristoneura
+Choristoneura pinus,Choristoneura pinus,Tortricidae,Choristoneura
 Choristoneura rosaceana,Choristoneura rosaceana,Tortricidae,Choristoneura
 Choristoneura lambertiana,Choristoneura lambertiana,Tortricidae,Choristoneura
 Grapholita packardi,Grapholita packardi,Tortricidae,Grapholita
@@ -132,15 +131,13 @@ Acleris minuta,Acleris minuta,Tortricidae,Acleris
 Acleris nivisellana,Acleris nivisellana,Tortricidae,Acleris
 Acleris robinsoniana,Acleris robinsoniana,Tortricidae,Acleris
 Acleris variana,Acleris variana,Tortricidae,Acleris
-Choristoneura occidentalis occidentalis,Choristoneura occidentalis,Tortricidae,Choristoneura
 Cydia nigricana,Cydia nigricana,Tortricidae,Cydia
 Eana argentana,Eana argentana,Tortricidae,Eana
 Notocelia cynosbatella,Notocelia cynosbatella,Tortricidae,Notocelia
-Orgyia antiqua,Orgyia antiqua,Erebidae,Orgyia
+Orgyia antiqua,Orgyia antiqua,Erebidae,Orgyia
 Erinnyis ello,Erinnyis ello,Sphingidae,Erinnyis
 Maruca vitrata,Maruca vitrata,Crambidae,Maruca
 Diatraea saccharalis,Diatraea saccharalis,Crambidae,Diatraea
-Spodoptera litura ,Spodoptera litura,Noctuidae,Spodoptera
 Othreis fullonia,Eudocima phalonia,Erebidae,Eudocima
 Sphecodina caudata,Sphecodina caudata,Sphingidae,Sphecodina
 Earias vittella,Earias vittella,Nolidae,Earias
@@ -183,7 +180,6 @@ Perileucoptera coffeella,Leucoptera coffeella,Lyonetiidae,Leucoptera
 Diplopseustis perieresalis,Diplopseustis perieresalis,Crambidae,Diplopseustis
 Antheraea pernyi,Antheraea pernyi,Saturniidae,Antheraea
 Araeopteron ecphaea,Araeopteron ecphaea,Noctuidae,Araeopteron
-Hyphantria cunea ,Hyphantria cunea,Erebidae,Hyphantria
 Prays endocarpa,Prays endocarpa,Praydidae,Prays
 Leucoptera sinuella,Leucoptera sinuella,Lyonetiidae,Leucoptera
 Chrysoclista linneella,Chrysoclista linneela,Elachistidae,Chrysoclista
@@ -208,7 +204,6 @@ Choristoneura retiniana,Choristoneura retiniana,Tortricidae,Choristoneura
 Anatrachyntis badia,Anatrachyntis badia,Cosmopterigidae,Anatrachyntis
 Eugnosta californica,Eugnosta californica,Tortricidae,Eugnosta
 Cadra figulilella,Cadra figulilella,Pyralidae,Cadra
-Phthorimaea operculella ,Phthorimaea operculella,Gelechiidae,Phthorimaea
 Phyllonorycter mespilella,Phyllonorycter mespilella,Gracillariidae,Phyllonorycter
 Mamestra brassicae,Mamestra brassicae,Noctuidae,Mamestra
 Sesamia cretica,Sesamia cretica,Noctuidae,Sesamia
@@ -220,7 +215,6 @@ Chrysodeixis acuta,Chrysodeixis acuta,Noctuidae,Chrysodeixis
 Cydia interscindana,Cydia interscindana,Tortricidae,Cydia
 Macrosaccus robiniella,Macrosaccus robiniella,Gracillariidae,Macrosaccus
 Thaumetopoea processionea,Thaumetopoea processionea,Notodontidae,Thaumetopoea
-Spodoptera frugiperda ,Spodoptera frugiperda,Noctuidae,Spodoptera
 Grapholita delineana,Grapholita delineana,Tortricidae,Grapholita
 Euproctis chrysorrhoea,Euproctis chrysorrhoea,Erebidae,Euproctis
 Acleris semipurpurana,Acleris semipurpurana,Tortricidae,Acleris
@@ -240,7 +234,7 @@ Dendrolimus spectabilis,Dendrolimus spectabilis,Lasiocampidae,Dendrolimus
 Grapholita inopinata,Grapholita inopinata,Tortricidae,Grapholita
 Rhizedra lutosa,Rhizedra lutosa,Noctuidae,Rhizedra
 Aglais io,Aglais io,Nymphalidae,Aglais
-Argynnis paphia ,Argynnis paphia,Nymphalidae,Argynnis
+Argynnis paphia,Argynnis paphia,Nymphalidae,Argynnis
 Coenonympha glycerion,Coenonympha iphis,Nymphalidae,Coenonympha
 Cupido argiades,Elkalyce argiades,Lycaenidae,Elkalyce
 Iphiclides podalirius,Iphiclides podalirius,Papilionidae,Iphiclides
@@ -268,7 +262,7 @@ Electrostrymon angelia,Thecla angelia,Lycaenidae,Thecla
 Elousa albicans,Elousa albicans,Erebidae,Elousa
 Empyreuma affinis,Empyreuma affinis,Erebidae,Empyreuma
 Epidromia pannosa,Epidromia pannosa,Erebidae,Epidromia
-Epidromia pyraliformis,Epidromia pyraliformis,,
+Manbuta pyraliformis,Manbuta pyraliformis,Erebidae,Manbuta
 Epimorius testaceellus,Epimorius testaceellus,Pyralidae,Epimorius
 Ethmia submissa,Ethmia submissa,Ethmiidae,Ethmia
 Eulepidotis striaepuncta,Eulepidotis striaepuncta,Erebidae,Eulepidotis
@@ -288,9 +282,8 @@ Mocis cubana,Mocis cubana,Erebidae,Mocis
 Neoleucinoides torvus,Neoleucinodes torvis,Crambidae,Neoleucinodes
 Neotuerta hemicycla,Neotuerta hemicycla,Noctuidae,Neotuerta
 Opogona purpuriella,Opogona purpuriella,Tineidae,Opogona
-Ozamia lucidalis,Ozamia lucidalis,Pyralidae,Zophodia
+Zophodia lucidalis,Zophodia lucidalis,Pyralidae,Zophodia
 Paectes lunodes,Paectes lunodes,Euteliidae,Paectes
-Papilio andro,Papilio andro,Papilionidae,Papilio
 Parapoynx diminutalis,Parapoynx diminutalis,Crambidae,Parapoynx
 Phoebis orbis,Aphrissa orbis,Pieridae,Aphrissa
 Physula albipunctilla,Physula albipunctilla,Erebidae,Physula
@@ -367,11 +360,11 @@ Heliocontia margana,Heliocontia margana,Noctuidae,Heliocontia
 Stegasta bosqueella,Stegasta bosqueella,Gelechiidae,Stegasta
 Trichoplusia ni,Trichoplusia ni,Noctuidae,Trichoplusia
 Paectes nana,Paectes arcigera,Euteliidae,Paectes
-Caligula japonica,Caligula japonica,,
+Saturnia japonica,Saturnia japonica,Saturniidae,Saturnia
 Clepsis peritana,Clepsis peritana,Tortricidae,Clepsis
 Hyblaea puera,Hyblaea puera,Hyblaeidae,Hyblaea
 Pareuchaetes pseudoinsulata,Pareuchaetes pseudoinsulata,Erebidae,Pareuchaetes
-Achaea janata ,Achaea janata,Erebidae,Achaea
+Achaea janata,Achaea janata,Erebidae,Achaea
 Adoxophyes melia,Adoxophyes melia,Tortricidae,Adoxophyes
 Agathodes ostentalis,Agathodes ostentalis,Crambidae,Agathodes
 Agonoxena pyrogramma,Agonoxena pyrogramma,Elachistidae,Agonoxena
@@ -386,10 +379,10 @@ Cryptophlebia peltastica,Cryptophlebia peltastica,Tortricidae,Cryptophlebia
 Dudua aprobola,Dudua aprobola,Tortricidae,Dudua
 Eudocima fullonia,Eudocima phalonia,Erebidae,Eudocima
 Euploea leucostictos,Euploea leucostictos,Nymphalidae,Euploea
-Grammarodes gemetrica,Grammarodes gemetrica,,
+Grammodes geometrica,Grammodes geometrica,Erebidae,Grammodes
 Hippotion celerio,Hippotion celerio,Sphingidae,Hippotion
 Hypolimnas bolina,Hypolimnas bolina,Nymphalidae,Hypolimnas
-Lamprosema diemenalis,Lamprosema diemenalis,Crambidae,Lamprosema
+Hedylepta diemenalis,Omiodes diemenalis,Crambidae,Omiodes
 Marasmia trapezalis,Marasmia trapezalis,Crambidae,Cnaphalocrocis
 Marasmia venilialis,Cnaphalocrocis poeyalis,Crambidae,Cnaphalocrocis
 Melanitis leda,Melanitis leda,Nymphalidae,Melanitis
@@ -404,7 +397,6 @@ Susumia exigua,Susumia exigua,Crambidae,Cnaphalocrocis
 Theretra pinastrina,Theretra silhetensis,Sphingidae,Theretra
 Trissodoris guamensis,Trissodoris guamensis,Cosmopterigidae,Trissodoris
 Abaeis nicippe,Abaeis nicippe,Pieridae,Abaeis
-Achaea janata,Achaea janata,Erebidae,Achaea
 Achroia grisella,Achroia grisella,Pyralidae,Achroia
 Acrolepiopsis sapporensis,Acrolepiopsis sapporensis,Glyphipterigidae,Acrolepia
 Agonoxena argaula,Agonoxena argaula,Elachistidae,Agonoxena
@@ -421,7 +413,7 @@ Anstenoptilia marmarodactyla,Anstenoptilia marmarodactyla,Pterophoridae,Anstenop
 Antiblemma acclinalis,Antiblemma acclinalis,Erebidae,Antiblemma
 Ascalapha odorata,Ascalapha odorata,Erebidae,Ascalapha
 Assara seminivale,Assara seminivale,Pyralidae,Assara
-Asymphorodes dimorpha,Asymphorodes dimorpha,Cosmopterigidae,Asymphorodes
+Petrochroa dimorpha,Petrochroa dimorpha,Elachistidae,Petrochroa
 Aphthonetus triaula,Aphthonetus triaula,Cosmopterigidae,Aphthonetus
 Ategumia adipalis,Ategumia adipalis,Crambidae,Ategumia
 Ategumia ebulealis,Ategumia ebulealis,Crambidae,Ategumia
@@ -432,16 +424,16 @@ Bactra venosana,Bactra venosana,Tortricidae,Bactra
 Bedellia orchilella,Bedellia orchilella,Bedelliidae,Bedellia
 Blastobasis inana,Blastobasis inana,Blastobasidae,Blastobasis
 Bocana manifestalis,Bocana manifestalis,Erebidae,Bocana
-Ategumia fatualis,Ategumia fatualis,Crambidae,Ategumia
+Bocchoris fatualis,Bocchoris fatualis,Crambidae,Bocchoris
 Brachycyttarus griseus,Brachycyttarus griseus,Psychidae,Brachycyttarus
 Bucculatrix thurberiella,Bucculatrix thurberiella,Bucculatricidae,Bucculatrix
 Callopistria maillardi,Callopistria maillardi,Noctuidae,Callopistria
 Caloptilia azaleella,Caloptilia azaleella,Gracillariidae,Caloptilia
 Caloptilia coruscans,Caloptilia coruscans,Gracillariidae,Caloptilia
 Caloptilia mabaella,Caloptilia mabaella,Gracillariidae,Caloptilia
-Chedra microstigma,Chedra microstigma,Coleophoridae,Chedra
+Batrachedra microstigma,Batrachedra microstigma,Batrachedridae,Batrachedra
 Dryadaula advena,Dryadaula advena,Dryadaulidae,Dryadaula
-Prospalta dolorosa,Prospalta dolorosa,Noctuidae,Prospalta
+Condica dolorosa,Condica dolorosa,Noctuidae,Condica
 Condica illecta,Condica illecta,Noctuidae,Condica
 Crasimorpha infuscata,Crasimorpha infuscata,Gelechiidae,Crasimorpha
 Cremastobombycia lantanella,Cremastobombycia lantanella,Gracillariidae,Cremastobombycia
@@ -485,13 +477,13 @@ Hyles lineata,Hyles lineata,Sphingidae,Hyles
 Hypena jussalis,Hypena jussalis,Erebidae,Hypena
 Hypena laceratalis,Hypena commixtalis,Erebidae,Hypena
 Hypena strigatus,Hypena strigatus,Erebidae,Hypena
-Hydriris dioctias,Hydriris dioctias,Crambidae,Hydriris
+Hyperectis dioctias,Hyperectis dioctias,Crambidae,Hyperectis
 Hypocala deflorata,Hypocala deflorata,Erebidae,Hypocala
 Hypsopygia mauritialis,Hypsopygia mauritialis,Pyralidae,Hypsopygia
 Imma mylias,Imma mylias,Immidae,Imma
 Ithome concolorella,Periploca orichalcella,Cosmopterigidae,Periploca
 Ithome lassula,Ithome lassula,Cosmopterigidae,Ithome
-Leucania insecuta,Leucania insecuta,,
+Leucania obsoleta,Leucania obsoleta,Noctuidae,Leucania
 Mythimna loreyimima,Leucania loreyimima,Noctuidae,Leucania
 Leucania scottii,Leucania scottii,Noctuidae,Leucania
 Leucania striata,Leucania striata,Noctuidae,Leucania
@@ -532,7 +524,7 @@ Phoebis agarithe,Phoebis agarithe,Pieridae,Phoebis
 Polydesma boarmoides,Polydesma boarmoides,Erebidae,Polydesma
 Polydesma umbricola,Polydesma umbricola,Erebidae,Polydesma
 Psilogramma increta,Psilogramma increta,Sphingidae,Psilogramma
-Glyphodes perelegans,Glyphodes perelegans,Crambidae,Glyphodes
+Pyrausta perelegans,Pyrausta perelegans,Crambidae,Pyrausta
 Orphanostigma haemorrhoidalis,Salbia haemorrhoidalis,Crambidae,Salbia
 Scopula personata,Scopula personata,Geometridae,Scopula
 Galtara extensa,Galtara extensa,Erebidae,Galtara
@@ -557,34 +549,24 @@ Vanessa cardui,Vanessa cardui,Nymphalidae,Vanessa
 Vanessa virginiensis,Vanessa virginiensis,Nymphalidae,Vanessa
 Zizina otis,Zizina otis,Lycaenidae,Zizina
 Arcte coerula,Arcte coerula,Erebidae,Arcte
-Petrochroa dimorpha,Petrochroa dimorpha,Elachistidae,Petrochroa
-Bembecia marginatum,Bembecia marginatum,Sesiidae,Bembecia
 Pseudopyrausta santatalis,Pseudopyrausta santatalis,Crambidae,Pseudopyrausta
-Bocchoris fatualis,Bocchoris fatualis,Crambidae,Bocchoris
-Catabena esula,Catabena esula,Noctuidae,Catabena
-Batrachedra microstigma,Batrachedra microstigma,Batrachedridae,Batrachedra
 Coleophora klimeschiella,Coleophora klimeschiella,Coleophoridae,Coleophora
-Condica dolorosa,Condica dolorosa,Noctuidae,Condica
 Miresa pallivitta,Oxyplax pallivitta,Limacodidae,Oxyplax
 Discestra trifolii,Anarta trifolii,Noctuidae,Anarta
 Episimus utilis,Episimus unguiculus,Tortricidae,Episimus
 Agrotis subterranea,Agrotis subterranea,Noctuidae,Agrotis
-Hyperectis dioctias,Hyperectis dioctias,Crambidae,Hyperectis
 Periploca orichalcella,Periploca orichalcella,Cosmopterigidae,Periploca
 Leucania loreyimima,Leucania loreyimima,Noctuidae,Leucania
 Thessalia theona,Thessalia theona,Nymphalidae,Thessalia
 Melittia oedipus,Melittia oedipus,Sesiidae,Melittia
 Paralipsa gularis,Paralipsa gularis,Pyralidae,Paralipsa
 Swezeyula lonicerae,Perittia lonicerae,Elachistidae,Perittia
-Pyrausta perelegans,Pyrausta perelegans,Crambidae,Pyrausta
-Syngamia haemorrhoidalis,Syngamia haemorrhoidalis,Crambidae,Syngamia
+Salbia haemorrhoidalis,Salbia haemorrhoidalis,Crambidae,Salbia
 Synclita obliteralis,Synclita obliteralis,Crambidae,Synclita
 Trichoclea postica,Anarta decepta,Noctuidae,Anarta
-Zizeeria otis,Zizeeria otis,Lycaenidae,Zizeeria
 Berresa natalis,Amyna natalis,Noctuidae,Amyna
 Trichoclea edwardsii,Anarta edwardsii,Noctuidae,Anarta
 Strymon megarus,Thecla megarus,Lycaenidae,Thecla
-Dichocrocis punctiferalis,Dichocrocis punctiferalis,Crambidae,Dichocrocis
 Acrolepia assectella,Acrolepia assectella,Glyphipterigidae,Acrolepia
 Argyrogramma verruca,Argyrogramma verruca,Noctuidae,Argyrogramma
 Choropleca terpsichorella,Dryadaula terpsichorella,Dryadaulidae,Dryadaula
@@ -595,24 +577,20 @@ Iridopsis fragilaria,Iridopsis fragilaria,Geometridae,Iridopsis
 Lioptilodes albistriolatus,Lioptilodes albistriolatus,Pterophoridae,Lioptilodes
 Mesophleps palpigera,Mesophleps palpigera,Gelechiidae,Mesophleps
 Psilogramma menephron,Psilogramma menephron,Sphingidae,Psilogramma
-Secusio extensa,Secusio extensa,Erebidae,Secusio
 Semiothisa santaremaria,Semiothisa santaremaria,Geometridae,Semiothisa
 Stictoptera poecilosoma,Stictoptera poecilosoma,Euteliidae,Stictoptera
 Trachylepidia fructicassiella,Trachylepidia fructicassiella,Pyralidae,Trachylepidia
 Nyctemera apicalis,Nyctemera apicalis,Erebidae,Nyctemera
-Asymphorodes triaula,Asymphorodes triaula,Cosmopterigidae,Asymphorodes
 Dichomeris acuminata,Dichomeris acuminatus,Gelechiidae,Dichomeris
 Macaria abydata,Macaria abydata,Geometridae,Macaria
 Mythimna obsoleta,Leucania obsoleta,Noctuidae,Leucania
 Neogalea esula,Neogalea sunia,Noctuidae,Neogalea
 Selca brunella,Manoba brunellus,Nolidae,Manoba
-Anstenoptilia marmorodactyla,Anstenoptilia marmorodactyla,Pterophoridae,Anstenoptilia
 Lantanophaga pusillidactyla,Lantanophaga pusillidactylus,Pterophoridae,Lantanophaga
 Elasmopalpus lignosellus,Elasmopalpus lignosella,Pyralidae,Elasmopalpus
 Euchromius ocelleus,Euchromius ocellea,Crambidae,Euchromius
 Hyposopygia mauritialis,Hypsopygia mauritialis,Pyralidae,Hypsopygia
 Pseudopyrausta acutangulalis,Pseudopyrausta acutangulalis,Crambidae,Pseudopyrausta
-Salbia haemorrhoidalis,Salbia haemorrhoidalis,Crambidae,Salbia
 Terastia subjectalis,Terastia subjectalis,Crambidae,Terastia
 Hyalophora euryalus,Hyalophora euryalus,Saturniidae,Hyalophora
 Macroglossum pyrrhostictum,Macroglossum pyrrhosticta,Sphingidae,Macroglossum
@@ -626,7 +604,6 @@ Hesperia sylvanus,Ochlodes venata,Hesperiidae,Ochlodes
 Pontia edusa,Pontia edusa,Pieridae,Pontia
 Nacoleia octasema,Nacoleia octasema,Crambidae,Nacoleia
 Phyllonorycter ermani,Phyllonorycter ermani,Gracillariidae,Phyllonorycter
-Garella musculana,Garella musculana,Nolidae,Garella
 Chilo sacchariphagus,Chilo sacchariphagus,Crambidae,Chilo
 Chrysaster hagicola,Chrysaster hagicola,Gracillariidae,Chrysaster
 Parornix pfaffenzelleri,Parornix pfaffenzelleri,Gracillariidae,Parornix
@@ -639,7 +616,7 @@ Lopinga achine,Lopinga achine,Nymphalidae,Pararge
 Lycaena dispar,Lycaena dispar,Lycaenidae,Lycaena
 Nymphalis polychloros,Nymphalis polychloros,Nymphalidae,Nymphalis
 Nymphalis vaualbum,Polygonia vaualbum,Nymphalidae,Polygonia
-Phyllonorycter gracilistylella,Phyllonorycter gracilistylella,Gracillariidae,Phyllonorycter
+Phyllocnistis gracilistylella,Phyllocnistis gracilistylella,Gracillariidae,Phyllocnistis
 Phyllonorycter viciae,Phyllonorycter viciae,Gracillariidae,Phyllonorycter
 Apatura iris,Apatura iris,Nymphalidae,Apatura
 Colias croceus,Colias croceus,Pieridae,Colias
@@ -666,7 +643,7 @@ Appias lyncida,Appias lyncida,Pieridae,Appias
 Ariadne ariadne,Ariadne ariadne,Nymphalidae,Ariadne
 Pieris canidia,Pieris canidia,Pieridae,Pieris
 Parathyma perius,Parathyma perius,Nymphalidae,Parathyma
-Balataea funeralis,Balataea funeralis,Zygaenidae,Artona
+Artona funeralis,Artona funeralis,Zygaenidae,Artona
 Borbo cinnara,Borbo cinnara,Hesperiidae,Borbo
 Luthrodes pandava,Luthrodes pandava,Lycaenidae,Luthrodes
 Chlumetia brevisigna,Chlumetia brevisigna,Euteliidae,Chlumetia
@@ -701,24 +678,19 @@ Dichrorampha montanana,Dichrorampha montanana,Tortricidae,Dichrorampha
 Neurostrota gunniella,Neurostrota gunniella,Gracillariidae,Neurostrota
 Callisto insperatella,Callisto insperatella,Gracillariidae,Callisto
 Phyllonorycter lantanella,Phyllonorycter lantanella,Gracillariidae,Phyllonorycter
-Argynnis niobe ,Fabriciana niobe,Nymphalidae,Fabriciana
+Argynnis niobe,Fabriciana niobe,Nymphalidae,Fabriciana
 Colias myrmidone,Colias myrmidone,Pieridae,Colias
 Spodoptera cilium,Spodoptera cilium,Noctuidae,Spodoptera
 Parapediasia teterrella,Parapediasia teterellus,Crambidae,Parapediasia
 Edales pandava,Edales pandava,Lycaenidae,Edales
 Pachliopta aristolochiae,Pachliopta aristolochiae,Papilionidae,Pachliopta
 Milionia basalis,Milionia basalis,Geometridae,Milionia
-Hasora badra badra,Hasora badra badra,Hesperiidae,Hasora
+Hasora badra,Hasora badra,Hesperiidae,Hasora
 Asota ficus,Asota ficus,Erebidae,Asota
 Chilades pandava,Edales pandava,Lycaenidae,Edales
-Ariadne ariadne pallidior,Ariadne ariadne pallidior,Nymphalidae,Ariadne
 Athyma perius,Parathyma perius,Nymphalidae,Parathyma
 Hestina assimilis,Hestina assimilis,Nymphalidae,Hestina
 Phalanta phalantha,Phalanta phalantha,Nymphalidae,Phalanta
-Pachiopta aristolochiae,Pachiopta aristolochiae,Papilionidae,Pachliopta
-Appias lyncida formosana,Appias lyncida formosana,Pieridae,Appias
-Artogeia canidia,Artogeia canidia,Pieridae,Pieris
-Leptosia nina niobe,Leptosia nina niobe,Pieridae,Leptosia
 Acherontia lachesis,Acherontia lachesis,Sphingidae,Acherontia
 Phyllonorycter pumilae,Phyllonorycter pumilae,Gracillariidae,Phyllonorycter
 Dichrorampha aeratana,Dichrorampha aeratana,Tortricidae,Dichrorampha
@@ -734,7 +706,6 @@ Malacosoma parallela,Malacosoma parallela,Lasiocampidae,Malacosoma
 Parectopa robiniella,Parectopa robiniella,Gracillariidae,Parectopa
 Melanargia russia,Melanargia japygia,Nymphalidae,Melanargia
 Coleophora frischella,Coleophora frischella,Coleophoridae,Coleophora
-Phyllonorycter mespilella ,Phyllonorycter mespilella,Gracillariidae,Phyllonorycter
 Phyllonorycter trifasciella,Phyllonorycter trifasciella,Gracillariidae,Phyllonorycter
 Spinipogon harmozones,Spinipogon harmozones,Tortricidae,Spinipogon
 Hypena opulenta,Hypena opulenta,Erebidae,Hypena
@@ -754,7 +725,7 @@ Aplocera efformata,Aplocera efformata,Geometridae,Aplocera
 Aplocera plagiata,Aplocera plagiata,Geometridae,Aplocera
 Macrorrhinia endonephele,Macrorrhinia endonephele,Pyralidae,Macrorrhinia
 Aristotelia ivae,Aristotelia ivae,Gelechiidae,Aristotelia
-Autoplusia illustrata,Autoplusia illustrata,Noctuidae,Autoplusia
+Notioplusia illustrata,Notioplusia illustrata,Noctuidae,Notioplusia
 Bombyx mori,Bombyx mori,Bombycidae,Bombyx
 Bradyrrhoa gilveolella,Bradyrrhoa gilveolella,Pyralidae,Bradyrrhoa
 Bucculatrix gossypii,Bucculatrix gossypii,Bucculatricidae,Bucculatrix
@@ -834,7 +805,7 @@ Thymelicus lineola,Thymelicus lineola,Hesperiidae,Thymelicus
 Tongeia filicaudis,Tongeia filicaudis,Lycaenidae,Tongeia
 Achyra affinitalis,Achyra affinitalis,Crambidae,Achyra
 Acleris comariana,Acleris comariana,Tortricidae,Acleris
-Acrocercops alysidota,Acrocercops alysidota,Gracillariidae,Acrocercops
+Gracilaria alysidota,Parectopa alysidota,Gracillariidae,Parectopa
 Acrocercops laciniella,Acrocercops laciniella,Gracillariidae,Acrocercops
 Aglossa pinguinalis,Aglossa pinguinalis,Pyralidae,Aglossa
 Agonopterix assimillella,Agonopterix assimilella,Depressariidae,Agonopterix
@@ -885,7 +856,7 @@ Lepidoscia protorna,Lepidoscia protorna,Psychidae,Lepidoscia
 Leptocroca sanguinolenta,Leptocroca sanguinolenta,Oecophoridae,Leptocroca
 Limenitis glorifica,Ladoga camilla,Nymphalidae,Ladoga
 Macarostola ida,Macarostola ida,Gracillariidae,Macarostola
-Monochroa leptocrossa,Monochroa leptocrossa,Gelechiidae,Monochroa
+Aristotelia leptocrossa,Monochroa hornigi,Gelechiidae,Monochroa
 Monopis argillacea,Monopis argillacea,Tineidae,Monopis
 Monopis ethelella,Monopis ethelella,Tineidae,Monopis
 Morosaphycita oculiferella,Morosaphycita oculiferella,Pyralidae,Morosaphycita
@@ -929,7 +900,6 @@ Zomariana doxasticana,Zomariana doxasticana,Tortricidae,Zomariana
 Aristaea thalassias,Aristaea thalassias,Gracillariidae,Aristaea
 Carposina autologa,Carposina autologa,Carposinidae,Carposina
 Pareuchaetes insulata,Pareuchaetes insulata,Erebidae,Pareuchaetes
-Orgyia antiqua,Orgyia antiqua,Erebidae,Orgyia
 Palpita persimilis,Palpita persimilis,Crambidae,Palpita
 Oiketicus kirbyi,Oiketicus kirbyi,Psychidae,Oiketicus
 Achyra similalis,Achyra similalis,Crambidae,Achyra
@@ -1010,9 +980,6 @@ Chloroclystis laticostata,Chloroclystis laticostata,Geometridae,Chloroclystis
 Platyptilia isodactylus,Platyptilia isodactylus,Pterophoridae,Platyptilia
 Chloroclystis insigillata,Chloroclystis insigillata,Geometridae,Chloroclystis
 Stathmopoda auriferella,Stathmopoda auriferella,Stathmopodidae,Stathmopoda
-Spilonota macropetana,Spilonota macropetana,Tortricidae,Spilonota
-Syllepte derogata,Syllepte derogata,Crambidae,Syllepte
-Sameodes albiguttalis,Sameodes albiguttalis,Crambidae,Sameodes
 Acalyptris platani,Acalyptris platani,Nepticulidae,Acalyptris
 Sibine apicalis,Sibine apicalis,Limacodidae,Sibine
 Acleris undulana,Acleris undulana,Tortricidae,Acleris
@@ -1116,7 +1083,6 @@ Oegoconia novimundi,Oegoconia quadripuncta,Autostichidae,Oegoconia
 Hadena compta,Hadena compta,Noctuidae,Hadena
 Haplochrois theae,Haplochrois theae,Elachistidae,Haplochrois
 Haplotinea insectella,Haplotinea insectella,Tineidae,Haplotinea
-Hasora badra,Hasora badra,Hesperiidae,Hasora
 Heringocrania unimaculella,Heringocrania unimaculella,Eriocraniidae,Heringocrania
 Hipparchia statilinus,Hipparchia statilinus,Nymphalidae,Hipparchia
 Homadaula albizziae,Homadaula anisocentra,Galacticidae,Homadaula
@@ -1138,7 +1104,7 @@ Neurothaumasia ankerella,Neurothaumasia ankerella,Tineidae,Neurothaumasia
 Nymphula crisonalis,Parapoynx crisonalis,Crambidae,Parapoynx
 Nymphula enixalis,Elophila difflualis,Crambidae,Elophila
 Nymphula manilensis,Nymphula manilensis,Crambidae,Nymphula
-Nymphula responsalis,Nymphula responsalis,Crambidae,Nymphula
+Elophila responsalis,Elophila responsalis,Crambidae,Elophila
 Ocnerostoma friesei,Ocnerostoma friesei,Yponomeutidae,Ocnerostoma
 Oligostigma polydectalis,Oligostigma polydectalis,Crambidae,Oligostigma
 Orgyia turbata,Clethrogyna turbata,Erebidae,Clethrogyna
@@ -1147,8 +1113,7 @@ Phtheochroa pulvillana,Phtheochroa pulvillana,Tortricidae,Phtheochroa
 Phyllonorycter geniculella,Phyllonorycter geniculella,Gracillariidae,Phyllonorycter
 Phyllonorycter robiniella,Macrosaccus robiniella,Gracillariidae,Macrosaccus
 Panolis flammea,Panolis flammea,Noctuidae,Panolis
-Parallelia palumba,Parallelia palumba,Erebidae,Parallelia
-Paraponyx diminulatis,Paraponyx diminulatis,Crambidae,Paraponyx
+Parapoynx diminulatis,Parapoynx diminutalis,Crambidae,Parapoynx
 Pardasena virgulana,Pardasena virgulana,Nolidae,Pardasena
 Phobetron hipparchia,Phobetron hipparchia,Limacodidae,Phobetron
 Phycita diaphana,Phycita diaphana,Pyralidae,Phycita
@@ -1199,7 +1164,6 @@ Earias cupreoviridis,Earias cupreoviridis,Nolidae,Earias
 Eldana saccharina,Eldana saccharina,Pyralidae,Eldana
 Eupalamides cyparissias,Eupalamides cyparissias,Castniidae,Eupalamides
 Exelastis atomosa,Exelastis atomosa,Pterophoridae,Exelastis
-Diaphania pyloalis,Diaphania pyloalis,Crambidae,Diaphania
 Leucinodes laisalis,Leucinodes laisalis,Crambidae,Leucinodes
 Megastes grandalis,Megastes grandalis,Crambidae,Megastes
 Megastes pusialis,Megastes pusialis,Crambidae,Megastes
@@ -1224,7 +1188,6 @@ Archips podana,Archips podana,Tortricidae,Archips
 Bathytricha truncata,Bathytricha truncata,Noctuidae,Bathytricha
 Busseola fusca,Busseola fusca,Noctuidae,Busseola
 Parapoynx polydectalis,Parapoynx polydectalis,Crambidae,Parapoynx
-Paramyelois transitella,Paramyelois transitella,Pyralidae,Amyelois
 Lozotaenia cedrivora,Lozotaenia cedrivora,Tortricidae,Lozotaenia
 Epinotia algeriensis,Epinotia algeriensis,Tortricidae,Epinotia
 Pseudarenipses insularum,Pseudarenipses insularum,Pyralidae,Pseudarenipses
@@ -1256,7 +1219,6 @@ Idaea bonifata,Idaea bonifata,Geometridae,Idaea
 Kirinia roxelana,Kirinia roxelana,Nymphalidae,Kirinia
 Laspeyresia milleniana,Cydia millenniana,Tortricidae,Cydia
 Nemapogon gerasimovi,Nemapogon gerasimovi,Tineidae,Nemapogon
-Ptycholoma peritana,Ptycholoma peritana,Tortricidae,Ptycholoma
 Pyroderces argyrogrammos,Pyroderces argyrogrammos,Cosmopterigidae,Pyroderces
 Sciota marmorata,Sciota marmorata,Pyralidae,Sciota
 Stigmella heringella,Ectoedemia heringella,Nepticulidae,Ectoedemia
@@ -1338,7 +1300,7 @@ Depressaria daucella,Depressaria apiella,Depressariidae,Depressaria
 Dichomeris ligulella,Dichomeris ligulella,Gelechiidae,Dichomeris
 Dichomeris marginella,Dichomeris marginella,Gelechiidae,Dichomeris
 Dichomeris picrocarpa,Dichomeris picrocarpa,Gelechiidae,Dichomeris
-Dicranoctetes saccharella,Dicranoctetes saccharella,Elachistidae,Elachista
+Elachista saccharella,Elachista saccharella,Elachistidae,Elachista
 Digrammia hebetata,Digrammia rippertaria,Geometridae,Digrammia
 Dinumma deponens,Dinumma deponens,Erebidae,Dinumma
 Ecpyrrhorrhoe puralis,Mimudea puralis,Crambidae,Mimudea
@@ -1405,7 +1367,6 @@ Syngrapha interrogationis,Syngrapha interrogationis,Noctuidae,Syngrapha
 Tathorhynchus exsiccata,Tathorhynchus exsiccata,Noctuidae,Tathorhynchus
 Thecla limenia,Thecla limenia,Lycaenidae,Thecla
 Thera juniperata,Thera juniperata,Geometridae,Thera
-Tuerta hemicycla,Tuerta hemicycla,Noctuidae,Tuerta
 Tyta luctuosa,Tyta luctuosa,Erebidae,Tyta
 Urbanus dorantes,Urbanus dorantes,Hesperiidae,Urbanus
 Xestia c-nigrum,Xestia c-nigrum,Noctuidae,Xestia
@@ -1417,7 +1378,6 @@ Ypsolopha dentella,Ypsolopha dentella,Ypsolophidae,Ypsolopha
 Ypsolopha ustella,Ypsolophus ustella,Plutellidae,Ypsolophus
 Aristaea onychota,Aristaea onychota,Gracillariidae,Aristaea
 Homeosoma stenotea,Homoeosoma stenotea,Pyralidae,Homoeosoma
-Agonopterix alstromeriana,Agonopterix alstromeriana,Depressariidae,Agonopterix
 Cizara ardeniae,Cizara ardeniae,Sphingidae,Cizara
 Heteroteucha dichroella,Heteroteucha dichroella,Oecophoridae,Heteroteucha
 Orgyia thyellina,Orgyia thyellina,Erebidae,Orgyia
@@ -1430,7 +1390,6 @@ Ethmia bipuctella,Ethmia bipunctella,Ethmiidae,Ethmia
 Homadaula anisocentra,Homadaula anisocentra,Galacticidae,Homadaula
 Chrysoesthia sexgutella,Chrysoesthia sexguttella,Gelechiidae,Chrysoesthia
 Mirificarma eburnella,Mirificarma eburnella,Gelechiidae,Mirificarma
-Mirificarma formosella,Mirificarma formosella,Gelechiidae,Mirificarma
 Chloroclystis rectangulata,Pasiphila rectangulata,Geometridae,Pasiphila
 Eulithus mellinata,Eulithis mellinata,Geometridae,Eulithis
 Semiothisa hebesata,Chiasmia hebesata,Geometridae,Chiasmia
@@ -1446,13 +1405,10 @@ Pseudoplusia includens,Acontia margaritata,Noctuidae,Acontia
 Xestia adela,Xestia c-nigrum,Noctuidae,Xestia
 Cheimophila salicella,Dasystoma salicella,Lypusidae,Dasystoma
 Dafa formosella,Callima formosella,Oecophoridae,Callima
-Hoffmanophila pseudospretella,Hoffmanophila pseudospretella,,
 Cnaemidophorus rhododactylus,Cnaemidophorus rhododactyla,Pterophoridae,Cnaemidophorus
 Anagasta kuehniella,Ephestia kuehniella,Pyralidae,Ephestia
-Diatreae saccharalis,Diatreae saccharalis,,
 Ephestia cautella,Cadra cautella,Pyralidae,Cadra
 Eurrhypara hortulata,Anania hortulata,Crambidae,Anania
-Loxostege stricticalis,Loxostege stricticalis,Crambidae,Loxostege
 Vogtia malloi,Arcola malloi,Pyralidae,Arcola
 Monopis ferruginella,Monopis obviella,Tineidae,Monopis
 Auratonota dominica,Auratonota dominica,Tortricidae,Auratonota
@@ -1465,7 +1421,6 @@ Dichrorampha vancouverana,Dichrorampha vancouverana,Tortricidae,Dichrorampha
 Epiblema cynosbatella,Notocelia cynosbatella,Tortricidae,Notocelia
 Epinotia solandriana,Epinotia solandriana,Tortricidae,Epinotia
 Eucosmomorpha albersana,Eucosmomorpha albersana,Tortricidae,Eucosmomorpha
-Pardia cynosbatella,Pardia cynosbatella,,
 Rhopobota unipuntana,Rhopobota naevana,Tortricidae,Rhopobota
 Sparganothis pilleriana,Sparganothis pilleriana,Tortricidae,Sparganothis
 Spilonota lariciana,Spilonota laricana,Tortricidae,Spilonota
@@ -1476,7 +1431,6 @@ Aglossa dimidiata,Aglossa dimidiatus,Pyralidae,Aglossa
 Margaritia sticticalis,Loxostege sticticalis,Crambidae,Loxostege
 Scripophaga incertulas,Scirpophaga incertulas,Crambidae,Scirpophaga
 Synanthedon tipuliforme,Synanthedon tipuliformis,Sesiidae,Synanthedon
-Anatrachyntis badia ,Anatrachyntis badia,Cosmopterigidae,Anatrachyntis
 Caradrina ingrata,Caradrina ingrata,Noctuidae,Caradrina
 Cydia milleniana,Cydia millenniana,Tortricidae,Cydia
 Cydia strobilella,Cydia strobilella,Tortricidae,Cydia
@@ -1486,15 +1440,11 @@ Pennisetia hylaeformis,Pennisetia hylaeiformis,Sesiidae,Pennisetia
 Polychrysia moneta,Polychrysia moneta,Noctuidae,Polychrysia
 Sclerocona acutellus,Sclerocona acutella,Crambidae,Calamochrous
 Sesamia nonagrioides,Sesamia nonagrioides,Noctuidae,Sesamia
-Paysandisia archon ,Paysandisia archon,Castniidae,Paysandisia
 Archips xylosteana,Archips xylosteana,Tortricidae,Archips
 Eugnosta chemsakiana,Eugnosta chemsakiana,Tortricidae,Eugnosta
 Thyraylia nana,Thyraylia nana,Tortricidae,Thyraylia
-Tuta absoluta ,Phthorimaea absoluta,Gelechiidae,Phthorimaea
 Batrachedra amydraula,Batrachedra amydraula,Batrachedridae,Batrachedra
 Galleria melonella,Galleria mellonella,Pyralidae,Galleria
-Cacyreus marshalli ,Cacyreus marshalli,Lycaenidae,Cacyreus
-Phyllonorycter vitegenella,Phyllonorycter vitegenella,Gracillariidae,Phyllonorycter
 Coptodisca lucifluella,Coptodisca lucifluella,Heliozelidae,Coptodisca
 Megalorhipida leucodactyla,Megalorhipida leucodactylus,Pterophoridae,Megalorhipida
 Phyllocnistis vitigenella,Phyllocnistis vitegenella,Gracillariidae,Phyllocnistis
@@ -1539,7 +1489,6 @@ Grapholitha delineana,Grapholita delineana,Tortricidae,Grapholita
 Grapholitha molesta,Grapholita molesta,Tortricidae,Grapholita
 Phthorimaea openculella,Phthorimaea operculella,Gelechiidae,Phthorimaea
 Erebia epiphron,Erebia epiphron,Nymphalidae,Erebia
-Chilo partellus ,Chilo partellus,Crambidae,Chilo
 Trilocha varians,Trilocha varians,Bombycidae,Trilocha
 Anomis sabulifera,Anomis sabulifera,Erebidae,Anomis
 Trichoplusia vittata,Vittaplusia vittata,Noctuidae,Vittaplusia
@@ -1581,13 +1530,6 @@ Uripao albizonata,Uripao albizonata,Erebidae,Uripao
 Aproaerema modicella,Aproaerema modicella,Gelechiidae,Aproaerema
 Aproaerema simplixella,Aproaerema simplexella,Gelechiidae,Aproaerema
 Pareuchaetes aurata,Pareuchaetes aurata,Erebidae,Pareuchaetes
-Aglossa dimidiata,Aglossa dimidiatus,Pyralidae,Aglossa
-Daphnis nerii,Daphnis nerii,Sphingidae,Daphnis
-Doloessa viridis,Doloessa viridis,Pyralidae,Doloessa
-Ephestia elutella,Ephestia elutella,Pyralidae,Ephestia
-Erionota torus,Erionota torus,Hesperiidae,Erionota
-Hyphantria cunea,Hyphantria cunea,Erebidae,Hyphantria
-Pieris brassicae,Pieris brassicae,Pieridae,Pieris
 Symbrenthia lilaea,Symbrenthia hypselis,Nymphalidae,Symbrenthia
 Leucimodes orbonalis,Leucinodes orbonalis,Crambidae,Leucinodes
 Nemapogon granellus,Nemapogon granella,Tineidae,Nemapogon
