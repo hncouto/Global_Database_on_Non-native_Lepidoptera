@@ -293,6 +293,7 @@ Ptichodis immunis;Ptichodis immunis;Ptichodis;Erebidae;0
 Spodoptera androgea;Spodoptera androgea;Spodoptera;Noctuidae;0
 Sporylus cubensis;Scorylus cubensis;Scorylus;Pyralidae;0
 Strymon limenia;Thecla limenia;Thecla;Lycaenidae;1
+Stylopalpis lunigerella;Stylopalpia luniferella;Stylopalpia;Pyralidae;0
 Urania fulgens;Urania fulgens;Urania;Uraniidae;0
 Crocidosema lantana;Crocidosema lantana;Crocidosema;Tortricidae;0
 Brephidium exilis;Brephidium exilis;Brephidium;Lycaenidae;1
@@ -478,7 +479,7 @@ Imma mylias;Imma mylias;Imma;Immidae;0
 Ithome concolorella;Periploca orichalcella;Periploca;Cosmopterigidae;0
 Ithome lassula;Ithome lassula;Ithome;Cosmopterigidae;0
 Leucania insecuta;Leucania obsoleta;Leucania;Noctuidae;0
-Mythimna loreyimima;Leucania loreyimima;Leucania;Noctuidae;0
+Mythimna loreyimima;Leucania stenographa;Leucania;Noctuidae;0
 Leucania scottii;Leucania scottii;Leucania;Noctuidae;0
 Leucania striata;Leucania striata;Leucania;Noctuidae;0
 Lindera tessellatella;Lindera tessellatella;Lindera;Tineidae;0
@@ -579,7 +580,7 @@ Stictoptera poecilosoma;Stictoptera poecilosoma;Stictoptera;Euteliidae;0
 Trachylepidia fructicassiella;Trachylepidia fructicassiella;Trachylepidia;Pyralidae;0
 Nyctemera apicalis;Nyctemera apicalis;Nyctemera;Erebidae;0
 Dichomeris acuminata;Dichomeris acuminatus;Dichomeris;Gelechiidae;0
-Mythimna obsoleta;Mythimna prominens;Mythimna;Noctuidae;0
+Mythimna obsoleta;Leucania obsoleta;Leucania;Noctuidae;0
 Neogalea esula;Neogalea sunia;Neogalea;Noctuidae;0
 Selca brunella;Manoba brunellus;Manoba;Nolidae;0
 Anstenoptilia marmorodactyla;Anstenoptilia marmorodactyla;Anstenoptilia;Pterophoridae;0
@@ -1062,6 +1063,7 @@ Ditula angustiorana;Ditula angustiorana;Ditula;Tortricidae;0
 Earias ansorgei;Earias ansorgei;Earias;Nolidae;0
 Elophila nymphaeata;Elophila nymphaeata;Elophila;Crambidae;0
 Emmelina monodactyla;Emmelina monodactyla;Emmelina;Pterophoridae;0
+Eodiatraea rufescens;Diatraea rufescens;Diatraea;Crambidae;0
 Ephestia unicolorella;Ephestia unicolorella;Ephestia;Pyralidae;0
 Epinotia fraternana;Epinotia fraternana;Epinotia;Tortricidae;0
 Epinotia laracana;Epinotia celtisana;Epinotia;Tortricidae;0
@@ -1359,7 +1361,7 @@ Sesia apiformis;Sesia apiformis;Sesia;Sesiidae;0
 Sitochroa palealis;Sitochroa palealis;Sitochroa;Crambidae;0
 Stenolechia bathrodyas;Stenolechia bathrodyas;Stenolechia;Gelechiidae;0
 Stylopalpia luniferella;Stylopalpia luniferella;Stylopalpia;Pyralidae;0
-Swammerdamia caesiella;Swammerdamia lutarea;Swammerdamia;Yponomeutidae;0
+Swammerdamia caesiella;Paraswammerdamia lutarea;Paraswammerdamia;Yponomeutidae;0
 Swammerdamia pyrella;Swammerdamia pyrella;Swammerdamia;Yponomeutidae;0
 Symmetrischema capsica;Symmetrischema capsica;Symmetrischema;Gelechiidae;0
 Syngrapha interrogationis;Syngrapha interrogationis;Syngrapha;Noctuidae;0
@@ -1425,7 +1427,7 @@ Rhopobota unipuntana;Rhopobota naevana;Rhopobota;Tortricidae;0
 Sparganothis pilleriana;Sparganothis pilleriana;Sparganothis;Tortricidae;0
 Spilonota lariciana;Spilonota laricana;Spilonota;Tortricidae;0
 Paraswammerdamia lutarea;Paraswammerdamia lutarea;Paraswammerdamia;Yponomeutidae;0
-Swammerdamia lutaria;Swammerdamia lutarea;Swammerdamia;Yponomeutidae;0
+Swammerdamia lutaria;Paraswammerdamia lutarea;Paraswammerdamia;Yponomeutidae;0
 Coleophora anatipennella;Coleophora anatipennella;Coleophora;Coleophoridae;0
 Aglossa dimidiata;Aglossa dimidiatus;Aglossa;Pyralidae;0
 Margaritia sticticalis;Loxostege sticticalis;Loxostege;Crambidae;0
@@ -1575,7 +1577,6 @@ Leucania obsoleta;Leucania obsoleta;Leucania;Noctuidae;0
 Pectinophora fusculella;Pectinophora fusculella;Pectinophora;Gelechiidae;0
 Thecla megarus;Thecla megarus;Thecla;Lycaenidae;1
 Ancylis impatiens;Ancylis impatiens;Ancylis;Tortricidae;0
-Mythimna prominens;Mythimna prominens;Mythimna;Noctuidae;0
 Ochlodes venata;Ochlodes venata;Ochlodes;Hesperiidae;1
 Polygonia vaualbum;Polygonia vaualbum;Polygonia;Nymphalidae;1
 Limenitis reducta;Limenitis reducta;Limenitis;Nymphalidae;1
@@ -1596,6 +1597,7 @@ Depressaria discipunctella;Depressaria discipunctella;Depressaria;Depressariidae
 Cydia saltitans;Cydia saltitans;Cydia;Tortricidae;0
 Schiffermuelleria amasiella;Schiffermuelleria amasiella;Schiffermuelleria;Oecophoridae;0
 Syndemis cedricola;Syndemis cedricola;Syndemis;Tortricidae;0
+Diatraea rufescens;Diatraea rufescens;Diatraea;Crambidae;0
 Epinotia celtisana;Epinotia celtisana;Epinotia;Tortricidae;0
 Chaliopsis junodi;Chaliopsis junodi;Chaliopsis;Psychidae;0
 Clethrogyna turbata;Clethrogyna turbata;Clethrogyna;Erebidae;0
@@ -1613,7 +1615,6 @@ Incurvaria rubiella;Incurvaria rubiella;Incurvaria;Incurvariidae;0
 Lamprosema chagosalis;Lamprosema chagosalis;Lamprosema;Crambidae;0
 Anchoscelis lunosa;Anchoscelis lunosa;Anchoscelis;Noctuidae;0
 Mocis conveniens;Mocis conveniens;Mocis;Erebidae;0
-Swammerdamia lutarea;Paraswammerdamia lutarea;Paraswammerdamia;Yponomeutidae;0
 Yponomeuta cagnagellus;Yponomeuta cagnagellus;Yponomeuta;Yponomeutidae;0
 Ypsolophus ustella;Ypsolophus ustella;Ypsolophus;Plutellidae;0
 Homoeosoma stenotea;Homoeosoma stenotea;Homoeosoma;Pyralidae;0
