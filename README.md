@@ -24,11 +24,14 @@ pandas; sqlite3; os
 
 ### Base Install and Run Locally
 
-Clone Repository and then (optional) delete: TaxonomyRaw.csv and all files under Database Tables folder.
 
-If you don't have any of the packages and libvraries required first run the install_libs.ipynb
+Clone Repository and then (optional) delete: all files under Transformed Data and Database Tables folders.
 
-Run TaxonomyExtract.ipynb notebook and then DatabaseCreation.ipynb
+If you don't have any of the packages and libraries required first run the RequiredLibs.ipynb
+
+Run DataCleaning.ipynb notebook to start from 0, cleaning the data present in the Data Raw folder. (If you chose to not delete all files under Transformed Data and Database Tables folders you can ignore this step). 
+
+Run DatabaseCreation.ipynb
 
 
 ## How to Use the Project
