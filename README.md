@@ -1,6 +1,6 @@
-# Established Non-native Lepidoptera Worldwide Database
+# Worldwide Database on Non-native Lepidoptera (WDNnL) 
 
-Repository for the code on the development of the Established Non-native Lepidoptera Worldwide Database. 
+Repository for the code on the development of the Worldwide Database on Non-native Lepidoptera. 
 
 
 ## Overview
