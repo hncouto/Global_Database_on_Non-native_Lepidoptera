@@ -123,3 +123,32 @@ async def VNF_Sessions_1(species_list):
 
 def VNF_Extractor_1(species_list):
     return asyncio.get_event_loop().run_until_complete(VNF_Sessions_1(species_list))
+
+# 4) Data Cleaning Process
+
+# 4.1) Observation Data
+# Before doing the standardization we kept only the first two words on the *Species* field to keep only the "Genus + Specific Epithet", dropping any possible subspecies that had been recorded and any case that was not identified to the species level.
+# We also cleaned encoding and formatting issues (such as *¬†* characters) that could be present based on different file types.
+
+ObsList['Species'] = ObsList['Species'].apply(lambda x: ' '.join(x.split()[:2]))
+ObsList = ObsList[~ObsList['Species'].str.contains(r'\bsp\.$', case=False, na=False)]
+ObsList = ObsList[~ObsList['Species'].str.contains(r'\bnr\.$', case=False, na=False)]
+ObsList['Species'] = (ObsList['Species'].str.normalize('NFKC').str.replace(r'[^\x00-\x7F]+', ' ', regex=True).str.replace(r'\s+', ' ', regex=True).str.strip())
+
+ObsList['AcceptedSpecies'] = GBIF_Extractor_2(VNF_Extractor_1(GBIF_Extractor_1(ObsList['Species'])))
+ObsList['AcceptedSpecies'] = ObsList['AcceptedSpecies'].apply(lambda x: ' '.join(x.split()[:2]) if isinstance(x, str) else x)
+
+ObsList[ObsList['AcceptedSpecies'].isna()]['Species'].unique()
+ObsList[ObsList['AcceptedSpecies'].isna()].shape[0]
+
+# Considering that there were only 23 taxonomy cases, corresponding to only 28 records, that could not be resolved by the applied methodology it was opted to drop these cases. 
+
+ObservationsClean = ObsList.copy()
+ObservationsClean.dropna(subset=['AcceptedSpecies'], inplace=True)
+ObservationsClean[ObservationsClean['AcceptedSpecies'].isna()]
+
+ObservationsClean.reset_index(drop=True, inplace=True)
+ObservationsClean.to_csv(r'../Transformed Data/RecordsClean.csv', sep =';', encoding='utf-8', index=False)
+
+# 4.2) Native Distribution Data
+
