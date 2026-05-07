@@ -271,3 +271,12 @@ TaxonomyData['Lepidoptera'] = GBIF_Lepidoptera_Extract(TaxonomyData['Family'])  
 
 # 5.3.2) Manual Updates
 TaxonomyData[(TaxonomyData['Lepidoptera']==0)|(TaxonomyData['Lepidoptera'].isnull())] # Check which families were not identified as Lepidoptera
+# Manually correct the unidentified families of the genera to their correct family: Pyralidae and Riodinidae
+TaxonomyData.loc[TaxonomyData['Genus'] == 'Homoeographa', 'Family'] = 'Pyralidae' 
+TaxonomyData.loc[TaxonomyData['Genus'] == 'Calephelis', 'Family'] = 'Riodinidae'
+# As Saturniidae, Pyralidae and Riodinidae are all Lepidopterans and the remaining have been identified as such the cross-check column can be dropped as it is a constant for all.
+TaxonomyData.drop(columns=['Lepidoptera'], inplace=True)
+
+# 5.3.3) Export Observation Data Taxonomy Updated
+TaxonomyData.to_csv(r'../Transformed Data/Observation_TaxonomyClean.csv', index=False, sep=';', encoding='utf-8')
+
