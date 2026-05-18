@@ -152,7 +152,7 @@ ObservationsClean.to_csv(r'../Transformed Data/RecordsClean.csv', sep =';', enco
 
 #5) Extraction Taxonomy and References
 
-# 5.1) Rquired Data
+# 5.1) Required Data
 # ObservationsClean = pd.read_csv(r'../Transformed Data/RecordsClean.csv', sep=';', encoding="utf-8")
 
 ObsData = ObservationsClean.copy()
@@ -280,3 +280,10 @@ TaxonomyData.drop(columns=['Lepidoptera'], inplace=True)
 # 5.3.3) Export Observation Data Taxonomy Updated
 TaxonomyData.to_csv(r'../Transformed Data/Observation_TaxonomyClean.csv', index=False, sep=';', encoding='utf-8')
 
+# 5.4) Extract Data for Native Distribution
+
+Data_NativeExtract = ObsData[['AcceptedSpecies', 'Established']].copy()
+Data_NativeExtract = Data_NativeExtract[Data_NativeExtract['Established'] == 1].copy() # Keep only Established Species
+Data_NativeExtract = Data_NativeExtract[['AcceptedSpecies']].copy().drop_duplicates().reset_index(drop=True) # Keep a list of each Species
+
+Data_NativeExtract.to_csv(r'../Transformed Data/NativeDataExtract.csv', sep =';', encoding='utf-8', index=False)
