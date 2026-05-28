@@ -278,7 +278,7 @@ TaxonomyData.loc[TaxonomyData['Genus'] == 'Calephelis', 'Family'] = 'Riodinidae'
 TaxonomyData.drop(columns=['Lepidoptera'], inplace=True)
 
 # 5.3.3) Export Observation Data Taxonomy Updated
-TaxonomyData.to_csv(r'../Transformed Data/Observation_TaxonomyClean.csv', index=False, sep=';', encoding='utf-8')
+TaxonomyData.to_csv(r'../Transformed Data/TaxonomyClean.csv', index=False, sep=';', encoding='utf-8')
 
 # 5.4) Extract Data for Native Distribution
 

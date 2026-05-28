@@ -1,9 +1,5 @@
 # 1) Required Libraries
 
-import asyncio
-import nest_asyncio
-from tenacity import retry, wait_exponential, stop_after_attempt
-import aiohttp
 import pandas as pd
 
 # 2) Required Data
@@ -20,4 +16,9 @@ NativeData = pd.read_csv(r'../Data Raw/NativeData.csv', sep=';', encoding="utf-8
 
 # 3) Remove NA's
 
-NativeData[NativeData['Reference'].isna()]
+NativeData.dropna(subset=['Reference'], inplace=True)
+
+# 4) Exportation
+
+NativeData.reset_index(drop=True, inplace=True)
+NativeData.to_csv(r'../Transformed Data/NativeDataClean.csv', sep =';', encoding='utf-8', index=False)
