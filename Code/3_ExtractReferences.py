@@ -10,15 +10,18 @@ import pandas as pd #used to format the data on to the final schema and to work 
 ObsData = pd.read_csv(r'../Transformed Data/RecordsClean.csv', sep=';', encoding="utf-8")
 NativeData = pd.read_csv(r"../Transformed Data/NativeDataClean.csv", sep=";", encoding="utf-8")
 
-# 5) Extract References
+# 3) Extract References
 References = pd.concat([NativeData[["Reference", "ReferenceYear"]].copy(), ObsData[["Reference", "ReferenceYear"]].copy()]) # Merge the References in the Native and Records dataframes to create a single list of unique references
 
-# 5.1) Update Table
+# 3.1) Update Table
 References["Reference Year"] = References["ReferenceYear"].astype(int) # Convert ReferenceYear to integer
 References.drop(columns="ReferenceYear", inplace=True) # Drop the ReferenceYear column
 References.drop_duplicates(inplace=True) # Drop duplicates keeping a single entry for each Reference
 
-# 5.2) Export References table to import into the database
+# 3.2) Export References table to check if all references had the same format
 References.reset_index(drop=True, inplace=True)
-References.to_csv(r"../Transformed Data/ReferencesClean.csv", sep=";", encoding="utf-8", index=False)
+References.to_csv(r"../Transformed Data/ReferencesExtracted.csv", sep=";", encoding="utf-8", index=False)
+
+# 3.3) Re-import references to update them
+#References = pd.read_csv(r"../Raw Data/ReferencesExtracted.csv", sep=";", encoding="utf-8")
 

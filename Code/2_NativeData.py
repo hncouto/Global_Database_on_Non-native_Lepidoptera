@@ -5,6 +5,9 @@ import pandas as pd
 # 2) Required Data
 
 # All data was previously manually retrieved and fitted to a predefined schema.
+# This data corresponded to the species established recorded in the original data 
+# after passing through 1_ObservationData.py
+
 # For the Native data, here on after referred as *NativeData*, it corresponded to:
 # - Species: Species name as used on *Observation_TaxonomyClean*.
 # - Continent: The corresponding continent of origin of the species regarding the reference used.
