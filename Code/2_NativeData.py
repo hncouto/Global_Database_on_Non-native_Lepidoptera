@@ -15,7 +15,7 @@ import pandas as pd
 # - Reference Year: The year of the reference used to extract the data.
 # - Reference: The reference used to extract the data.
 
-NativeData = pd.read_csv(r'../Data Raw/NativeData.csv', sep=';', encoding="utf-8")
+NativeData = pd.read_csv(r'../Data Raw/Updated Data/NativeData.csv', sep=';', encoding="utf-8")
 
 # 3) Remove NA's
 
@@ -24,4 +24,4 @@ NativeData.dropna(subset=['Reference'], inplace=True)
 # 4) Exportation
 
 NativeData.reset_index(drop=True, inplace=True)
-NativeData.to_csv(r'../Transformed Data/NativeDataClean.csv', sep =';', encoding='utf-8', index=False)
+NativeData.to_csv(r'../Intermediate Data Tables/NativeDataClean.csv', sep =';', encoding='utf-8', index=False)

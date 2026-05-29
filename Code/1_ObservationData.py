@@ -148,7 +148,7 @@ ObservationsClean.dropna(subset=['AcceptedSpecies'], inplace=True)
 ObservationsClean[ObservationsClean['AcceptedSpecies'].isna()]
 
 ObservationsClean.reset_index(drop=True, inplace=True)
-ObservationsClean.to_csv(r'../Transformed Data/RecordsClean.csv', sep =';', encoding='utf-8', index=False)
+ObservationsClean.to_csv(r'../Intermediate Data Tables/RecordsClean.csv', sep =';', encoding='utf-8', index=False)
 
 #5) Extraction Taxonomy and References
 
@@ -286,4 +286,4 @@ Data_NativeExtract = ObsData[['AcceptedSpecies', 'Established']].copy()
 Data_NativeExtract = Data_NativeExtract[Data_NativeExtract['Established'] == 1].copy() # Keep only Established Species
 Data_NativeExtract = Data_NativeExtract[['AcceptedSpecies']].copy().drop_duplicates().reset_index(drop=True) # Keep a list of each Species
 
-Data_NativeExtract.to_csv(r'../Transformed Data/NativeDataExtract.csv', sep =';', encoding='utf-8', index=False)
+Data_NativeExtract.to_csv(r'../Intermediate Data Tables/NativeDataExtract.csv', sep =';', encoding='utf-8', index=False)
