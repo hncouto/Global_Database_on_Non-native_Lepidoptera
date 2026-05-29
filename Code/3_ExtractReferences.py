@@ -3,8 +3,8 @@
 import pandas as pd #used to format the data on to the final schema and to work with the dataframes.
 
 # 2) Required Data
-ObsData = pd.read_csv(r'../Transformed Data/RecordsClean.csv', sep=';', encoding="utf-8")
-NativeData = pd.read_csv(r"../Transformed Data/NativeDataClean.csv", sep=";", encoding="utf-8")
+ObsData = pd.read_csv(r'../Intermediate Data Tables/RecordsClean.csv', sep=';', encoding="utf-8")
+NativeData = pd.read_csv(r"../Intermediate Data Tables/NativeDataClean.csv", sep=";", encoding="utf-8")
 
 # 3) Extract References
 References = pd.concat([NativeData[["Reference", "ReferenceYear"]].copy(), ObsData[["Reference", "ReferenceYear"]].copy()]) # Merge the References in the Native and Records dataframes to create a single list of unique references

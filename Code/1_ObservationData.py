@@ -153,7 +153,7 @@ ObservationsClean.to_csv(r'../Intermediate Data Tables/RecordsClean.csv', sep ='
 #5) Extraction Taxonomy and References
 
 # 5.1) Required Data
-# ObservationsClean = pd.read_csv(r'../Transformed Data/RecordsClean.csv', sep=';', encoding="utf-8")
+# ObservationsClean = pd.read_csv(r'../Itermediate Data Tables/RecordsClean.csv', sep=';', encoding="utf-8")
 
 ObsData = ObservationsClean.copy()
 
