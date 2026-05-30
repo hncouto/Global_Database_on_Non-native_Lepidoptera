@@ -23,13 +23,13 @@ import pandas as pd #used to format the data on to the final schema and to work 
 # - Reference*: The source reference.
 # - ReferenceYear*: The year of the source reference, keeping in consideration that a species that was established at a certain point of time can now be eradicated.
 
-ObsList = pd.read_csv(r"../Data Raw/ObsList.csv", sep=";")
+RecordsList = pd.read_csv(r"../Data Raw/RecordsList.csv", sep=";")
 
 
 # 3) Taxonomy Standardization
 
 # The standardization of the taxonomy was done in 3 main steps: 
-# 1. GBIF Standardization: the raw names on ObsList were ran onto the GBIF API in a first instance to standardize according to what were considering as accepted names, keeping the names that were not considered as accepted.
+# 1. GBIF Standardization: the raw names on RecordsList were ran onto the GBIF API in a first instance to standardize according to what were considering as accepted names, keeping the names that were not considered as accepted.
 # 2. Global Names Verifier Standardization: to be assure that the most names were captured and that they could be standardized, removing possible false duplicates that were considered as accepted by GBIF as separate species while in fact being one species only, we repeated the process with Global Names Verifier API. 
 # 3. GBIF Filtration: After the 2 standardization steps we filtered keeping the accepted name as the one that was found for the standardization on GBIF.
 
@@ -130,32 +130,35 @@ def VNF_Extractor_1(species_list):
 # Before doing the standardization we kept only the first two words on the *Species* field to keep only the "Genus + Specific Epithet", dropping any possible subspecies that had been recorded and any case that was not identified to the species level.
 # We also cleaned encoding and formatting issues (such as *¬†* characters) that could be present based on different file types.
 
-ObsList['Species'] = ObsList['Species'].apply(lambda x: ' '.join(x.split()[:2]))
-ObsList = ObsList[~ObsList['Species'].str.contains(r'\bsp\.$', case=False, na=False)]
-ObsList = ObsList[~ObsList['Species'].str.contains(r'\bnr\.$', case=False, na=False)]
-ObsList['Species'] = (ObsList['Species'].str.normalize('NFKC').str.replace(r'[^\x00-\x7F]+', ' ', regex=True).str.replace(r'\s+', ' ', regex=True).str.strip())
+RecordsList['Species'] = RecordsList['Species'].apply(lambda x: ' '.join(x.split()[:2]))
+RecordsList = RecordsList[~RecordsList['Species'].str.contains(r'\bsp\.$', case=False, na=False)]
+RecordsList = RecordsList[~RecordsList['Species'].str.contains(r'\bnr\.$', case=False, na=False)]
+RecordsList['Species'] = (RecordsList['Species'].str.normalize('NFKC').str.replace(r'[^\x00-\x7F]+', ' ', regex=True).str.replace(r'\s+', ' ', regex=True).str.strip())
 
-ObsList['AcceptedSpecies'] = GBIF_Extractor_2(VNF_Extractor_1(GBIF_Extractor_1(ObsList['Species'])))
-ObsList['AcceptedSpecies'] = ObsList['AcceptedSpecies'].apply(lambda x: ' '.join(x.split()[:2]) if isinstance(x, str) else x)
+RecordsList['AcceptedSpecies'] = GBIF_Extractor_2(VNF_Extractor_1(GBIF_Extractor_1(RecordsList['Species'])))
+RecordsList['AcceptedSpecies'] = RecordsList['AcceptedSpecies'].apply(lambda x: ' '.join(x.split()[:2]) if isinstance(x, str) else x)
 
-ObsList[ObsList['AcceptedSpecies'].isna()]['Species'].unique()
-ObsList[ObsList['AcceptedSpecies'].isna()].shape[0]
+RecordsList[RecordsList['AcceptedSpecies'].isna()]['Species'].unique()
+RecordsList[RecordsList['AcceptedSpecies'].isna()].shape[0]
 
 # Considering that there were only 23 taxonomy cases, corresponding to only 28 records, that could not be resolved by the applied methodology it was opted to drop these cases. 
 
-ObservationsClean = ObsList.copy()
-ObservationsClean.dropna(subset=['AcceptedSpecies'], inplace=True)
-ObservationsClean[ObservationsClean['AcceptedSpecies'].isna()]
+RecordsClean = RecordsList.copy()
+RecordsClean.dropna(subset=['AcceptedSpecies'], inplace=True)
+RecordsClean[RecordsClean['AcceptedSpecies'].isna()]
 
-ObservationsClean.reset_index(drop=True, inplace=True)
-ObservationsClean.to_csv(r'../Intermediate Data Tables/RecordsClean.csv', sep =';', encoding='utf-8', index=False)
+# Keep only records that have species - regions pairs where species has been introduced
+mask = (RecordsClean.groupby(['AcceptedSpecies', 'NAME_0'])['Introduced'].transform(lambda x: (x == 1).any()))
+RecordsClean = RecordsClean[mask].copy()
+
+# Export cleaned data
+RecordsClean.reset_index(drop=True, inplace=True)
+RecordsClean.to_csv(r'../Intermediate Data Tables/RecordsClean.csv', sep =';', encoding='utf-8', index=False)
 
 #5) Extraction Taxonomy and References
 
 # 5.1) Required Data
-# ObservationsClean = pd.read_csv(r'../Itermediate Data Tables/RecordsClean.csv', sep=';', encoding="utf-8")
-
-ObsData = ObservationsClean.copy()
+# RecordsClean = pd.read_csv(r'../Itermediate Data Tables/RecordsClean.csv', sep=';', encoding="utf-8")
 
 # 5.2) Functions
 
@@ -256,7 +259,7 @@ def GBIF_Lepidoptera_Extract(family_list):
 
 
 # 5.3) Extract Taxonomy
-TaxonomyData = ObsData[['Species', 'AcceptedSpecies']].copy().drop_duplicates().reset_index(drop=True) # Keep a list of each unique pair of Species and AcceptedSpecies
+TaxonomyData = RecordsClean[['Species', 'AcceptedSpecies']].copy().drop_duplicates().reset_index(drop=True) # Keep a list of each unique pair of Species and AcceptedSpecies
 TaxonomyData = pd.concat([TaxonomyData, 
                           pd.DataFrame({
                               'Species': list(set(TaxonomyData['AcceptedSpecies']) - set(TaxonomyData['Species'])),
@@ -282,7 +285,7 @@ TaxonomyData.to_csv(r'../Transformed Data/TaxonomyClean.csv', index=False, sep='
 
 # 5.4) Extract Data for Native Distribution
 
-Data_NativeExtract = ObsData[['AcceptedSpecies', 'Established']].copy()
+Data_NativeExtract = RecordsClean[['AcceptedSpecies', 'Established']].copy()
 Data_NativeExtract = Data_NativeExtract[Data_NativeExtract['Established'] == 1].copy() # Keep only Established Species
 Data_NativeExtract = Data_NativeExtract[['AcceptedSpecies']].copy().drop_duplicates().reset_index(drop=True) # Keep a list of each Species
 

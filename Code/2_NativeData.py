@@ -16,9 +16,14 @@ import pandas as pd
 # - Reference: The reference used to extract the data.
 
 NativeData = pd.read_csv(r'../Data Raw/Updated Data/NativeData.csv', sep=';', encoding="utf-8")
+Native_mask = pd.read_csv(r'../Intermediate Data Tables/NativeDataExtract.csv', sep=';', encoding="utf-8")
 
-# 3) Remove NA's
+# 3) Data Cleaning
 
+# 3.1) Keep only records for species that have been introduced
+NativeData = NativeData[NativeData['Species'].isin(Native_mask['AcceptedSpecies'])]
+
+# 3.2) Remove NA's
 NativeData.dropna(subset=['Reference'], inplace=True)
 
 # 4) Exportation

@@ -4,18 +4,18 @@ import pandas as pd #used to format the data on to the final schema and to work 
 
 # 2) Required Data
 
-ObsData = pd.read_csv(r'../Intermediate Data Tables/RecordsClean.csv', sep=';', encoding="utf-8")
+RecordsData = pd.read_csv(r'../Intermediate Data Tables/RecordsClean.csv', sep=';', encoding="utf-8")
 NativeData = pd.read_csv(r"../Intermediate Data Tables/NativeDataClean.csv", sep=";", encoding="utf-8")
 References = pd.read_csv(r"../Data Raw/Updated Data/RevisedRaferences.csv", sep=";", encoding="utf-8")
 Regions = pd.read_csv(r'../Data Raw/RegionsTableData.csv', sep=';', encoding='utf-8')
-#Realms = pd.read_csv(r'../Data Raw/RealmsTableData.csv', sep=';', encoding='utf-8')
+Realms = pd.read_csv(r'../Data Raw/RealmsTableData.csv', sep=';', encoding='utf-8')
 Taxonomy = pd.read_csv(r'../Transformed Data/TaxonomyClean.csv', sep=';', encoding='utf-8')
 
 # 3) Update References
 
-ObsData_merged = ObsData.merge(References, on=["Reference", "ReferenceYear"], how="left")
-ObsData_merged.drop(columns=["Reference", "ReferenceYear"], inplace=True)
-ObsData_merged.rename(columns={"RevisedReference": "BibliographicReference", "RevisedReferenceYear": "ReferenceYear"}, inplace=True)
+RecordsData_merged = RecordsData.merge(References, on=["Reference", "ReferenceYear"], how="left")
+RecordsData_merged.drop(columns=["Reference", "ReferenceYear"], inplace=True)
+RecordsData_merged.rename(columns={"RevisedReference": "BibliographicReference", "RevisedReferenceYear": "ReferenceYear"}, inplace=True)
 
 NativeData_merged = NativeData.merge(References, on=["Reference", "ReferenceYear"], how="left")
 NativeData_merged.drop(columns=["Reference", "ReferenceYear"], inplace=True)
@@ -28,14 +28,14 @@ UpdatedReferences.rename(columns={"RevisedReference": "BibliographicReference", 
 # 4) Organize Columns and Check names
 
 # 4.1 Observation Data
-ObsData_merged = ObsData_merged[
+RecordsData_merged = RecordsData_merged[
     ['Species','AcceptedSpecies',
     'NAME_0', 'Realm',
     'Cryptogenic', 'Dispersal', 'Eradicated', 'IntentionalRelease', 'Introduced', 'Established',
     'ReportedFirstYear',
     'BibliographicReference', 'ReferenceYear']].copy()
 
-ObsData_merged.rename(columns={'ReportedFirstYear': 'Year', 'NAME_0': 'AreaName'}, inplace=True)
+RecordsData_merged.rename(columns={'ReportedFirstYear': 'Year', 'NAME_0': 'AreaName'}, inplace=True)
 
 # 4.2) Regions Data
 Regions = Regions[['AreaID', 'AreaName', 'Country', 'Continent']].copy()
@@ -44,7 +44,7 @@ Regions = Regions[['AreaID', 'AreaName', 'Country', 'Continent']].copy()
 
 # 5.1) References
 
-References['ReferenceID'] = 'REF' + (References.index +1).astype(str) 
+UpdatedReferences['ReferenceID'] = 'REF' + (UpdatedReferences.index +1).astype(str) 
 # Creating the ReferenceID column, which will be used as the primary key for the References table. 
 # This code will make the IDs to start with REF1 and complete with the number of rows.
 
@@ -54,12 +54,17 @@ Taxonomy['SpeciesID'] = 'SP' + (Taxonomy.index +1).astype(str)
 # Creating the SpeciesID column, which will be used as the primary key for the Taxonomy table. 
 # This code will make the IDs to start with SP1 and complete with the number of rows.
 
+# 5.4) Realms
+Realms['RealmID'] = 'RLM' + (Realms.index +1).astype(str) 
+# Creating the RealmID column, which will be used as the primary key for the Realms table. 
+# This code will make the IDs to start with RLM1 and complete with the number of rows.
 
 # 5.3) Observations
 
-ObsData_final.reset_index(drop=True, inplace=True)
-
-Records_DB['RecordID'] = 'REC' + (Records_DB.index +1).astype(str) 
+RecordsData_merged.reset_index(drop=True, inplace=True)
+RecordsData_merged['RecordID'] = 'REC' + (RecordsData_merged.index +1).astype(str) 
+# Creating the RecordID column, which will be used as the primary key for the Observations table. 
+# This code will make the IDs to start with REC1 and complete with the number of rows.
 
 # 6) Link ID's and Keys
 
@@ -73,10 +78,83 @@ Taxonomy['AcceptedSpeciesID'] = Taxonomy['AcceptedSpecies'].map(species_to_id)
 Taxonomy_final = Taxonomy[['SpeciesID', 'AcceptedSpeciesID', 
                             'Family', 'Genus', 'Species']].copy()
 
+# 6.2) Observations
+
+# 6.2.1) AreaID
+RecordsData_Final = RecordsData_merged.merge(Regions, left_on='AreaName', right_on='AreaName', how='left') 
+# Merge with the Regions dataframe to attribute the respective AreaID
+RecordsData_Final.drop(columns=['AreaName', 'Country', 'Continent'], inplace=True) 
+# Drop the AreaName column and respective information keeping only the AreaID
+
+# 6.2.2) RealmID
+RecordsData_Final = RecordsData_Final.merge(Realms, left_on='Realm', right_on='Realm', how='left') 
+# Merge with the Realms dataframe to attribute the respective RealmID
+RecordsData_Final.drop(columns=['Realm'], inplace=True) 
+# Drop the Realm column and respective information keeping only the RealmID
+
+# 6.2.3) ReferenceID
+RecordsData_Final = RecordsData_Final.merge(UpdatedReferences, left_on='BibliographicReference', right_on='BibliographicReference', how='left') 
+# Merge with the UpdatedReferences dataframe to attribute the respective ReferenceID
+RecordsData_Final.drop(columns=['BibliographicReference', 'ReferenceYear_x', 'ReferenceYear_y'], inplace=True) 
+# Drop the BibliographicReference column and respective information keeping only the ReferenceID
+
+# 6.2.4) SpeciesID
+RecordsData_Final = RecordsData_Final.merge(Taxonomy, left_on='Species', right_on='Species', how='left') 
+# Merge with the Taxonomy dataframe to attribute the respective SpeciesID
+RecordsData_Final.drop(columns=['AcceptedSpeciesID', 'AcceptedSpecies_x', 'AcceptedSpecies_y','Family', 'Genus', 'Species'], inplace=True) 
+# Drop the AcceptedSpecies column and respective information keeping only the SpeciesID
+
+# 6.2.5) Reorder Columns
+RecordsData_Final = RecordsData_Final[['RecordID',
+    'SpeciesID',
+    'AreaID', 'RealmID', 
+    'Cryptogenic', 'IntentionalRelease', 'Introduced', 'Dispersal', 'Established', 'Eradicated', 'Year', 
+    'ReferenceID']].copy()
+
+# 6.3) References
+
+References_Final = UpdatedReferences[['ReferenceID', 'BibliographicReference', 'ReferenceYear']]
+References_Final["BibliographicReference"] = '"' + References_Final["BibliographicReference"].astype(str) + '"'
+References_Final["BibliographicReference"] = References_Final["BibliographicReference"].str.replace(",", "", regex=False)
+
+# 6.4) Natives
+Natives_DB = NativeData[['Species', 'Continent', 'Realm', 'Reference']].copy() 
+#Create a copy of the dataframe, organized and with the relevant columns, avoiding to repeat information
+Natives_DB.rename(columns={'Reference': 'BibliographicReference'}, inplace=True) 
+#Rename the column for merging and better readability
+
+# 6.4.1) Realms
+Natives_DB = Natives_DB.merge(Realms, on='Realm', how='left') #Merge with the Realms dataframe to attribute the respective RealmID
+Natives_DB.drop(columns='Realm', inplace=True) #Drop the Realm column keeping the RealmID
+
+# 6.4.2) Taxonomy
+Natives_DB = Natives_DB.merge(Taxonomy_final, on='Species', how='left')
+#Merge with the Taxonomy dataframe to attribute the respective SpeciesID
+Natives_DB.drop(columns=['Species', 'Genus', 'Family', 'AcceptedSpeciesID'], inplace=True)
+#Drop the Species column and respective information keeping only the SpeciesID
+
+# 6.4.3) References
+Natives_DB = Natives_DB.merge(UpdatedReferences, on='BibliographicReference', how='left')
+#Merge with the UpdatedReferences dataframe to attribute the respective ReferenceID
+Natives_DB.drop(columns=['BibliographicReference', 'ReferenceYear'], inplace=True)
+#Drop the BibliographicReference column and respective information keeping only the ReferenceID
+
+# 6.4.4) Reorder Columns
+Natives_DB = Natives_DB[['SpeciesID', 'Continent', 'RealmID', 'ReferenceID']]
+
 # 7) Exportation
+
+# 7.1) Clean Tables
 NativeData_merged.to_csv(r'../Transformed Data/NativesClean.csv', sep=';', index=False)
-ObsData_merged.to_csv(r'../Transformed Data/ObservationsClean.csv', sep=';', index=False)
+RecordsData_Final.to_csv(r'../Transformed Data/RecordsClean.csv', sep=';', index=False)
 UpdatedReferences.to_csv(r'../Transformed Data/ReferencesClean.csv', sep=';', index=False)
 Regions.to_csv(r'../Transformed Data/RegionsClean.csv', sep=';', index=False)
+Realms.to_csv(r'../Transformed Data/RealmsClean.csv', sep=';', index=False)
 
-Taxonomy_final.to_csv(r'../Database Tables/Base_Taxonomy.csv', sep=';', index=False)
+# 7.2) Database Tables
+Taxonomy_final.to_csv(r'../Database Tables/Base_Taxonomy.csv', sep=',', index=False)
+RecordsData_Final.to_csv(r'../Database Tables/Obs_Records_DB.csv', sep=',', index=False)
+Regions.to_csv(r'../Database Tables/Geography_Regions.csv', sep=',', index=False)
+Realms.to_csv(r'../Database Tables/Geography_Realms.csv', sep=',', index=False)
+References_Final.to_csv(r'../Database Tables/Base_References.csv', sep=',', index=False)
+Natives_DB.to_csv(r'../Database Tables/Obs_NativesDB.csv', sep=',', index=False)

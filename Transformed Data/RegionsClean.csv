@@ -1,0 +1,259 @@
+AreaID;AreaName;Country;Continent
+ATA.1_1;Antarctica;Antarctica;Antarctica
+NOR.2_1;Norway Antactic Islands;Norway;Antarctica
+FRA.4_1;French Antarctic Islands;France;Antarctica
+AUS.4_1;Australian Antarctic Territories;Australia;Antarctica
+GBR.2_1;British Antarctic Islands;United Kingdom;Antarctica
+DZA.1_1;Algeria;Algeria;Africa
+AGO.1_1;Angola;Angola;Africa
+BEN.1_1;Benin;Benin;Africa
+BWA.1_1;Botswana;Botswana;Africa
+BFA.1_1;Burkina Faso;Burkina Faso;Africa
+BDI.1_1;Burundi;Burundi;Africa
+CPV.1_1;Cabo Verde;Cabo Verde;Africa
+CMR.1_1;Cameroon;Cameroon;Africa
+CAF.1_1;Central African Republic;Central African Republic;Africa
+TCD.1_1;Chad;Chad;Africa
+COM.3_1;Comoros;Comoros;Africa
+CIV.1_1;Cote dIvoire;Cote dIvoire;Africa
+COD.1_1;Democratic Republic of the Congo;Democratic Republic of the Congo;Africa
+DJI.1_1;Djibouti;Djibouti;Africa
+EGY.1_1;Egypt;Egypt;Africa
+GNQ.2_1;Equatorial Guinea Islands;Equatorial Guinea;Africa
+GNQ.1_1;Equatorial Guinea;Equatorial Guinea;Africa
+ERI.1_1;Eritrea;Eritrea;Africa
+ETH.1_1;Ethiopia;Ethiopia;Africa
+FRA.3_1;French African Islands;France;Africa
+GAB.1_1;Gabon;Gabon;Africa
+GMB.1_1;Gambia;Gambia;Africa
+GHA1_1;Ghana;Ghana;Africa
+GBR.1_2;Gibraltar;United Kingdom;Africa
+GNB.1_1;Guinea-Bissau;Guinea-Bissau;Africa
+GNB.2_1;Guinea-Bissau African Islands;Guinea-Bissau;Africa
+GIN.1_1;Guinea;Guinea;Africa
+KEN.1_1;Kenya;Kenya;Africa
+LSO.1_1;Lesotho;Lesotho;Africa
+LBR.1_1;Liberia;Liberia;Africa
+LBY.1_1;Libya;Libya;Africa
+MDG.1_1;Madagascar;Madagascar;Africa
+MWI.1_1;Malawi;Malawi;Africa
+MLI.1_1;Mali;Mali;Africa
+MRT.1_1;Mauritania;Mauritania;Africa
+MUS.1_1;Mauritius;Mauritius;Africa
+MAR.1_1;Morocco;Morocco;Africa
+MOZ.1_1;Mozambique;Mozambique;Africa
+NAM.1_1;Namibia;Namibia;Africa
+NER.1_1;Niger;Niger;Africa
+NGA.1_1;Nigeria;Nigeria;Africa
+PRT.3_1;Madeira;Portugal;Africa
+COG.1_1;Republic of the Congo;Republic of the Congo;Africa
+RWA.1_1;Rwanda;Rwanda;Africa
+GBR.3_1;British African Islands;United Kingdom;Africa
+STP.1_1;Sao Tome and Principe;Sao Tome and Principe;Africa
+SEN.1_1;Senegal;Senegal;Africa
+SYC.1_1;Seychelles;Seychelles;Africa
+SLE.1_1;Sierra Leone;Sierra Leone;Africa
+SOM.1_1;Somalia;Somalia;Africa
+ZAF.1_1;South Africa;South Africa;Africa
+SSD.1_1;South Sudan;South Sudan;Africa
+ESP.1_2;Spanish North African Territory;Spain;Africa
+ESP.2_1;Canary Islands;Spain;Africa
+SDN.1_1;Sudan;Sudan;Africa
+SWZ.1_1;Swaziland;Swaziland;Africa
+TZA.1_1;Tanzania;Tanzania;Africa
+TZA.2_1;Tanzanian Islands;Tanzania;Africa
+TGO.1_1;Togo;Togo;Africa
+TUN.1_1;Tunisia;Tunisia;Africa
+UGA.1_1;Uganda;Uganda;Africa
+ESH.1_1;Western Sahara;Western Sahara;Africa
+ZMB.1_1;Zambia;Zambia;Africa
+ZWE.1_1;Zimbabwe;Zimbabwe;Africa
+AFG.1_1;Afghanistan;Afghanistan;Asia
+ARM.1_1;Armenia;Armenia;Asia
+AZE.1_1;Azerbaijan;Azerbaijan;Asia
+BHR.1_1;Bahrain;Bahrain;Asia
+BGD.1_1;Bangladesh;Bangladesh;Asia
+BTN.1_1;Bhutan;Bhutan;Asia
+GBR.7_1;British Asian Islands;United Kingdom;Asia
+BRN.1_1;Brunei;Brunei;Asia
+KHM.1_1;Cambodia;Cambodia;Asia
+XCA.1_1;Caspian Sea;Caspian Sea;Asia
+CHN.1_1;China;China;Asia
+CHN.2_1;Hainan;China;Asia
+CHN.3_1;Hong Kong and Macau;China;Asia
+AUS.5_1;Australian Asian Territories;Australia;Asia
+CYP.1_1;Cyprus;Cyprus;Asia
+GEO.1_1;Georgia;Georgia;Asia
+IND.2_1;Indian Asian Islands;India;Asia
+IND.1_1;India;India;Asia
+IRN.1_1;Iran;Iran;Asia
+IRQ.1_1;Iraq;Iraq;Asia
+ISR.1_1;Israel;Israel;Asia
+JPN.1_1;Japan;Japan;Asia
+JOR.1_1;Jordan;Jordan;Asia
+KAZ.1_1;Kazakhstan;Kazakhstan;Asia
+KWT.1_1;Kuwait;Kuwait;Asia
+KGZ.1_1;Kyrgyzstan;Kyrgyzstan;Asia
+LAO.1_1;Laos;Laos;Asia
+LBN.1_1;Lebanon;Lebanon;Asia
+MYS.1_1;Malaysia;Malaysia;Asia
+MDV.1_1;Maldives;Maldives;Asia
+MNG.1_1;Mongolia;Mongolia;Asia
+MMR.1_1;Myanmar;Myanmar;Asia
+NPL.1_1;Nepal;Nepal;Asia
+PRK.1_1;North Korea;North Korea;Asia
+OMN.1_1;Oman;Oman;Asia
+PAK.1_1;Pakistan;Pakistan;Asia
+PSE.1_1;Palestine;Palestine;Asia
+XPI.1_1;Paracel Islands;Paracel Islands;Asia
+PHL.1_1;Philippines;Philippines;Asia
+QAT.1_1;Qatar;Qatar;Asia
+RUS.1_2;Russia Asia;Russia;Asia
+SAU.1_1;Saudi Arabia;Saudi Arabia;Asia
+SGP.1_1;Singapore;Singapore;Asia
+KOR.1_1;South Korea;South Korea;Asia
+KOR.2_1;South Korean Islands;South Korea;Asia
+XSP.1_1;Spratly Islands;Spratly Islands;Asia
+LKA.1_1;Sri Lanka;Sri Lanka;Asia
+SYR.1_1;Syria;Syria;Asia
+TWN.1_1;Taiwan;Taiwan;Asia
+TJK.1_1;Tajikistan;Tajikistan;Asia
+THA.1_1;Thailand;Thailand;Asia
+TLS.1_1;Timor-Leste;Timor-Leste;Asia
+TUR.1_1;Turkey;Turkey;Asia
+TKM.1_1;Turkmenistan;Turkmenistan;Asia
+ARE.1_1;United Arab Emirates;United Arab Emirates;Asia
+UZB.1_1;Uzbekistan;Uzbekistan;Asia
+VNM.1_1;Vietnam;Vietnam;Asia
+YEM.1_1;Yemen;Yemen;Asia
+IDN.1_1;Indonesia;Indonesia;Asia
+AUS.2_1;Australian Islands;Australia;Australia
+AUS.1_1;Australia;Australia;Australia
+FRA.1_1;France;France;Europe
+FIN.2_1;Finland Islands;Finland;Europe
+ALB.1_1;Albania;Albania;Europe
+AND.1_1;Andorra;Andorra;Europe
+AUT.1_1;Austria;Austria;Europe
+BLR.1_1;Belarus;Belarus;Europe
+BEL.1_1;Belgium;Belgium;Europe
+BIH.1_1;Bosnia and Herzegovina;Bosnia and Herzegovina;Europe
+BGR.1_1;Bulgaria;Bulgaria;Europe
+HRV.1_1;Croatia;Croatia;Europe
+CZE.1_1;Czechia;Czechia;Europe
+DNK.1_1;Denmark;Denmark;Europe
+EST.1_1;Estonia;Estonia;Europe
+DNK.3_1;Denmark European Islands;Denmark;Europe
+FIN.1_1;Finland;Finland;Europe
+FRA.2_1;French European Islands;France;Europe
+DEU.1_1;Germany;Germany;Europe
+GRC.1_1;Greece;Greece;Europe
+GRC.2_1;Greece European Islands;Greece;Europe
+HUN.1_1;Hungary;Hungary;Europe
+ISL.1_1;Iceland;Iceland;Europe
+IRL.1_1;Ireland;Ireland;Europe
+ITA.1_1;Italy;Italy;Europe
+ITA.2_1;Sicily and Sardinia;Italy;Europe
+XKO.1_1;Kosovo;Kosovo;Europe
+LVA.1_1;Latvia;Latvia;Europe
+LIE.1_1;Liechtenstein;Liechtenstein;Europe
+LTU.1_1;Lithuania;Lithuania;Europe
+LUX.1_1;Luxembourg;Luxembourg;Europe
+MLT.1_1;Malta;Malta;Europe
+MDA.1_1;Moldova;Moldova;Europe
+MCO.1_1;Monaco;Monaco;Europe
+MNE.1_1;Montenegro;Montenegro;Europe
+NLD.1_1;Netherlands;Netherlands;Europe
+MKD.1_1;North Macedonia;North Macedonia;Europe
+NOR.1_1;Norway;Norway;Europe
+POL.1_1;Poland;Poland;Europe
+PRT.1_1;Portugal;Portugal;Europe
+PRT.2_1;Azores;Portugal;Europe
+ROU.1_1;Romania;Romania;Europe
+RUS.1_1;Russia Europe;Russia;Europe
+SMR.1_1;San Marino;San Marino;Europe
+SRB.1_1;Serbia;Serbia;Europe
+SVK.1_1;Slovakia;Slovakia;Europe
+SVN.1_1;Slovenia;Slovenia;Europe
+ESP.1_1;Spain;Spain;Europe
+ESP.3_1;Spanish European Islands;Spain;Europe
+NOR.3_1;Norway European Islands;Norway;Europe
+SWE.1_1;Sweden;Sweden;Europe
+SWE.2_1;Sweden European Islands;Sweden;Europe
+CHE.1_1;Switzerland;Switzerland;Europe
+UKR.1_1;Ukraine;Ukraine;Europe
+GBR.1_1;United Kingdom;United Kingdom;Europe
+VAT.1_1;Vatican City;Vatican City;Europe
+USA.4_1;US Oceania Micronesia Islands;United States;North America
+GBR.6_1;British North American Islands;United Kingdom;North America
+ATG.1_1;Antigua and Barbuda;Antigua and Barbuda;North America
+BHS.1_1;Bahamas;Bahamas;North America
+BRB.1_1;Barbados;Barbados;North America
+BLZ.1_1;Belize;Belize;North America
+NLD.2_1;Dutch North American Islands;Netherlands;North America
+CAN.1_1;Canada;Canada;North America
+FRA.5_1;French North American Islands;France;North America
+COL.2_1;North America Colombian Islands;Colombia;North America
+CRI.1_1;Costa Rica;Costa Rica;North America
+CUB.1_1;Cuba;Cuba;North America
+DMA.1_1;Dominica;Dominica;North America
+DOM.1_1;Dominican Republic;Dominican Republic;North America
+SLV.1_1;El Salvador;El Salvador;North America
+DNK.2_1;Greenland;Denmark;North America
+GRD.1_1;Grenada;Grenada;North America
+HTI.1_1;Haiti;Haiti;North America
+HND.1_1;Honduras;Honduras;North America
+HND.2_1;Honduran Islands;Honduras;North America
+JAM.1_1;Jamaica;Jamaica;North America
+MEX.1_1;Mexico;Mexico;North America
+NIC.1_1;Nicaragua;Nicaragua;North America
+PAN.1_1;Panama;Panama;North America
+USA.3_1;US North American Islands;United States;North America
+KNA.1_1;Saint Kitts and Nevis;Saint Kitts and Nevis;North America
+LCA.1_1;Saint Lucia;Saint Lucia;North America
+VCT.1_1;Saint Vincent and the Grenadines;Saint Vincent and the Grenadines;North America
+USA.1_1;United States;United States;North America
+USA.1_2;Alaska;United States;North America
+GTM.1_1;Guatemala;Guatemala;North America
+USA.5_1;US Polynesian Islands;United States;Oceania
+NZL.2_1;Cook Islands;New Zealand;Oceania
+FJI.1_1;Fiji;Fiji;Oceania
+FRA.6_1;French Polynesia;France;Oceania
+GUM.1_1;Guam;Guam;Oceania
+KIR.1_1;Kiribati;Kiribati;Oceania
+MHL.1_1;Marshall Islands;Marshall Islands;Oceania
+FSM.1_1;Micronesia;Micronesia;Oceania
+NRU.1_1;Nauru;Nauru;Oceania
+FRA.7_1;New Caledonia;France;Oceania
+NZL.1_1;New Zealand;New Zealand;Oceania
+NIU.1_1;Niue;Niue;Oceania
+AUS.3_1;Australian Oceania Territories;Australia;Oceania
+USA.6_1;US Oceania Micronesia Islands;United States;Oceania
+PLW.1_1;Palau;Palau;Oceania
+PNG.1_1;Papua New Guinea;Papua New Guinea;Oceania
+GBR.4_1;Pitcairn Islands;United Kingdom;Oceania
+WSM.1_1;Samoa;Samoa;Oceania
+SLB.1_1;Solomon Islands;Solomon Islands;Oceania
+TKL.1_1;Tokelau;Tokelau;Oceania
+TON.1_1;Tonga;Tonga;Oceania
+TUV.1_1;Tuvalu;Tuvalu;Oceania
+USA.2_1;Hawaii;United States;Oceania
+VUT.1_1;Vanuatu;Vanuatu;Oceania
+VEN.2_1;Venezuela Islands;Venezuela;South America
+ARG.1_1;Argentina;Argentina;South America
+ARG.2_1;Argntinian Islands;Argentina;South America
+NLD.3_1;Dutch South American Islands;Netherlands;South America
+BOL.1_1;Bolivia;Bolivia;South America
+BRA.1_1;Brazil;Brazil;South America
+CHL.1_1;Chile;Chile;South America
+COL.1_1;Colombia;Colombia;South America
+ECU.1_1;Ecuador;Ecuador;South America
+ECU.2_1;Galapagos;Ecuador;South America
+GBR.5_1;Falkland Islands;United Kingdom;South America
+FRA.8_1;French Guiana;France;South America
+GUY.1_1;Guyana;Guyana;South America
+PRY.1_1;Paraguay;Paraguay;South America
+PER.1_1;Peru;Peru;South America
+SUR.1_1;Suriname;Suriname;South America
+TTO.1_1;Trinidad and Tobago;Trinidad and Tobago;South America
+URY.1_1;Uruguay;Uruguay;South America
+VEN.1_1;Venezuela;Venezuela;South America

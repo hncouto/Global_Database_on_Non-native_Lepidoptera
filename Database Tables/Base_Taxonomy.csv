@@ -1,1471 +1,1308 @@
-SpeciesID;AcceptedSpeciesID;Species;AcceptedSpecies;Genus;Family
-SP1;SP1;Ostrinia nubilalis;Ostrinia nubilalis;Ostrinia;Crambidae
-SP2;SP1003;Zeiraphera diniana;Zeiraphera griseana;Zeiraphera;Tortricidae
-SP3;SP3;Plutella xylostella;Plutella xylostella;Plutella;Plutellidae
-SP4;SP4;Helicoverpa armigera;Helicoverpa armigera;Helicoverpa;Noctuidae
-SP5;SP5;Spodoptera exempta;Spodoptera exempta;Spodoptera;Noctuidae
-SP6;SP6;Coleophora deauratella;Coleophora deauratella;Coleophora;Coleophoridae
-SP7;SP7;Gymnandrosoma aurantianum;Gymnandrosoma aurantianum;Gymnandrosoma;Tortricidae
-SP8;SP8;Sitotroga cerealella;Sitotroga cerealella;Sitotroga;Gelechiidae
-SP9;SP9;Phyllocnistis citrella;Phyllocnistis citrella;Phyllocnistis;Gracillariidae
-SP10;SP10;Spodoptera litura;Spodoptera litura;Spodoptera;Noctuidae
-SP11;SP11;Pectinophora gossypiella;Pectinophora gossypiella;Pectinophora;Gelechiidae
-SP12;SP12;Phthorimaea absoluta;Phthorimaea absoluta;Phthorimaea;Gelechiidae
-SP13;SP13;Crocidosema plebejana;Crocidosema plebejana;Crocidosema;Tortricidae
-SP14;SP14;Spodoptera frugiperda;Spodoptera frugiperda;Spodoptera;Noctuidae
-SP15;SP15;Conogethes punctiferalis;Conogethes punctiferalis;Conogethes;Crambidae
-SP16;SP16;Agrotis ipsilon;Agrotis ipsilon;Agrotis;Noctuidae
-SP17;SP17;Erionota thrax;Erionota thrax;Erionota;Hesperiidae
-SP18;SP18;Carposina sasakii;Carposina sasakii;Carposina;Carposinidae
-SP19;SP19;Hyphantria cunea;Hyphantria cunea;Hyphantria;Erebidae
-SP20;SP20;Pieris rapae;Pieris rapae;Pieris;Pieridae
-SP21;SP21;Galleria mellonella;Galleria mellonella;Galleria;Pyralidae
-SP22;SP22;Grapholita molesta;Grapholita molesta;Grapholita;Tortricidae
-SP23;SP287;Pyroderces rileyi;Anatrachyntis rileyi;Anatrachyntis;Cosmopterigidae
-SP24;SP24;Phthorimaea operculella;Phthorimaea operculella;Phthorimaea;Gelechiidae
-SP25;SP25;Duponchelia fovealis;Duponchelia fovealis;Duponchelia;Crambidae
-SP26;SP26;Lymantria dispar;Lymantria dispar;Lymantria;Erebidae
-SP27;SP27;Orthotaenia undulana;Orthotaenia undulana;Orthotaenia;Tortricidae
-SP28;SP28;Cactoblastis cactorum;Cactoblastis cactorum;Cactoblastis;Pyralidae
-SP29;SP29;Spodoptera littoralis;Spodoptera littoralis;Spodoptera;Noctuidae
-SP30;SP30;Pieris brassicae;Pieris brassicae;Pieris;Pieridae
-SP31;SP31;Opogona sacchari;Opogona sacchari;Opogona;Tineidae
-SP32;SP32;Erionota torus;Erionota torus;Erionota;Hesperiidae
-SP33;SP33;Noctua pronuba;Noctua pronuba;Noctua;Noctuidae
-SP34;SP34;Cryptoblabes gnidiella;Cryptoblabes gnidiella;Cryptoblabes;Pyralidae
-SP35;SP35;Epiphyas postvittana;Epiphyas postvittana;Epiphyas;Tortricidae
-SP36;SP36;Prays citri;Prays citri;Prays;Praydidae
-SP37;SP37;Helicoverpa zea;Helicoverpa zea;Helicoverpa;Noctuidae
-SP38;SP1442;Dendrolimus punctatus;Dendrolimus punctata;Dendrolimus;Lasiocampidae
-SP39;SP39;Adoxophyes orana;Adoxophyes orana;Adoxophyes;Tortricidae
-SP40;SP40;Chrysodeixis chalcites;Chrysodeixis chalcites;Chrysodeixis;Noctuidae
-SP41;SP41;Cydalima perspectalis;Cydalima perspectalis;Cydalima;Crambidae
-SP42;SP42;Cacoecimorpha pronubana;Cacoecimorpha pronubana;Cacoecimorpha;Tortricidae
-SP43;SP43;Gypsonoma aceriana;Gypsonoma aceriana;Gypsonoma;Tortricidae
-SP44;SP44;Rhyacionia buoliana;Rhyacionia buoliana;Rhyacionia;Tortricidae
-SP45;SP45;Argyresthia pruniella;Argyresthia pruniella;Argyresthia;Argyresthiidae
-SP46;SP46;Acleris variegana;Acleris variegana;Acleris;Tortricidae
-SP47;SP1171;Caloptilia syringella;Gracillaria syringella;Gracillaria;Gracillariidae
-SP48;SP48;Enarmonia formosana;Enarmonia formosana;Enarmonia;Tortricidae
-SP49;SP49;Lobesia botrana;Lobesia botrana;Lobesia;Tortricidae
-SP50;SP50;Apomyelois ceratoniae;Apomyelois ceratoniae;Apomyelois;Pyralidae
-SP51;SP51;Thaumatotibia leucotreta;Thaumatotibia leucotreta;Thaumatotibia;Tortricidae
-SP52;SP52;Athrips rancidella;Athrips rancidella;Athrips;Gelechiidae
-SP53;SP53;Opogona omoscopa;Opogona omoscopa;Opogona;Tineidae
-SP54;SP54;Cameraria ohridella;Cameraria ohridella;Cameraria;Gracillariidae
-SP55;SP501;Acrolepiopsis assectella;Acrolepia assectella;Acrolepia;Glyphipterigidae
-SP56;SP56;Mythimna unipuncta;Mythimna unipuncta;Mythimna;Noctuidae
-SP57;SP57;Paranthrene tabaniformis;Paranthrene tabaniformis;Paranthrene;Sesiidae
-SP58;SP58;Archips fuscocupreanus;Archips fuscocupreanus;Archips;Tortricidae
-SP59;SP59;Zeuzera pyrina;Zeuzera pyrina;Zeuzera;Cossidae
-SP60;SP60;Chilo suppressalis;Chilo suppressalis;Chilo;Crambidae
-SP61;SP61;Thaumetopoea pityocampa;Thaumetopoea pityocampa;Thaumetopoea;Notodontidae
-SP62;SP62;Leucoptera malifoliella;Leucoptera malifoliella;Leucoptera;Lyonetiidae
-SP63;SP63;Cacyreus marshalli;Cacyreus marshalli;Cacyreus;Lycaenidae
-SP64;SP64;Eupoecilia ambiguella;Eupoecilia ambiguella;Eupoecilia;Tortricidae
-SP65;SP65;Paysandisia archon;Paysandisia archon;Paysandisia;Castniidae
-SP66;SP66;Grapholita funebrana;Grapholita funebrana;Grapholita;Tortricidae
-SP67;SP67;Phyllocnistis vitegenella;Phyllocnistis vitegenella;Phyllocnistis;Gracillariidae
-SP68;SP68;Ephestia kuehniella;Ephestia kuehniella;Ephestia;Pyralidae
-SP69;SP1419;Darna pallivitta;Oxyplax pallivitta;Oxyplax;Limacodidae
-SP70;SP70;Megalorhipida leucodactylus;Megalorhipida leucodactylus;Megalorhipida;Pterophoridae
-SP71;SP71;Lymantria mathura;Lymantria mathura;Lymantria;Erebidae
-SP72;SP72;Papilio demoleus;Papilio demoleus;Papilio;Papilionidae
-SP73;SP73;Praeacedes atomosella;Praeacedes atomosella;Praeacedes;Tineidae
-SP74;SP74;Spodoptera eridania;Spodoptera eridania;Spodoptera;Noctuidae
-SP75;SP75;Tineola bisselliella;Tineola bisselliella;Tineola;Tineidae
-SP76;SP1291;Archips xylosteanus;Archips xylosteana;Archips;Tortricidae
-SP77;SP77;Phyllonorycter issikii;Phyllonorycter issikii;Phyllonorycter;Gracillariidae
-SP78;SP78;Conopomorpha cramerella;Conopomorpha cramerella;Conopomorpha;Gracillariidae
-SP79;SP79;Acraea terpsicore;Acraea terpsicore;Acraea;Nymphalidae
-SP80;SP80;Plutella porrectella;Plutella porrectella;Plutella;Plutellidae
-SP81;SP81;Autographa gamma;Autographa gamma;Autographa;Noctuidae
-SP82;SP82;Maliarpha separatella;Maliarpha separatella;Maliarpha;Pyralidae
-SP83;SP83;Dendrolimus pini;Dendrolimus pini;Dendrolimus;Lasiocampidae
-SP84;SP84;Garella musculana;Garella musculana;Garella;Nolidae
-SP85;SP85;Crocidosema aporema;Crocidosema aporema;Crocidosema;Tortricidae
-SP86;SP86;Phyllonorycter messaniella;Phyllonorycter messaniella;Phyllonorycter;Gracillariidae
-SP87;SP87;Tebenna micalis;Tebenna micalis;Tebenna;Choreutidae
-SP88;SP88;Chilo partellus;Chilo partellus;Chilo;Crambidae
-SP89;SP89;Keiferia lycopersicella;Keiferia lycopersicella;Keiferia;Gelechiidae
-SP90;SP90;Malacosoma disstria;Malacosoma disstria;Malacosoma;Lasiocampidae
-SP91;SP91;Orgyia leucostigma;Orgyia leucostigma;Orgyia;Erebidae
-SP92;SP92;Schreckensteinia festaliella;Schreckensteinia festaliella;Schreckensteinia;Schreckensteiniidae
-SP93;SP93;Phtheochroa vulneratana;Phtheochroa vulneratana;Phtheochroa;Tortricidae
-SP94;SP94;Choristoneura occidentalis;Choristoneura occidentalis;Choristoneura;Tortricidae
-SP95;SP95;Choristoneura rosaceana;Choristoneura rosaceana;Choristoneura;Tortricidae
-SP96;SP96;Grapholita packardi;Grapholita packardi;Grapholita;Tortricidae
-SP97;SP97;Orgyia pseudotsugata;Orgyia pseudotsugata;Orgyia;Erebidae
-SP98;SP98;Acleris minuta;Acleris minuta;Acleris;Tortricidae
-SP99;SP99;Cydia nigricana;Cydia nigricana;Cydia;Tortricidae
-SP100;SP100;Eana argentana;Eana argentana;Eana;Tortricidae
-SP101;SP101;Notocelia cynosbatella;Notocelia cynosbatella;Notocelia;Tortricidae
-SP102;SP102;Maruca vitrata;Maruca vitrata;Maruca;Crambidae
-SP103;SP103;Diatraea saccharalis;Diatraea saccharalis;Diatraea;Crambidae
-SP104;SP400;Othreis fullonia;Eudocima phalonia;Eudocima;Erebidae
-SP105;SP105;Lampides boeticus;Lampides boeticus;Lampides;Lycaenidae
-SP106;SP106;Spodoptera mauritia;Spodoptera mauritia;Spodoptera;Noctuidae
-SP107;SP107;Sesamia inferens;Sesamia inferens;Sesamia;Noctuidae
-SP108;SP108;Leucinodes orbonalis;Leucinodes orbonalis;Leucinodes;Crambidae
-SP109;SP109;Cephonodes hylas;Cephonodes hylas;Cephonodes;Sphingidae
-SP110;SP110;Earias insulana;Earias insulana;Earias;Nolidae
-SP111;SP12;Tuta absoluta;Phthorimaea absoluta;Phthorimaea;Gelechiidae
-SP112;SP112;Sphecodina caudata;Sphecodina caudata;Sphecodina;Sphingidae
-SP113;SP113;Orgyia antiqua;Orgyia antiqua;Orgyia;Erebidae
-SP114;SP114;Hofmannophila pseudospretella;Hofmannophila pseudospretella;Hofmannophila;Oecophoridae
-SP115;SP115;Archips rosana;Archips rosana;Archips;Tortricidae
-SP116;SP116;Archips cerasivorana;Archips cerasivorana;Archips;Tortricidae
-SP117;SP117;Spodoptera exigua;Spodoptera exigua;Spodoptera;Noctuidae
-SP118;SP1423;Macaria pallidata;Digrammia pallidata;Digrammia;Geometridae
-SP119;SP119;Leuciris fimbriaria;Leuciris fimbriaria;Leuciris;Geometridae
-SP120;SP120;Carmenta mimosa;Carmenta mimosa;Carmenta;Sesiidae
-SP121;SP121;Anomis flava;Anomis flava;Anomis;Erebidae
-SP122;SP122;Anarsia lineatella;Anarsia lineatella;Anarsia;Gelechiidae
-SP123;SP123;Eugnosta argyroplaca;Eugnosta argyroplaca;Eugnosta;Tortricidae
-SP124;SP124;Grapholita prunivora;Grapholita prunivora;Grapholita;Tortricidae
-SP125;SP125;Homona coffearia;Homona coffearia;Homona;Tortricidae
-SP126;SP126;Agrotis segetum;Agrotis segetum;Agrotis;Noctuidae
-SP127;SP127;Cydia splendana;Cydia splendana;Cydia;Tortricidae
-SP128;SP128;Cydia pomonella;Cydia pomonella;Cydia;Tortricidae
-SP129;SP129;Cadra cautella;Cadra cautella;Cadra;Pyralidae
-SP130;SP130;Chrysoesthia sexguttella;Chrysoesthia sexguttella;Chrysoesthia;Gelechiidae
-SP131;SP131;Coleophora versurella;Coleophora versurella;Coleophora;Coleophoridae
-SP132;SP132;Corcyra cephalonica;Corcyra cephalonica;Corcyra;Pyralidae
-SP133;SP133;Danaus plexippus;Danaus plexippus;Danaus;Nymphalidae
-SP134;SP134;Epermenia aequidentellus;Epermenia aequidentellus;Epermenia;Epermeniidae
-SP135;SP135;Ephestia elutella;Ephestia elutella;Ephestia;Pyralidae
-SP136;SP136;Lantanophaga pusillidactylus;Lantanophaga pusillidactylus;Lantanophaga;Pterophoridae
-SP137;SP137;Platyedra subcinerea;Platyedra subcinerea;Platyedra;Gelechiidae
-SP138;SP138;Plodia interpunctella;Plodia interpunctella;Plodia;Pyralidae
-SP139;SP139;Spoladea recurvalis;Spoladea recurvalis;Spoladea;Crambidae
-SP140;SP140;Stigmella aurella;Stigmella aurella;Stigmella;Nepticulidae
-SP141;SP1387;Perileucoptera coffeella;Leucoptera coffeella;Leucoptera;Lyonetiidae
-SP142;SP142;Diplopseustis perieresalis;Diplopseustis perieresalis;Diplopseustis;Crambidae
-SP143;SP143;Antheraea pernyi;Antheraea pernyi;Antheraea;Saturniidae
-SP144;SP144;Prays endocarpa;Prays endocarpa;Prays;Praydidae
-SP145;SP1406;Chrysoclista linneella;Chrysoclista linneela;Chrysoclista;Elachistidae
-SP146;SP146;Platynota idaeusalis;Platynota idaeusalis;Platynota;Tortricidae
-SP147;SP147;Operophtera brumata;Operophtera brumata;Operophtera;Geometridae
-SP148;SP148;Leucoptera sinuella;Leucoptera sinuella;Leucoptera;Lyonetiidae
-SP149;SP149;Agonopterix nervosa;Agonopterix nervosa;Agonopterix;Depressariidae
-SP150;SP150;Argyrotaenia franciscana;Argyrotaenia franciscana;Argyrotaenia;Tortricidae
-SP151;SP151;Clepsis consimilana;Clepsis consimilana;Clepsis;Tortricidae
-SP152;SP152;Cydia coniferana;Cydia coniferana;Cydia;Tortricidae
-SP153;SP153;Epinotia nanana;Epinotia nanana;Epinotia;Tortricidae
-SP154;SP154;Epinotia salicicolana;Epinotia salicicolana;Epinotia;Tortricidae
-SP155;SP155;Hedya nubiferana;Hedya nubiferana;Hedya;Tortricidae
-SP156;SP156;Pelochrista medullana;Pelochrista medullana;Pelochrista;Tortricidae
-SP157;SP157;Noctua comes;Noctua comes;Noctua;Noctuidae
-SP158;SP158;Phyllonorycter blancardella;Phyllonorycter blancardella;Phyllonorycter;Gracillariidae
-SP159;SP159;Synanthedon myopaeformis;Synanthedon myopaeformis;Synanthedon;Sesiidae
-SP160;SP160;Ennomos alniaria;Ennomos alniaria;Ennomos;Geometridae
-SP161;SP161;Caloptilia alnivorella;Caloptilia alnivorella;Caloptilia;Gracillariidae
-SP162;SP162;Eugnosta californica;Eugnosta californica;Eugnosta;Tortricidae
-SP163;SP163;Cadra figulilella;Cadra figulilella;Cadra;Pyralidae
-SP164;SP164;Phyllonorycter mespilella;Phyllonorycter mespilella;Phyllonorycter;Gracillariidae
-SP165;SP165;Mamestra brassicae;Mamestra brassicae;Mamestra;Noctuidae
-SP166;SP166;Sesamia cretica;Sesamia cretica;Sesamia;Noctuidae
-SP167;SP167;Tecia solanivora;Tecia solanivora;Tecia;Gelechiidae
-SP168;SP168;Scrobipalpa ocellatella;Scrobipalpa ocellatella;Scrobipalpa;Gelechiidae
-SP169;SP169;Prays oleae;Prays oleae;Prays;Praydidae
-SP170;SP170;Anatrachyntis badia;Anatrachyntis badia;Anatrachyntis;Cosmopterigidae
-SP171;SP171;Danaus chrysippus;Danaus chrysippus;Danaus;Nymphalidae
-SP172;SP172;Chrysodeixis acuta;Chrysodeixis acuta;Chrysodeixis;Noctuidae
-SP173;SP173;Cydia interscindana;Cydia interscindana;Cydia;Tortricidae
-SP174;SP174;Macrosaccus robiniella;Macrosaccus robiniella;Macrosaccus;Gracillariidae
-SP175;SP175;Thaumetopoea processionea;Thaumetopoea processionea;Thaumetopoea;Notodontidae
-SP176;SP176;Grapholita delineana;Grapholita delineana;Grapholita;Tortricidae
-SP177;SP177;Euproctis chrysorrhoea;Euproctis chrysorrhoea;Euproctis;Erebidae
-SP178;SP178;Depressaria depressana;Depressaria depressana;Depressaria;Depressariidae
-SP179;SP179;Lymantria monacha;Lymantria monacha;Lymantria;Erebidae
-SP180;SP180;Araeopteron ecphaea;Araeopteron ecphaea;Araeopteron;Noctuidae
-SP181;SP181;Caloptilia roscipennella;Caloptilia roscipennella;Caloptilia;Gracillariidae
-SP182;SP182;Phyllonorycter platani;Phyllonorycter platani;Phyllonorycter;Gracillariidae
-SP183;SP183;Dyspessa ulula;Dyspessa ulula;Dyspessa;Cossidae
-SP184;SP184;Tinea translucens;Tinea translucens;Tinea;Tineidae
-SP185;SP41;Glyphodes perspectalis;Cydalima perspectalis;Cydalima;Crambidae
-SP186;SP186;Glyphodes pyloalis;Glyphodes pyloalis;Glyphodes;Crambidae
-SP187;SP187;Hellula undalis;Hellula undalis;Hellula;Crambidae
-SP188;SP188;Palpita vitrealis;Palpita vitrealis;Palpita;Crambidae
-SP189;SP189;Ancylis comptana;Ancylis comptana;Ancylis;Tortricidae
-SP190;SP368;Caloptilia azaleela;Caloptilia azaleella;Caloptilia;Gracillariidae
-SP191;SP191;Grapholita inopinata;Grapholita inopinata;Grapholita;Tortricidae
-SP192;SP192;Rhizedra lutosa;Rhizedra lutosa;Rhizedra;Noctuidae
-SP193;SP193;Aglais io;Aglais io;Aglais;Nymphalidae
-SP194;SP194;Argynnis paphia;Argynnis paphia;Argynnis;Nymphalidae
-SP195;SP1418;Coenonympha glycerion;Coenonympha iphis;Coenonympha;Nymphalidae
-SP196;SP1467;Cupido argiades;Elkalyce argiades;Elkalyce;Lycaenidae
-SP197;SP197;Maniola jurtina;Maniola jurtina;Maniola;Nymphalidae
-SP198;SP198;Thymelicus sylvestris;Thymelicus sylvestris;Thymelicus;Hesperiidae
-SP199;SP199;Chrysodeixis eriosoma;Chrysodeixis eriosoma;Chrysodeixis;Noctuidae
-SP200;SP200;Platynota flavedana;Platynota flavedana;Platynota;Tortricidae
-SP201;SP201;Diaphania indica;Diaphania indica;Diaphania;Crambidae
-SP202;SP202;Achaea ablunaris;Achaea ablunaris;Achaea;Erebidae
-SP203;SP203;Aglaonice hirtipalpis;Aglaonice hirtipalpis;Aglaonice;Erebidae
-SP204;SP1120;Anartia chrysopelea;Anartia lytraea;Anartia;Nymphalidae
-SP205;SP205;Anomis luridula;Anomis luridula;Anomis;Erebidae
-SP206;SP206;Anypsipyla univitella;Anypsipyla univitella;Anypsipyla;Pyralidae
-SP207;SP207;Bema neuricella;Bema neuricella;Bema;Pyralidae
-SP208;SP208;Bleptina araealis;Bleptina araealis;Bleptina;Erebidae
-SP209;SP209;Callopistria jamaicensis;Callopistria jamaicensis;Callopistria;Noctuidae
-SP210;SP210;Condica punctifera;Condica punctifera;Condica;Noctuidae
-SP211;SP211;Cryptaspasma lugubris;Cryptaspasma lugubris;Cryptaspasma;Tortricidae
-SP212;SP212;Dypterygia punctirena;Dypterygia punctirena;Dypterygia;Noctuidae
-SP213;SP213;Elaphria deltoides;Elaphria deltoides;Elaphria;Noctuidae
-SP214;SP1461;Electrostrymon angelia;Thecla angelia;Thecla;Lycaenidae
-SP215;SP215;Empyreuma affinis;Empyreuma affinis;Empyreuma;Erebidae
-SP216;SP216;Epidromia pannosa;Epidromia pannosa;Epidromia;Erebidae
-SP217;SP217;Manbuta pyraliformis;Manbuta pyraliformis;Manbuta;Erebidae
-SP218;SP218;Epimorius testaceellus;Epimorius testaceellus;Epimorius;Pyralidae
-SP219;SP219;Ethmia submissa;Ethmia submissa;Ethmia;Ethmiidae
-SP220;SP220;Eulepidotis striaepuncta;Eulepidotis striaepuncta;Eulepidotis;Erebidae
-SP221;SP221;Euscirrhopterus poeyi;Euscirrhopterus poeyi;Euscirrhopterus;Noctuidae
-SP222;SP1170;Gonodontia bidens;Gonodonta bidens;Gonodonta;Erebidae
-SP223;SP1444;Hamadryas amphichloe;Hamadryas februa;Hamadryas;Nymphalidae
-SP224;SP224;Hypena subidalis;Hypena subidalis;Hypena;Erebidae
-SP225;SP225;Leucania inconspicua;Leucania inconspicua;Leucania;Noctuidae
-SP226;SP1462;Leucania opalisans;Leucania lobrega;Leucania;Noctuidae
-SP227;SP227;Lipographis subosseella;Lipographis subosseella;Lipographis;Pyralidae
-SP228;SP228;Litoprosopus haitiensis;Litoprosopus haitiensis;Litoprosopus;Erebidae
-SP229;SP229;Macristis geminipunctalis;Macristis geminipunctalis;Macristis;Erebidae
-SP230;SP102;Maruca testulalis;Maruca vitrata;Maruca;Crambidae
-SP231;SP231;Mocis cubana;Mocis cubana;Mocis;Erebidae
-SP232;SP1186;Neoleucinoides torvus;Neoleucinodes torvis;Neoleucinodes;Crambidae
-SP233;SP233;Neotuerta hemicycla;Neotuerta hemicycla;Neotuerta;Noctuidae
-SP234;SP234;Opogona purpuriella;Opogona purpuriella;Opogona;Tineidae
-SP235;SP235;Zophodia lucidalis;Zophodia lucidalis;Zophodia;Pyralidae
-SP236;SP236;Paectes lunodes;Paectes lunodes;Paectes;Euteliidae
-SP237;SP1456;Papilio andro;Papilio indra;Papilio;Papilionidae
-SP238;SP238;Parapoynx diminutalis;Parapoynx diminutalis;Parapoynx;Crambidae
-SP239;SP1126;Phoebis orbis;Aphrissa orbis;Aphrissa;Pieridae
-SP240;SP240;Physula albipunctilla;Physula albipunctilla;Physula;Erebidae
-SP241;SP241;Ptichodis immunis;Ptichodis immunis;Ptichodis;Erebidae
-SP242;SP242;Spodoptera androgea;Spodoptera androgea;Spodoptera;Noctuidae
-SP243;SP1212;Sporylus cubensis;Scorylus cubensis;Scorylus;Pyralidae
-SP244;SP1223;Strymon limenia;Thecla limenia;Thecla;Lycaenidae
-SP245;SP1217;Stylopalpis lunigerella;Stylopalpia luniferella;Stylopalpia;Pyralidae
-SP246;SP246;Simplicia cornicalis;Simplicia cornicalis;Simplicia;Erebidae
-SP247;SP247;Neomusotima conspurcatalis;Neomusotima conspurcatalis;Neomusotima;Pyralidae
-SP248;SP1459;Acrolepiopsis jaspidata;Acrolepia jaspidata;Acrolepia;Glyphipterigidae
-SP249;SP249;Agathodes designalis;Agathodes designalis;Agathodes;Crambidae
-SP250;SP250;Ancylostomia stercorea;Ancylostomia stercorea;Ancylostomia;Crambidae
-SP251;SP251;Asciodes gordialis;Asciodes gordialis;Asciodes;Crambidae
-SP252;SP251;Asciodes quietalis;Asciodes gordialis;Asciodes;Crambidae
-SP253;SP253;Bactra philocherda;Bactra philocherda;Bactra;Tortricidae
-SP254;SP254;Bagisara repanda;Bagisara repanda;Bagisara;Noctuidae
-SP255;SP255;Calpodes ethlius;Calpodes ethlius;Calpodes;Hesperiidae
-SP256;SP132;Aphomia cephalonica;Corcyra cephalonica;Corcyra;Pyralidae
-SP257;SP257;Crocidosema synneurota;Crocidosema synneurota;Crocidosema;Tortricidae
-SP258;SP258;Diaphania hyalinata;Diaphania hyalinata;Diaphania;Crambidae
-SP259;SP301;Diaphania nitidalis;Cryptographis nitidalis;Cryptographis;Crambidae
-SP260;SP260;Disclisioprocta stellata;Disclisioprocta stellata;Disclisioprocta;Geometridae
-SP261;SP261;Crocidosema lantana;Crocidosema lantana;Crocidosema;Tortricidae
-SP262;SP262;Episimus transferrana;Episimus transferrana;Episimus;Tortricidae
-SP263;SP263;Erechthias minuscula;Erechthias minuscula;Erechthias;Tineidae
-SP264;SP264;Etiella zinckenella;Etiella zinckenella;Etiella;Pyralidae
-SP265;SP265;Eublemma recta;Eublemma recta;Eublemma;Noctuidae
-SP266;SP266;Exelastis montichristi;Exelastis montichristi;Exelastis;Pterophoridae
-SP267;SP267;Exelastis pumilio;Exelastis pumilio;Exelastis;Pterophoridae
-SP268;SP268;Fundella argentina;Fundella argentina;Fundella;Pyralidae
-SP269;SP269;Hemiargus ceraunus;Hemiargus ceraunus;Hemiargus;Lycaenidae
-SP270;SP270;Herpetogramma bipunctalis;Herpetogramma bipunctalis;Herpetogramma;Crambidae
-SP271;SP271;Herpetogramma phaeopteralis;Herpetogramma phaeopteralis;Herpetogramma;Crambidae
-SP272;SP272;Hymenia perspectalis;Hymenia perspectalis;Hymenia;Crambidae
-SP273;SP273;Hypsipyla grandella;Hypsipyla grandella;Hypsipyla;Pyralidae
-SP274;SP274;Lineodes integra;Lineodes integra;Lineodes;Crambidae
-SP275;SP275;Cnaphalocrocis trapezalis;Cnaphalocrocis trapezalis;Cnaphalocrocis;Crambidae
-SP276;SP276;Neoleucinodes elegantalis;Neoleucinodes elegantalis;Neoleucinodes;Crambidae
-SP277;SP277;Ocrasa nostralis;Ocrasa nostralis;Ocrasa;Pyralidae
-SP278;SP278;Oecia oecophila;Oecia oecophila;Oecia;Autostichidae
-SP279;SP279;Omiodes indicata;Omiodes indicata;Omiodes;Crambidae
-SP280;SP280;Paectes arcigera;Paectes arcigera;Paectes;Euteliidae
-SP281;SP281;Piletocera bufalis;Piletocera bufalis;Piletocera;Crambidae
-SP282;SP282;Phereoeca allutella;Phereoeca allutella;Phereoeca;Tineidae
-SP283;SP283;Pilocrocis ramentalis;Pilocrocis ramentalis;Pilocrocis;Crambidae
-SP284;SP1414;Ponometia exigua;Acontia exigua;Acontia;Noctuidae
-SP285;SP285;Pyralis manihotalis;Pyralis manihotalis;Pyralis;Pyralidae
-SP286;SP286;Pyrausta panopealis;Pyrausta panopealis;Pyrausta;Crambidae
-SP287;SP287;Anatrachyntis rileyi;Anatrachyntis rileyi;Anatrachyntis;Cosmopterigidae
-SP288;SP288;Rhectocraspeda periusalis;Rhectocraspeda periusalis;Rhectocraspeda;Crambidae
-SP289;SP1431;Samea castellalis;Samea ecclesialis;Samea;Crambidae
-SP290;SP290;Setomorpha rutella;Setomorpha rutella;Setomorpha;Tineidae
-SP291;SP291;Sisyracera inabsconsalis;Sisyracera inabsconsalis;Sisyracera;Crambidae
-SP292;SP292;Sphacelodes vulneraria;Sphacelodes vulneraria;Sphacelodes;Geometridae
-SP293;SP1402;Spragueia margana;Acontia margana;Acontia;Noctuidae
-SP294;SP294;Stenoma catenifer;Stenoma catenifer;Stenoma;Depressariidae
-SP295;SP295;Stenoptilodes brevipennis;Stenoptilodes brevipennis;Stenoptilodes;Pterophoridae
-SP296;SP296;Syngamia florella;Syngamia florella;Syngamia;Crambidae
-SP297;SP297;Terastia meticulosalis;Terastia meticulosalis;Terastia;Crambidae
-SP298;SP298;Trichophaga mormopis;Trichophaga mormopis;Trichophaga;Tineidae
-SP299;SP299;Unadilla maturella;Unadilla maturella;Unadilla;Pyralidae
-SP300;SP300;Xylesthia pruniramiella;Xylesthia pruniramiella;Xylesthia;Tineidae
-SP301;SP301;Cryptographis nitidalis;Cryptographis nitidalis;Cryptographis;Crambidae
-SP302;SP302;Hemiargus ramon;Hemiargus ramon;Hemiargus;Lycaenidae
-SP303;SP1424;Stegasta bosqueella;Stegasta basqueella;Stegasta;Gelechiidae
-SP304;SP304;Trichoplusia ni;Trichoplusia ni;Trichoplusia;Noctuidae
-SP305;SP305;Chloridea virescens;Chloridea virescens;Chloridea;Noctuidae
-SP306;SP280;Paectes nana;Paectes arcigera;Paectes;Euteliidae
-SP307;SP307;Saturnia japonica;Saturnia japonica;Saturnia;Saturniidae
-SP308;SP308;Clepsis peritana;Clepsis peritana;Clepsis;Tortricidae
-SP309;SP309;Hyblaea puera;Hyblaea puera;Hyblaea;Hyblaeidae
-SP310;SP310;Pareuchaetes pseudoinsulata;Pareuchaetes pseudoinsulata;Pareuchaetes;Erebidae
-SP311;SP311;Achaea janata;Achaea janata;Achaea;Erebidae
-SP312;SP312;Adoxophyes melia;Adoxophyes melia;Adoxophyes;Tortricidae
-SP313;SP313;Agathodes ostentalis;Agathodes ostentalis;Agathodes;Crambidae
-SP314;SP314;Agonoxena pyrogramma;Agonoxena pyrogramma;Agonoxena;Elachistidae
-SP315;SP315;Agrius convolvuli;Agrius convolvuli;Agrius;Sphingidae
-SP316;SP1408;Anua coronata;Thyas coronata;Thyas;Erebidae
-SP317;SP317;Badamia exclamationis;Badamia exclamationis;Badamia;Hesperiidae
-SP318;SP318;Cryptophlebia peltastica;Cryptophlebia peltastica;Cryptophlebia;Tortricidae
-SP319;SP319;Dudua aprobola;Dudua aprobola;Dudua;Tortricidae
-SP320;SP400;Eudocima fullonia;Eudocima phalonia;Eudocima;Erebidae
-SP321;SP321;Euploea leucostictos;Euploea leucostictos;Euploea;Nymphalidae
-SP322;SP322;Grammodes geometrica;Grammodes geometrica;Grammodes;Erebidae
-SP323;SP323;Hippotion celerio;Hippotion celerio;Hippotion;Sphingidae
-SP324;SP324;Hypolimnas bolina;Hypolimnas bolina;Hypolimnas;Nymphalidae
-SP325;SP325;Omiodes diemenalis;Omiodes diemenalis;Omiodes;Crambidae
-SP326;SP326;Marasmia trapezalis;Marasmia trapezalis;Marasmia;Crambidae
-SP327;SP655;Marasmia venilialis;Cnaphalocrocis poeyalis;Cnaphalocrocis;Crambidae
-SP328;SP328;Melanitis leda;Melanitis leda;Melanitis;Nymphalidae
-SP329;SP670;Mythimna loreyi;Leucania loreyi;Leucania;Noctuidae
-SP330;SP447;Nymphula fluctuosalis;Parapoynx fluctuosalis;Parapoynx;Crambidae
-SP331;SP331;Ostrinia furnacalis;Ostrinia furnacalis;Ostrinia;Crambidae
-SP332;SP332;Papilio polytes;Papilio polytes;Papilio;Papilionidae
-SP333;SP333;Penicillaria jocosatrix;Penicillaria jocosatrix;Penicillaria;Euteliidae
-SP334;SP334;Pericyma cruegeri;Pericyma cruegeri;Pericyma;Erebidae
-SP335;SP335;Sphenarches caffer;Sphenarches caffer;Sphenarches;Pterophoridae
-SP336;SP336;Susumia exigua;Susumia exigua;Susumia;Crambidae
-SP337;SP337;Opisina arenosella;Opisina arenosella;Opisina;Xyloryctidae
-SP338;SP338;Abaeis nicippe;Abaeis nicippe;Abaeis;Pieridae
-SP339;SP339;Achroia grisella;Achroia grisella;Achroia;Pyralidae
-SP340;SP340;Acrolepiopsis sapporensis;Acrolepiopsis sapporensis;Acrolepiopsis;Glyphipterigidae
-SP341;SP341;Agonoxena argaula;Agonoxena argaula;Agonoxena;Elachistidae
-SP342;SP1426;Agraulis vanillae;Dione vanillae;Dione;Nymphalidae
-SP343;SP343;Alucita objurgatella;Alucita objurgatella;Alucita;Alucitidae
-SP344;SP344;Amorbia emigratella;Amorbia emigratella;Amorbia;Tortricidae
-SP345;SP345;Amyna axis;Amyna axis;Amyna;Noctuidae
-SP346;SP346;Amyna natalis;Amyna natalis;Amyna;Noctuidae
-SP347;SP507;Anacamptodes fragilaria;Iridopsis fragilaria;Iridopsis;Geometridae
-SP348;SP348;Anarta edwardsii;Anarta edwardsii;Anarta;Noctuidae
-SP349;SP1412;Anatrachyntis incertulella;Pyroderces incertulella;Pyroderces;Cosmopterigidae
-SP350;SP350;Anstenoptilia marmarodactyla;Anstenoptilia marmarodactyla;Anstenoptilia;Pterophoridae
-SP351;SP351;Antiblemma acclinalis;Antiblemma acclinalis;Antiblemma;Erebidae
-SP352;SP352;Ascalapha odorata;Ascalapha odorata;Ascalapha;Erebidae
-SP353;SP353;Assara seminivale;Assara seminivale;Assara;Pyralidae
-SP354;SP354;Petrochroa dimorpha;Petrochroa dimorpha;Petrochroa;Elachistidae
-SP355;SP355;Ategumia adipalis;Ategumia adipalis;Ategumia;Crambidae
-SP356;SP356;Ategumia ebulealis;Ategumia ebulealis;Ategumia;Crambidae
-SP357;SP357;Athetis thoracica;Athetis thoracica;Athetis;Noctuidae
-SP358;SP358;Autosticha pelodes;Autosticha pelodes;Autosticha;Autostichidae
-SP359;SP359;Bactra straminea;Bactra straminea;Bactra;Tortricidae
-SP360;SP360;Bactra venosana;Bactra venosana;Bactra;Tortricidae
-SP361;SP361;Blastobasis inana;Blastobasis inana;Blastobasis;Blastobasidae
-SP362;SP362;Bocana manifestalis;Bocana manifestalis;Bocana;Erebidae
-SP363;SP363;Bocchoris fatualis;Bocchoris fatualis;Bocchoris;Crambidae
-SP364;SP364;Brachycyttarus griseus;Brachycyttarus griseus;Brachycyttarus;Psychidae
-SP365;SP365;Brephidium exilis;Brephidium exilis;Brephidium;Lycaenidae
-SP366;SP366;Bucculatrix thurberiella;Bucculatrix thurberiella;Bucculatrix;Bucculatricidae
-SP367;SP367;Callopistria maillardi;Callopistria maillardi;Callopistria;Noctuidae
-SP368;SP368;Caloptilia azaleella;Caloptilia azaleella;Caloptilia;Gracillariidae
-SP369;SP369;Caloptilia coruscans;Caloptilia coruscans;Caloptilia;Gracillariidae
-SP370;SP370;Batrachedra microstigma;Batrachedra microstigma;Batrachedra;Batrachedridae
-SP371;SP371;Dryadaula advena;Dryadaula advena;Dryadaula;Dryadaulidae
-SP372;SP372;Condica illecta;Condica illecta;Condica;Noctuidae
-SP373;SP373;Crasimorpha infuscata;Crasimorpha infuscata;Crasimorpha;Gelechiidae
-SP374;SP374;Cremastobombycia lantanella;Cremastobombycia lantanella;Cremastobombycia;Gracillariidae
-SP375;SP375;Acleris zimmermani;Acleris zimmermani;Acleris;Tortricidae
-SP376;SP376;Crypsithyrodes concolorella;Crypsithyrodes concolorella;Crypsithyrodes;Tineidae
-SP377;SP377;Cryptophlebia ombrodelta;Cryptophlebia ombrodelta;Cryptophlebia;Tortricidae
-SP378;SP378;Ctenoplusia albostriata;Ctenoplusia albostriata;Ctenoplusia;Noctuidae
-SP379;SP379;Cyclophora nanaria;Cyclophora nanaria;Cyclophora;Geometridae
-SP380;SP380;Erechthias flavistriata;Erechthias flavistriata;Erechthias;Tineidae
-SP381;SP381;Erechthias kerri;Erechthias kerri;Erechthias;Tineidae
-SP382;SP382;Erechthias penicillata;Erechthias penicillata;Erechthias;Tineidae
-SP383;SP383;Daphnis nerii;Daphnis nerii;Daphnis;Sphingidae
-SP384;SP384;Diastema tigris;Diastema tigris;Diastema;Noctuidae
-SP385;SP385;Dichomeris acuminatus;Dichomeris acuminatus;Dichomeris;Gelechiidae
-SP386;SP386;Dichomeris aenigmatica;Dichomeris aenigmatica;Dichomeris;Gelechiidae
-SP387;SP387;Anarta trifolii;Anarta trifolii;Anarta;Noctuidae
-SP388;SP388;Elaphria nucicolora;Elaphria nucicolora;Elaphria;Noctuidae
-SP389;SP389;Elasmopalpus lignosella;Elasmopalpus lignosella;Elasmopalpus;Pyralidae
-SP390;SP1465;Leucocosmia nonagrica;Athetis nonagrica;Athetis;Noctuidae
-SP391;SP391;Endrosis sarcitrella;Endrosis sarcitrella;Endrosis;Oecophoridae
-SP392;SP392;Ephestiodes gilvescentella;Ephestiodes gilvescentella;Ephestiodes;Pyralidae
-SP393;SP393;Episimus unguiculus;Episimus unguiculus;Episimus;Tortricidae
-SP394;SP394;Erechthias simulans;Erechthias simulans;Erechthias;Tineidae
-SP395;SP395;Erechthias zebrina;Erechthias zebrina;Erechthias;Tineidae
-SP396;SP396;Euacidalia brownsvillea;Euacidalia brownsvillea;Euacidalia;Geometridae
-SP397;SP397;Eublemma accedens;Eublemma accedens;Eublemma;Noctuidae
-SP398;SP398;Eublemma anachoresis;Eublemma anachoresis;Eublemma;Noctuidae
-SP399;SP399;Euchromius ocellea;Euchromius ocellea;Euchromius;Crambidae
-SP400;SP400;Eudocima phalonia;Eudocima phalonia;Eudocima;Erebidae
-SP401;SP401;Feltia subterranea;Feltia subterranea;Feltia;Noctuidae
-SP402;SP402;Gymnoscelis rufifasciata;Gymnoscelis rufifasciata;Gymnoscelis;Geometridae
-SP403;SP403;Hellula phidilealis;Hellula phidilealis;Hellula;Crambidae
-SP404;SP404;Herpetogramma licarsisalis;Herpetogramma licarsisalis;Herpetogramma;Crambidae
-SP405;SP405;Hippotion rosetta;Hippotion rosetta;Hippotion;Sphingidae
-SP406;SP406;Hylephila phyleus;Hylephila phyleus;Hylephila;Hesperiidae
-SP407;SP407;Hyles lineata;Hyles lineata;Hyles;Sphingidae
-SP408;SP408;Hypena jussalis;Hypena jussalis;Hypena;Erebidae
-SP409;SP1409;Hypena laceratalis;Hypena commixtalis;Hypena;Erebidae
-SP410;SP410;Hypena strigatus;Hypena strigatus;Hypena;Erebidae
-SP411;SP411;Hyperectis dioctias;Hyperectis dioctias;Hyperectis;Crambidae
-SP412;SP412;Hypocala deflorata;Hypocala deflorata;Hypocala;Erebidae
-SP413;SP413;Hypsopygia mauritialis;Hypsopygia mauritialis;Hypsopygia;Pyralidae
-SP414;SP414;Imma mylias;Imma mylias;Imma;Immidae
-SP415;SP489;Ithome concolorella;Periploca orichalcella;Periploca;Cosmopterigidae
-SP416;SP416;Ithome lassula;Ithome lassula;Ithome;Cosmopterigidae
-SP417;SP1439;Leucania insecuta;Leucania obsoleta;Leucania;Noctuidae
-SP418;SP671;Mythimna loreyimima;Leucania stenographa;Leucania;Noctuidae
-SP419;SP419;Leucania scottii;Leucania scottii;Leucania;Noctuidae
-SP420;SP420;Leucania striata;Leucania striata;Leucania;Noctuidae
-SP421;SP421;Lindera tessellatella;Lindera tessellatella;Lindera;Tineidae
-SP422;SP422;Lineodes ochrea;Lineodes ochrea;Lineodes;Crambidae
-SP423;SP423;Lioptilodes parvus;Lioptilodes parvus;Lioptilodes;Pterophoridae
-SP424;SP424;Lorita scarificata;Lorita scarificata;Lorita;Tortricidae
-SP425;SP425;Lycophotia porphyrea;Lycophotia porphyrea;Lycophotia;Noctuidae
-SP426;SP511;Psamatodes abydata;Macaria abydata;Macaria;Geometridae
-SP427;SP427;Macroglossum pyrrhosticta;Macroglossum pyrrhosticta;Macroglossum;Sphingidae
-SP428;SP428;Megalographa biloba;Megalographa biloba;Megalographa;Noctuidae
-SP429;SP429;Melipotis indomita;Melipotis indomita;Melipotis;Erebidae
-SP430;SP430;Melitara prodenialis;Melitara prodenialis;Melitara;Pyralidae
-SP431;SP431;Mompha trithalama;Mompha trithalama;Mompha;Momphidae
-SP432;SP432;Monopis crocicapitella;Monopis crocicapitella;Monopis;Tineidae
-SP433;SP433;Monopis meliorella;Monopis meliorella;Monopis;Tineidae
-SP434;SP434;Monopis monachella;Monopis monachella;Monopis;Tineidae
-SP435;SP435;Nemapogon granella;Nemapogon granella;Nemapogon;Tineidae
-SP436;SP436;Neogalea sunia;Neogalea sunia;Neogalea;Noctuidae
-SP437;SP437;Niditinea fuscella;Niditinea fuscella;Niditinea;Tineidae
-SP438;SP438;Nomophila noctuella;Nomophila noctuella;Nomophila;Crambidae
-SP439;SP439;Hellinsia beneficus;Hellinsia beneficus;Hellinsia;Pterophoridae
-SP440;SP440;Oinophila v-flava;Oinophila v-flava;Oinophila;Tineidae
-SP441;SP441;Omphisa anastomosalis;Omphisa anastomosalis;Omphisa;Crambidae
-SP442;SP442;Ophiusa disjungens;Ophiusa disjungens;Ophiusa;Erebidae
-SP443;SP443;Opogona aurisquamosa;Opogona aurisquamosa;Opogona;Tineidae
-SP444;SP444;Oraesia excavata;Oraesia excavata;Oraesia;Erebidae
-SP445;SP445;Pandesma anysa;Pandesma anysa;Pandesma;Erebidae
-SP446;SP493;Aphomia gularis;Paralipsa gularis;Paralipsa;Pyralidae
-SP447;SP447;Parapoynx fluctuosalis;Parapoynx fluctuosalis;Parapoynx;Crambidae
-SP448;SP1416;Pectinophora scutigera;Pectinophora fusculella;Pectinophora;Gelechiidae
-SP449;SP449;Pempelia genistella;Pempelia genistella;Pempelia;Pyralidae
-SP450;SP482;Pennisetia marginata;Pennisetia marginatum;Pennisetia;Sesiidae
-SP451;SP451;Peridroma saucia;Peridroma saucia;Peridroma;Noctuidae
-SP452;SP452;Perittia lonicerae;Perittia lonicerae;Perittia;Elachistidae
-SP453;SP453;Phoebis agarithe;Phoebis agarithe;Phoebis;Pieridae
-SP454;SP454;Platynota stultana;Platynota stultana;Platynota;Tortricidae
-SP455;SP455;Polydesma boarmoides;Polydesma boarmoides;Polydesma;Erebidae
-SP456;SP456;Polydesma umbricola;Polydesma umbricola;Polydesma;Erebidae
-SP457;SP457;Psilogramma increta;Psilogramma increta;Psilogramma;Sphingidae
-SP458;SP458;Pyrausta perelegans;Pyrausta perelegans;Pyrausta;Crambidae
-SP459;SP495;Orphanostigma haemorrhoidalis;Salbia haemorrhoidalis;Salbia;Crambidae
-SP460;SP460;Scopula personata;Scopula personata;Scopula;Geometridae
-SP461;SP461;Galtara extensa;Galtara extensa;Galtara;Erebidae
-SP462;SP462;Rhynchopalpus brunella;Rhynchopalpus brunella;Rhynchopalpus;Nolidae
-SP463;SP463;Stenoptilodes littoralis;Stenoptilodes littoralis;Stenoptilodes;Pterophoridae
-SP464;SP464;Stenoptilodes taprobanes;Stenoptilodes taprobanes;Stenoptilodes;Pterophoridae
-SP465;SP465;Stictoptera cucullioides;Stictoptera cucullioides;Stictoptera;Euteliidae
-SP466;SP466;Stoeberhinus testaceus;Stoeberhinus testaceus;Stoeberhinus;Autostichidae
-SP467;SP467;Strepsicrates smithiana;Strepsicrates smithiana;Strepsicrates;Tortricidae
-SP468;SP468;Strymon bazochii;Strymon bazochii;Strymon;Lycaenidae
-SP469;SP469;Tmolus echion;Tmolus echion;Tmolus;Lycaenidae
-SP470;SP470;Elophila obliteralis;Elophila obliteralis;Elophila;Crambidae
-SP471;SP471;Targalla delatrix;Targalla delatrix;Targalla;Euteliidae
-SP472;SP472;Theretra nessus;Theretra nessus;Theretra;Sphingidae
-SP473;SP473;Tinea pellionella;Tinea pellionella;Tinea;Tineidae
-SP474;SP474;Anarta decepta;Anarta decepta;Anarta;Noctuidae
-SP475;SP475;Trissodoris honorariella;Trissodoris honorariella;Trissodoris;Cosmopterigidae
-SP476;SP476;Usingeriessa onyxalis;Usingeriessa onyxalis;Usingeriessa;Crambidae
-SP477;SP477;Vanessa atalanta;Vanessa atalanta;Vanessa;Nymphalidae
-SP478;SP478;Vanessa cardui;Vanessa cardui;Vanessa;Nymphalidae
-SP479;SP479;Vanessa virginiensis;Vanessa virginiensis;Vanessa;Nymphalidae
-SP480;SP480;Zizina otis;Zizina otis;Zizina;Lycaenidae
-SP481;SP481;Arcte coerula;Arcte coerula;Arcte;Erebidae
-SP482;SP482;Pennisetia marginatum;Pennisetia marginatum;Pennisetia;Sesiidae
-SP483;SP483;Pseudopyrausta santatalis;Pseudopyrausta santatalis;Pseudopyrausta;Crambidae
-SP484;SP484;Coleophora klimeschiella;Coleophora klimeschiella;Coleophora;Coleophoridae
-SP485;SP485;Condica dolorosa;Condica dolorosa;Condica;Noctuidae
-SP486;SP1419;Miresa pallivitta;Oxyplax pallivitta;Oxyplax;Limacodidae
-SP487;SP387;Discestra trifolii;Anarta trifolii;Anarta;Noctuidae
-SP488;SP393;Episimus utilis;Episimus unguiculus;Episimus;Tortricidae
-SP489;SP489;Periploca orichalcella;Periploca orichalcella;Periploca;Cosmopterigidae
-SP490;SP671;Leucania loreyimima;Leucania stenographa;Leucania;Noctuidae
-SP491;SP491;Thessalia theona;Thessalia theona;Thessalia;Nymphalidae
-SP492;SP492;Melittia oedipus;Melittia oedipus;Melittia;Sesiidae
-SP493;SP493;Paralipsa gularis;Paralipsa gularis;Paralipsa;Pyralidae
-SP494;SP452;Swezeyula lonicerae;Perittia lonicerae;Perittia;Elachistidae
-SP495;SP495;Salbia haemorrhoidalis;Salbia haemorrhoidalis;Salbia;Crambidae
-SP496;SP474;Trichoclea postica;Anarta decepta;Anarta;Noctuidae
-SP497;SP480;Zizina oti;Zizina otis;Zizina;Lycaenidae
-SP498;SP346;Berresa natalis;Amyna natalis;Amyna;Noctuidae
-SP499;SP348;Trichoclea edwardsii;Anarta edwardsii;Anarta;Noctuidae
-SP500;SP1464;Strymon megarus;Thecla megarus;Thecla;Lycaenidae
-SP501;SP501;Acrolepia assectella;Acrolepia assectella;Acrolepia;Glyphipterigidae
-SP502;SP502;Amyelois transitella;Amyelois transitella;Amyelois;Pyralidae
-SP503;SP503;Argyrogramma verruca;Argyrogramma verruca;Argyrogramma;Noctuidae
-SP504;SP504;Erechthias pelotricha;Erechthias pelotricha;Erechthias;Tineidae
-SP505;SP1434;Eucosma impatiens;Ancylis impatiens;Ancylis;Tortricidae
-SP506;SP410;Hypena strigata;Hypena strigatus;Hypena;Erebidae
-SP507;SP507;Iridopsis fragilaria;Iridopsis fragilaria;Iridopsis;Geometridae
-SP508;SP508;Lioptilodes albistriolatus;Lioptilodes albistriolatus;Lioptilodes;Pterophoridae
-SP509;SP509;Mesophleps palpigera;Mesophleps palpigera;Mesophleps;Gelechiidae
-SP510;SP510;Psilogramma menephron;Psilogramma menephron;Psilogramma;Sphingidae
-SP511;SP511;Macaria abydata;Macaria abydata;Macaria;Geometridae
-SP512;SP512;Stictoptera poecilosoma;Stictoptera poecilosoma;Stictoptera;Euteliidae
-SP513;SP513;Trachylepidia fructicassiella;Trachylepidia fructicassiella;Trachylepidia;Pyralidae
-SP514;SP514;Nyctemera apicalis;Nyctemera apicalis;Nyctemera;Erebidae
-SP515;SP385;Dichomeris acuminata;Dichomeris acuminatus;Dichomeris;Gelechiidae
-SP516;SP1439;Mythimna obsoleta;Leucania obsoleta;Leucania;Noctuidae
-SP517;SP436;Neogalea esula;Neogalea sunia;Neogalea;Noctuidae
-SP518;SP1393;Selca brunella;Manoba brunellus;Manoba;Nolidae
-SP519;SP519;Anstenoptilia marmorodactyla;Anstenoptilia marmorodactyla;Anstenoptilia;Pterophoridae
-SP520;SP136;Lantanophaga pusillidactyla;Lantanophaga pusillidactylus;Lantanophaga;Pterophoridae
-SP521;SP389;Elasmopalpus lignosellus;Elasmopalpus lignosella;Elasmopalpus;Pyralidae
-SP522;SP399;Euchromius ocelleus;Euchromius ocellea;Euchromius;Crambidae
-SP523;SP413;Hyposopygia mauritialis;Hypsopygia mauritialis;Hypsopygia;Pyralidae
-SP524;SP524;Pseudopyrausta acutangulalis;Pseudopyrausta acutangulalis;Pseudopyrausta;Crambidae
-SP525;SP525;Terastia subjectalis;Terastia subjectalis;Terastia;Crambidae
-SP526;SP526;Hyalophora euryalus;Hyalophora euryalus;Hyalophora;Saturniidae
-SP527;SP427;Macroglossum pyrrhostictum;Macroglossum pyrrhosticta;Macroglossum;Sphingidae
-SP528;SP440;Oinophila v-flavum;Oinophila v-flava;Oinophila;Tineidae
-SP529;SP529;Dendrolimus superans;Dendrolimus superans;Dendrolimus;Lasiocampidae
-SP530;SP530;Coleophora laricella;Coleophora laricella;Coleophora;Coleophoridae
-SP531;SP531;Notocelia rosaecolana;Notocelia rosaecolana;Notocelia;Tortricidae
-SP532;SP532;Stigmella multispicata;Stigmella multispicata;Stigmella;Nepticulidae
-SP533;SP533;Striacosta albicosta;Striacosta albicosta;Striacosta;Noctuidae
-SP534;SP534;Gonepteryx rhamni;Gonepteryx rhamni;Gonepteryx;Pieridae
-SP535;SP535;Pontia edusa;Pontia edusa;Pontia;Pieridae
-SP536;SP536;Nacoleia octasema;Nacoleia octasema;Nacoleia;Crambidae
-SP537;SP537;Phyllonorycter ermani;Phyllonorycter ermani;Phyllonorycter;Gracillariidae
-SP538;SP538;Chrysaster hagicola;Chrysaster hagicola;Chrysaster;Gracillariidae
-SP539;SP539;Parornix pfaffenzelleri;Parornix pfaffenzelleri;Parornix;Gracillariidae
-SP540;SP540;Apatura ilia;Apatura ilia;Apatura;Nymphalidae
-SP541;SP541;Aphantopus hyperantus;Aphantopus hyperantus;Aphantopus;Nymphalidae
-SP542;SP542;Clossiana dia;Clossiana dia;Clossiana;Nymphalidae
-SP543;SP543;Glaucopsyche alexis;Glaucopsyche alexis;Glaucopsyche;Lycaenidae
-SP544;SP544;Hyponephele lycaon;Hyponephele lycaon;Hyponephele;Nymphalidae
-SP545;SP545;Lopinga achine;Lopinga achine;Lopinga;Nymphalidae
-SP546;SP546;Lycaena dispar;Lycaena dispar;Lycaena;Lycaenidae
-SP547;SP547;Nymphalis polychloros;Nymphalis polychloros;Nymphalis;Nymphalidae
-SP548;SP1407;Nymphalis vaualbum;Polygonia vaualbum;Polygonia;Nymphalidae
-SP549;SP549;Phyllocnistis gracilistylella;Phyllocnistis gracilistylella;Phyllocnistis;Gracillariidae
-SP550;SP550;Phyllonorycter viciae;Phyllonorycter viciae;Phyllonorycter;Gracillariidae
-SP551;SP551;Apatura iris;Apatura iris;Apatura;Nymphalidae
-SP552;SP552;Colias croceus;Colias croceus;Colias;Pieridae
-SP553;SP1436;Limenitis camilla;Limenitis reducta;Limenitis;Nymphalidae
-SP554;SP554;Chrysaster ostensackenella;Chrysaster ostensackenella;Chrysaster;Gracillariidae
-SP555;SP555;Coleophora coracipennella;Coleophora coracipennella;Coleophora;Coleophoridae
-SP556;SP556;Stigmella atricapitella;Stigmella atricapitella;Stigmella;Nepticulidae
-SP557;SP557;Pararge aegeria;Pararge aegeria;Pararge;Nymphalidae
-SP558;SP558;Dichrorampha acuminatana;Dichrorampha acuminatana;Dichrorampha;Tortricidae
-SP559;SP559;Dichrorampha petiverella;Dichrorampha petiverella;Dichrorampha;Tortricidae
-SP560;SP560;Xylophanes ploetzi;Xylophanes ploetzi;Xylophanes;Sphingidae
-SP561;SP561;Lobesiodes euphorbiana;Lobesiodes euphorbiana;Lobesiodes;Tortricidae
-SP562;SP37;Heliothis zea;Helicoverpa zea;Helicoverpa;Noctuidae
-SP563;SP4;Heliothis armigera;Helicoverpa armigera;Helicoverpa;Noctuidae
-SP564;SP56;Pseudaletia unipunctata;Mythimna unipuncta;Mythimna;Noctuidae
-SP565;SP565;Hedya salicella;Hedya salicella;Hedya;Tortricidae
-SP566;SP566;Spilonota ocellana;Spilonota ocellana;Spilonota;Tortricidae
-SP567;SP567;Parapoynx stagnalis;Parapoynx stagnalis;Parapoynx;Crambidae
-SP568;SP568;Auratonota dispersa;Auratonota dispersa;Auratonota;Tortricidae
-SP569;SP569;Eulepidotis mabis;Eulepidotis mabis;Eulepidotis;Erebidae
-SP570;SP570;Pararcte schneideriana;Pararcte schneideriana;Pararcte;Erebidae
-SP571;SP571;Bedellia somnulentella;Bedellia somnulentella;Bedellia;Bedelliidae
-SP572;SP572;Appias lyncida;Appias lyncida;Appias;Pieridae
-SP573;SP573;Ariadne ariadne;Ariadne ariadne;Ariadne;Nymphalidae
-SP574;SP574;Pieris canidia;Pieris canidia;Pieris;Pieridae
-SP575;SP575;Borbo cinnara;Borbo cinnara;Borbo;Hesperiidae
-SP576;SP576;Luthrodes pandava;Luthrodes pandava;Luthrodes;Lycaenidae
-SP577;SP577;Chlumetia brevisigna;Chlumetia brevisigna;Chlumetia;Euteliidae
-SP578;SP578;Conopomorpha litchiella;Conopomorpha litchiella;Conopomorpha;Gracillariidae
-SP579;SP579;Conopomorpha sinensis;Conopomorpha sinensis;Conopomorpha;Gracillariidae
-SP580;SP580;Crocidolomia pavonana;Crocidolomia pavonana;Crocidolomia;Crambidae
-SP581;SP581;Cupha erymanthis;Cupha erymanthis;Cupha;Nymphalidae
-SP582;SP582;Diacrotricha fasciola;Diacrotricha fasciola;Diacrotricha;Pterophoridae
-SP583;SP583;Doloessa viridis;Doloessa viridis;Doloessa;Pyralidae
-SP584;SP584;Eumeta variegatus;Eumeta variegatus;Eumeta;Psychidae
-SP585;SP585;Euploea mulciber;Euploea mulciber;Euploea;Nymphalidae
-SP586;SP586;Leptosia nina;Leptosia nina;Leptosia;Pieridae
-SP587;SP587;Macaldenia palumba;Macaldenia palumba;Macaldenia;Erebidae
-SP588;SP588;Parantica aglea;Parantica aglea;Parantica;Nymphalidae
-SP589;SP1453;Parapediasia teterrellus;Parapediasia teterellus;Parapediasia;Crambidae
-SP590;SP590;Parasa lepida;Parasa lepida;Parasa;Limacodidae
-SP591;SP591;Pyralis farinalis;Pyralis farinalis;Pyralis;Pyralidae
-SP592;SP592;Statherotis discana;Statherotis discana;Statherotis;Tortricidae
-SP593;SP593;Suastus gremius;Suastus gremius;Suastus;Hesperiidae
-SP594;SP594;Zizula hylax;Zizula hylax;Zizula;Lycaenidae
-SP595;SP595;Acleris semipurpurana;Acleris semipurpurana;Acleris;Tortricidae
-SP596;SP596;Spilonota laricana;Spilonota laricana;Spilonota;Tortricidae
-SP597;SP597;Scrobipalpa aptatella;Scrobipalpa aptatella;Scrobipalpa;Gelechiidae
-SP598;SP598;Cymolomia hartigiana;Cymolomia hartigiana;Cymolomia;Tortricidae
-SP599;SP599;Depressaria radiella;Depressaria radiella;Depressaria;Depressariidae
-SP600;SP600;Epiblema sticticana;Epiblema sticticana;Epiblema;Tortricidae
-SP601;SP601;Epinotia abbreviana;Epinotia abbreviana;Epinotia;Tortricidae
-SP602;SP602;Eucosma cana;Eucosma cana;Eucosma;Tortricidae
-SP603;SP603;Dichrorampha montanana;Dichrorampha montanana;Dichrorampha;Tortricidae
-SP604;SP604;Scirpophaga incertulas;Scirpophaga incertulas;Scirpophaga;Crambidae
-SP605;SP605;Neurostrota gunniella;Neurostrota gunniella;Neurostrota;Gracillariidae
-SP606;SP606;Callisto insperatella;Callisto insperatella;Callisto;Gracillariidae
-SP607;SP607;Phyllonorycter lantanella;Phyllonorycter lantanella;Phyllonorycter;Gracillariidae
-SP608;SP1411;Argynnis niobe;Fabriciana niobe;Fabriciana;Nymphalidae
-SP609;SP609;Colias myrmidone;Colias myrmidone;Colias;Pieridae
-SP610;SP610;Spodoptera cilium;Spodoptera cilium;Spodoptera;Noctuidae
-SP611;SP1453;Parapediasia teterrella;Parapediasia teterellus;Parapediasia;Crambidae
-SP612;SP612;Hasora badra;Hasora badra;Hasora;Hesperiidae
-SP613;SP613;Asota ficus;Asota ficus;Asota;Erebidae
-SP614;SP614;Phyllonorycter pumilae;Phyllonorycter pumilae;Phyllonorycter;Gracillariidae
-SP615;SP615;Dichrorampha aeratana;Dichrorampha aeratana;Dichrorampha;Tortricidae
-SP616;SP616;Endothenia quadrimaculana;Endothenia quadrimaculana;Endothenia;Tortricidae
-SP617;SP617;Hecatera dysodea;Hecatera dysodea;Hecatera;Noctuidae
-SP618;SP1435;Toulgoetarctia nigripuncta;Araeomolis nigripuncta;Araeomolis;Erebidae
-SP619;SP619;Colias hyale;Colias hyale;Colias;Pieridae
-SP620;SP620;Acontia candefacta;Acontia candefacta;Acontia;Noctuidae
-SP621;SP621;Epichoristodes acerbella;Epichoristodes acerbella;Epichoristodes;Tortricidae
-SP622;SP622;Polyommatus icarus;Polyommatus icarus;Polyommatus;Lycaenidae
-SP623;SP1445;Polyommatus semiargus;Cyaniris semiargus;Cyaniris;Lycaenidae
-SP624;SP624;Malacosoma parallela;Malacosoma parallela;Malacosoma;Lasiocampidae
-SP625;SP625;Parectopa robiniella;Parectopa robiniella;Parectopa;Gracillariidae
-SP626;SP1470;Melanargia russia;Melanargia japygia;Melanargia;Nymphalidae
-SP627;SP627;Coleophora frischella;Coleophora frischella;Coleophora;Coleophoridae
-SP628;SP628;Phyllonorycter trifasciella;Phyllonorycter trifasciella;Phyllonorycter;Gracillariidae
-SP629;SP629;Spinipogon harmozones;Spinipogon harmozones;Spinipogon;Tortricidae
-SP630;SP630;Hypena opulenta;Hypena opulenta;Hypena;Erebidae
-SP631;SP631;Fixsenia pruni;Fixsenia pruni;Fixsenia;Lycaenidae
-SP632;SP632;Limenitis populi;Limenitis populi;Limenitis;Nymphalidae
-SP633;SP633;Dichelia histrionana;Dichelia histrionana;Dichelia;Tortricidae
-SP634;SP1230;Yponomeuta malinellus;Yponomeuta padella;Yponomeuta;Yponomeutidae
-SP635;SP635;Brenthis ino;Brenthis ino;Brenthis;Nymphalidae
-SP636;SP636;Herpetogramma basalis;Herpetogramma basalis;Herpetogramma;Crambidae
-SP637;SP79;Acraea terpiscore;Acraea terpsicore;Acraea;Nymphalidae
-SP638;SP1448;Actinotia hyperici;Chloantha hyperici;Chloantha;Noctuidae
-SP639;SP1235;Agonopterix alstroemeriana;Agonopterix alstromeriana;Agonopterix;Depressariidae
-SP640;SP640;Aglossa caprealis;Aglossa caprealis;Aglossa;Pyralidae
-SP641;SP1468;Anomis involuta;Zale minerea;Zale;Erebidae
-SP642;SP642;Antigastra catalaunalis;Antigastra catalaunalis;Antigastra;Crambidae
-SP643;SP643;Aplocera efformata;Aplocera efformata;Aplocera;Geometridae
-SP644;SP644;Aplocera plagiata;Aplocera plagiata;Aplocera;Geometridae
-SP645;SP645;Macrorrhinia endonephele;Macrorrhinia endonephele;Macrorrhinia;Pyralidae
-SP646;SP646;Aristotelia ivae;Aristotelia ivae;Aristotelia;Gelechiidae
-SP647;SP1469;Autoplusia illustrata;Notioplusia illustrata;Notioplusia;Noctuidae
-SP648;SP648;Bombyx mori;Bombyx mori;Bombyx;Bombycidae
-SP649;SP649;Bradyrrhoa gilveolella;Bradyrrhoa gilveolella;Bradyrrhoa;Pyralidae
-SP650;SP650;Bucculatrix ivella;Bucculatrix ivella;Bucculatrix;Bucculatricidae
-SP651;SP651;Bucculatrix parthenica;Bucculatrix parthenica;Bucculatrix;Bucculatricidae
-SP652;SP652;Chamaesphecia mysiniformis;Chamaesphecia mysiniformis;Chamaesphecia;Sesiidae
-SP653;SP653;Citripestis eutraphera;Citripestis eutraphera;Citripestis;Pyralidae
-SP654;SP654;Cnaphalocrocis medinalis;Cnaphalocrocis medinalis;Cnaphalocrocis;Crambidae
-SP655;SP655;Cnaphalocrocis poeyalis;Cnaphalocrocis poeyalis;Cnaphalocrocis;Crambidae
-SP656;SP656;Eublemma scitula;Eublemma scitula;Eublemma;Noctuidae
-SP657;SP657;Cochylis atricapitana;Cochylis atricapitana;Cochylis;Tortricidae
-SP658;SP658;Coleophora alcyonipennella;Coleophora alcyonipennella;Coleophora;Coleophoridae
-SP659;SP659;Comostolopsis germana;Comostolopsis germana;Comostolopsis;Geometridae
-SP660;SP660;Deanolis sublimbalis;Deanolis sublimbalis;Deanolis;Crambidae
-SP661;SP661;Dialectica scalariella;Dialectica scalariella;Dialectica;Gracillariidae
-SP662;SP662;Ectaga garcia;Ectaga garcia;Ectaga;Depressariidae
-SP663;SP663;Epiblema strenuana;Epiblema strenuana;Epiblema;Tortricidae
-SP664;SP664;Euclasta gigantalis;Euclasta gigantalis;Euclasta;Crambidae
-SP665;SP665;Eudocima jordani;Eudocima jordani;Eudocima;Erebidae
-SP666;SP666;Eudocima salaminia;Eudocima salaminia;Eudocima;Erebidae
-SP667;SP667;Grammodes stolida;Grammodes stolida;Grammodes;Erebidae
-SP668;SP668;Hellinsia balanotes;Hellinsia balanotes;Hellinsia;Pterophoridae
-SP669;SP669;Ischyja manlia;Ischyja manlia;Ischyja;Erebidae
-SP670;SP670;Leucania loreyi;Leucania loreyi;Leucania;Noctuidae
-SP671;SP671;Leucania stenographa;Leucania stenographa;Leucania;Noctuidae
-SP672;SP672;Leucoptera spartifoliella;Leucoptera spartifoliella;Leucoptera;Lyonetiidae
-SP673;SP673;Lorita baccharivora;Lorita baccharivora;Lorita;Tortricidae
-SP674;SP674;Loxomorpha flavidissimalis;Loxomorpha flavidissimalis;Loxomorpha;Crambidae
-SP675;SP675;Melitara dentata;Melitara dentata;Melitara;Pyralidae
-SP676;SP676;Niphograpta albiguttalis;Niphograpta albiguttalis;Niphograpta;Crambidae
-SP677;SP677;Melitara junctolineella;Melitara junctolineella;Melitara;Pyralidae
-SP678;SP678;Ophiusa tirhaca;Ophiusa tirhaca;Ophiusa;Erebidae
-SP679;SP679;Ophiusa trapezium;Ophiusa trapezium;Ophiusa;Erebidae
-SP680;SP680;Oraesia emarginata;Oraesia emarginata;Oraesia;Erebidae
-SP681;SP681;Oxyodes scrobiculata;Oxyodes scrobiculata;Oxyodes;Erebidae
-SP682;SP682;Perixera illepidaria;Perixera illepidaria;Perixera;Geometridae
-SP683;SP683;Pyropteron doryliformis;Pyropteron doryliformis;Pyropteron;Sesiidae
-SP684;SP684;Samea multiplicalis;Samea multiplicalis;Samea;Crambidae
-SP685;SP685;Samia cynthia;Samia cynthia;Samia;Saturniidae
-SP686;SP686;Serrodes mediopallens;Serrodes mediopallens;Serrodes;Erebidae
-SP687;SP687;Sphenarches anisodactylus;Sphenarches anisodactylus;Sphenarches;Pterophoridae
-SP688;SP688;Symmetrischema tangolias;Symmetrischema tangolias;Symmetrischema;Gelechiidae
-SP689;SP689;Synanthedon tipuliformis;Synanthedon tipuliformis;Synanthedon;Sesiidae
-SP690;SP690;Thysanoplusia orichalcea;Thysanoplusia orichalcea;Thysanoplusia;Noctuidae
-SP691;SP691;Tinea columbariella;Tinea columbariella;Tinea;Tineidae
-SP692;SP692;Tinea dubiella;Tinea dubiella;Tinea;Tineidae
-SP693;SP693;Tinea flavescentella;Tinea flavescentella;Tinea;Tineidae
-SP694;SP694;Tinea murariella;Tinea murariella;Tinea;Tineidae
-SP695;SP695;Tinea pallescentella;Tinea pallescentella;Tinea;Tineidae
-SP696;SP696;Trichophaga tapetzella;Trichophaga tapetzella;Trichophaga;Tineidae
-SP697;SP697;Tucumania tapiacola;Tucumania tapiacola;Tucumania;Pyralidae
-SP698;SP698;Tyria jacobaeae;Tyria jacobaeae;Tyria;Erebidae
-SP699;SP699;Wheeleria spilodactylus;Wheeleria spilodactylus;Wheeleria;Pterophoridae
-SP700;SP700;Xubida infusellus;Xubida infusellus;Xubida;Crambidae
-SP701;SP701;Aglossa dimidiatus;Aglossa dimidiatus;Aglossa;Pyralidae
-SP702;SP702;Lebeda nobilis;Lebeda nobilis;Lebeda;Lasiocampidae
-SP703;SP703;Loxostege sticticalis;Loxostege sticticalis;Loxostege;Crambidae
-SP704;SP704;Martyringa xeraula;Martyringa xeraula;Martyringa;Lecithoceridae
-SP705;SP705;Pontia daplidice;Pontia daplidice;Pontia;Pieridae
-SP706;SP706;Sericinus montela;Sericinus montela;Sericinus;Papilionidae
-SP707;SP707;Stenoptilia zophodactylus;Stenoptilia zophodactylus;Stenoptilia;Pterophoridae
-SP708;SP708;Thymelicus lineola;Thymelicus lineola;Thymelicus;Hesperiidae
-SP709;SP709;Tongeia filicaudis;Tongeia filicaudis;Tongeia;Lycaenidae
-SP710;SP710;Achyra affinitalis;Achyra affinitalis;Achyra;Crambidae
-SP711;SP711;Acleris comariana;Acleris comariana;Acleris;Tortricidae
-SP712;SP1430;Gracilaria alysidota;Parectopa alysidota;Parectopa;Gracillariidae
-SP713;SP713;Acrocercops laciniella;Acrocercops laciniella;Acrocercops;Gracillariidae
-SP714;SP714;Aglossa pinguinalis;Aglossa pinguinalis;Aglossa;Pyralidae
-SP715;SP837;Agonopterix assimillella;Agonopterix assimilella;Agonopterix;Depressariidae
-SP716;SP716;Agonopterix heracliana;Agonopterix heracliana;Agonopterix;Depressariidae
-SP717;SP717;Anisoplaca cosmia;Anisoplaca cosmia;Anisoplaca;Gelechiidae
-SP718;SP718;Artigisa melanephele;Artigisa melanephele;Artigisa;Erebidae
-SP719;SP719;Artona martini;Artona martini;Artona;Zygaenidae
-SP720;SP720;Athetis tenuis;Athetis tenuis;Athetis;Noctuidae
-SP721;SP721;Balanomis encyclia;Balanomis encyclia;Balanomis;Pyralidae
-SP722;SP722;Barea codrella;Barea codrella;Barea;Oecophoridae
-SP723;SP723;Barea confusella;Barea confusella;Barea;Oecophoridae
-SP724;SP724;Barea consignatella;Barea consignatella;Barea;Oecophoridae
-SP725;SP725;Barea exarcha;Barea exarcha;Barea;Oecophoridae
-SP726;SP726;Bilobata subsecivella;Bilobata subsecivella;Bilobata;Gelechiidae
-SP727;SP727;Blastobasis marmorosella;Blastobasis marmorosella;Blastobasis;Blastobasidae
-SP728;SP728;Blastobasis tarda;Blastobasis tarda;Blastobasis;Blastobasidae
-SP729;SP838;Angustalius malacelloides;Bleszynskia malacelloides;Bleszynskia;Crambidae
-SP730;SP730;Capua intractana;Capua intractana;Capua;Tortricidae
-SP731;SP731;Carposina neurophorella;Carposina neurophorella;Carposina;Carposinidae
-SP732;SP732;Cebysa leucotelus;Cebysa leucotelus;Cebysa;Psychidae
-SP733;SP733;Chloroclystis filata;Chloroclystis filata;Chloroclystis;Geometridae
-SP734;SP734;Chrysoesthia drurella;Chrysoesthia drurella;Chrysoesthia;Gelechiidae
-SP735;SP735;Merophyas divulsana;Merophyas divulsana;Merophyas;Tortricidae
-SP736;SP736;Coleophora mayrella;Coleophora mayrella;Coleophora;Coleophoridae
-SP737;SP737;Coleophora striatipennella;Coleophora striatipennella;Coleophora;Coleophoridae
-SP738;SP738;Coscinoptycha improbana;Coscinoptycha improbana;Coscinoptycha;Carposinidae
-SP739;SP739;Cosmodes elegans;Cosmodes elegans;Cosmodes;Noctuidae
-SP740;SP740;Cosmopterix attenuatella;Cosmopterix attenuatella;Cosmopterix;Cosmopterigidae
-SP741;SP741;Ctenoplusia limbirena;Ctenoplusia limbirena;Ctenoplusia;Noctuidae
-SP742;SP742;Culladia cuneiferellus;Culladia cuneiferellus;Culladia;Crambidae
-SP743;SP743;Cyclophora obstataria;Cyclophora obstataria;Cyclophora;Geometridae
-SP744;SP744;Cydia succedana;Cydia succedana;Cydia;Tortricidae
-SP745;SP745;Dasypodia cymatodes;Dasypodia cymatodes;Dasypodia;Erebidae
-SP746;SP746;Dasypodia selenophora;Dasypodia selenophora;Dasypodia;Erebidae
-SP747;SP747;Ephestiopsis oenobarella;Ephestiopsis oenobarella;Ephestiopsis;Pyralidae
-SP748;SP748;Erechthias capnitis;Erechthias capnitis;Erechthias;Tineidae
-SP749;SP749;Eutorna phaulocosma;Eutorna phaulocosma;Eutorna;Depressariidae
-SP750;SP750;Gauna aegusalis;Gauna aegusalis;Gauna;Pyralidae
-SP751;SP751;Glyphipterix simpliciella;Glyphipterix simpliciella;Glyphipterix;Glyphipterigidae
-SP752;SP752;Haritalodes derogata;Haritalodes derogata;Haritalodes;Crambidae
-SP753;SP753;Heliozela catoptrias;Heliozela catoptrias;Heliozela;Heliozelidae
-SP754;SP754;Isotenes miserana;Isotenes miserana;Isotenes;Tortricidae
-SP755;SP755;Lecithocera micromela;Lecithocera micromela;Lecithocera;Lecithoceridae
-SP756;SP756;Lepidoscia heliochares;Lepidoscia heliochares;Lepidoscia;Psychidae
-SP757;SP757;Lepidoscia protorna;Lepidoscia protorna;Lepidoscia;Psychidae
-SP758;SP758;Leptocroca sanguinolenta;Leptocroca sanguinolenta;Leptocroca;Oecophoridae
-SP759;SP759;Ladoga camilla;Ladoga camilla;Ladoga;Nymphalidae
-SP760;SP760;Macarostola ida;Macarostola ida;Macarostola;Gracillariidae
-SP761;SP1425;Aristotelia leptocrossa;Monochroa hornigi;Monochroa;Gelechiidae
-SP762;SP762;Monopis argillacea;Monopis argillacea;Monopis;Tineidae
-SP763;SP763;Monopis ethelella;Monopis ethelella;Monopis;Tineidae
-SP764;SP764;Morosaphycita oculiferella;Morosaphycita oculiferella;Morosaphycita;Pyralidae
-SP765;SP765;Musotima ochropteralis;Musotima ochropteralis;Musotima;Pyralidae
-SP766;SP766;Mythimna separata;Mythimna separata;Mythimna;Noctuidae
-SP767;SP767;Nyctemera amicus;Nyctemera amicus;Nyctemera;Erebidae
-SP768;SP768;Oegoconia caradjai;Oegoconia caradjai;Oegoconia;Autostichidae
-SP769;SP769;Opogona comptella;Opogona comptella;Opogona;Tineidae
-SP770;SP770;Opsitycha squalidella;Opsitycha squalidella;Opsitycha;Oecophoridae
-SP771;SP771;Pantydia sparsa;Pantydia sparsa;Pantydia;Erebidae
-SP772;SP772;Parochmastis hilderi;Parochmastis hilderi;Parochmastis;Tineidae
-SP773;SP773;Phalaenoides glycinae;Phalaenoides glycinae;Phalaenoides;Noctuidae
-SP774;SP774;Philobota chionoptera;Philobota chionoptera;Philobota;Oecophoridae
-SP775;SP775;Phrissogonus laticostata;Phrissogonus laticostata;Phrissogonus;Geometridae
-SP776;SP841;Platyptilia isodactyla;Platyptilia isodactylus;Platyptilia;Pterophoridae
-SP777;SP777;Polysoma eumetalla;Polysoma eumetalla;Polysoma;Gracillariidae
-SP778;SP778;Porphyrosela hardenbergiella;Porphyrosela hardenbergiella;Porphyrosela;Gracillariidae
-SP779;SP779;Prays nephelomima;Prays nephelomima;Prays;Praydidae
-SP780;SP780;Proteuxoa sanguinipuncta;Proteuxoa sanguinipuncta;Proteuxoa;Noctuidae
-SP781;SP781;Sarisophora leucoscia;Sarisophora leucoscia;Sarisophora;Lecithoceridae
-SP782;SP782;Scrobipalpa obsoletella;Scrobipalpa obsoletella;Scrobipalpa;Gelechiidae
-SP783;SP842;Sigilliclystis insigillata;Chloroclystis insigillata;Chloroclystis;Geometridae
-SP784;SP784;Sphyrelata amotella;Sphyrelata amotella;Sphyrelata;Oecophoridae
-SP785;SP785;Stathmopoda cephalaea;Stathmopoda cephalaea;Stathmopoda;Stathmopodidae
-SP786;SP786;Stathmopoda auriferella;Stathmopoda auriferella;Stathmopoda;Stathmopodidae
-SP787;SP787;Stathmopoda melanochra;Stathmopoda melanochra;Stathmopoda;Stathmopodidae
-SP788;SP788;Stegommata leptomitella;Stegommata leptomitella;Stegommata;Lyonetiidae
-SP789;SP789;Stegommata sulfuratella;Stegommata sulfuratella;Stegommata;Lyonetiidae
-SP790;SP790;Stericta carbonalis;Stericta carbonalis;Stericta;Pyralidae
-SP791;SP791;Stigmella microtheriella;Stigmella microtheriella;Stigmella;Nepticulidae
-SP792;SP792;Strepsicrates infensa;Strepsicrates infensa;Strepsicrates;Tortricidae
-SP793;SP793;Strepsicrates macropetana;Strepsicrates macropetana;Strepsicrates;Tortricidae
-SP794;SP794;Symmetrischema striatella;Symmetrischema striatella;Symmetrischema;Gelechiidae
-SP795;SP795;Tachystola acroxantha;Tachystola acroxantha;Tachystola;Oecophoridae
-SP796;SP796;Tachystola hemisema;Tachystola hemisema;Tachystola;Oecophoridae
-SP797;SP797;Trachypepla indolescens;Trachypepla indolescens;Trachypepla;Oecophoridae
-SP798;SP798;Uraba lugens;Uraba lugens;Uraba;Nolidae
-SP799;SP799;Uresiphita ornithopteralis;Uresiphita ornithopteralis;Uresiphita;Crambidae
-SP800;SP800;Zomariana doxasticana;Zomariana doxasticana;Zomariana;Tortricidae
-SP801;SP801;Aristaea thalassias;Aristaea thalassias;Aristaea;Gracillariidae
-SP802;SP802;Carposina autologa;Carposina autologa;Carposina;Carposinidae
-SP803;SP803;Pareuchaetes insulata;Pareuchaetes insulata;Pareuchaetes;Erebidae
-SP804;SP804;Chilo sacchariphagus;Chilo sacchariphagus;Chilo;Crambidae
-SP805;SP805;Cryptophlebia illepida;Cryptophlebia illepida;Cryptophlebia;Tortricidae
-SP806;SP806;Palpita persimilis;Palpita persimilis;Palpita;Crambidae
-SP807;SP807;Oiketicus kirbyi;Oiketicus kirbyi;Oiketicus;Psychidae
-SP808;SP808;Anacampsis humilis;Anacampsis humilis;Anacampsis;Gelechiidae
-SP809;SP809;Agonopterix ulicetella;Agonopterix ulicetella;Agonopterix;Depressariidae
-SP810;SP810;Helicoverpa titicacae;Helicoverpa titicacae;Helicoverpa;Noctuidae
-SP811;SP1405;Homoeographa lamceolella;Homoeographa lanceolella;Homoeographa;Pyralidae
-SP812;SP812;Strepsicrates semicanella;Strepsicrates semicanella;Strepsicrates;Tortricidae
-SP813;SP813;Argyresthia cupressella;Argyresthia cupressella;Argyresthia;Argyresthiidae
-SP814;SP814;Argyresthia trifasciata;Argyresthia trifasciata;Argyresthia;Argyresthiidae
-SP815;SP815;Barea asbolaea;Barea asbolaea;Barea;Oecophoridae
-SP816;SP816;Bucculatrix ulmifoliae;Bucculatrix ulmifoliae;Bucculatrix;Bucculatricidae
-SP817;SP817;Caradrina kadenii;Caradrina kadenii;Caradrina;Noctuidae
-SP818;SP818;Catocala fraxini;Catocala fraxini;Catocala;Erebidae
-SP819;SP819;Conistra rubiginosa;Conistra rubiginosa;Conistra;Noctuidae
-SP820;SP820;Cryphia algae;Cryphia algae;Cryphia;Noctuidae
-SP821;SP821;Cydia illutana;Cydia illutana;Cydia;Tortricidae
-SP822;SP822;Cydia medicaginis;Cydia medicaginis;Cydia;Tortricidae
-SP823;SP823;Dryobotodes tenebrosa;Dryobotodes tenebrosa;Dryobotodes;Noctuidae
-SP824;SP824;Ectoedemia heringella;Ectoedemia heringella;Ectoedemia;Nepticulidae
-SP825;SP825;Eupithecia ultimaria;Eupithecia ultimaria;Eupithecia;Geometridae
-SP826;SP826;Gelechia senticetella;Gelechia senticetella;Gelechia;Gelechiidae
-SP827;SP827;Musotima nitidalis;Musotima nitidalis;Musotima;Pyralidae
-SP828;SP828;Noctua janthina;Noctua janthina;Noctua;Noctuidae
-SP829;SP829;Pennisetia hylaeiformis;Pennisetia hylaeiformis;Pennisetia;Sesiidae
-SP830;SP830;Prays peregrina;Prays peregrina;Prays;Praydidae
-SP831;SP831;Pseudocoremia suavis;Pseudocoremia suavis;Pseudocoremia;Geometridae
-SP832;SP832;Sciota adelphella;Sciota adelphella;Sciota;Pyralidae
-SP833;SP833;Thera cupressata;Thera cupressata;Thera;Geometridae
-SP834;SP834;Vitula biviella;Vitula biviella;Vitula;Pyralidae
-SP835;SP835;Curetis acuta;Curetis acuta;Curetis;Lycaenidae
-SP836;SP836;Papilio helenus;Papilio helenus;Papilio;Papilionidae
-SP837;SP837;Agonopterix assimilella;Agonopterix assimilella;Agonopterix;Depressariidae
-SP838;SP838;Bleszynskia malacelloides;Bleszynskia malacelloides;Bleszynskia;Crambidae
-SP839;SP1432;Depressaria pastinacella;Depressaria discipunctella;Depressaria;Depressariidae
-SP840;SP840;Chloroclystis latifasciata;Chloroclystis latifasciata;Chloroclystis;Geometridae
-SP841;SP841;Platyptilia isodactylus;Platyptilia isodactylus;Platyptilia;Pterophoridae
-SP842;SP842;Chloroclystis insigillata;Chloroclystis insigillata;Chloroclystis;Geometridae
-SP843;SP843;Teia anartoides;Teia anartoides;Teia;Erebidae
-SP844;SP844;Dendrolimus sibiricus;Dendrolimus sibiricus;Dendrolimus;Lasiocampidae
-SP845;SP845;Sibine apicalis;Sibine apicalis;Sibine;Limacodidae
-SP846;SP846;Acleris undulana;Acleris undulana;Acleris;Tortricidae
-SP847;SP847;Acontia crocata;Acontia crocata;Acontia;Noctuidae
-SP848;SP848;Actias selene;Actias selene;Actias;Saturniidae
-SP849;SP849;Adoxophyes privatana;Adoxophyes privatana;Adoxophyes;Tortricidae
-SP850;SP850;Eudocima tyrannus;Eudocima tyrannus;Eudocima;Erebidae
-SP851;SP851;Aethes rubiginana;Aethes rubiginana;Aethes;Tortricidae
-SP852;SP852;Agrius cingulata;Agrius cingulata;Agrius;Sphingidae
-SP853;SP853;Anatrachyntis simplex;Anatrachyntis simplex;Anatrachyntis;Cosmopterigidae
-SP854;SP854;Antheraea yamamai;Antheraea yamamai;Antheraea;Saturniidae
-SP855;SP855;Mythimna languida;Mythimna languida;Mythimna;Noctuidae
-SP856;SP856;Anartia fatima;Anartia fatima;Anartia;Nymphalidae
-SP857;SP857;Anomis erosa;Anomis erosa;Anomis;Erebidae
-SP858;SP858;Antheraea paphia;Antheraea paphia;Antheraea;Saturniidae
-SP859;SP859;Antheraea polyphemus;Antheraea polyphemus;Antheraea;Saturniidae
-SP860;SP860;Antichloris eriphia;Antichloris eriphia;Antichloris;Erebidae
-SP861;SP861;Antichloris steinbachi;Antichloris steinbachi;Antichloris;Erebidae
-SP862;SP862;Antichloris viridis;Antichloris viridis;Antichloris;Erebidae
-SP863;SP863;Apamea crenata;Apamea crenata;Apamea;Noctuidae
-SP864;SP864;Apamea remissa;Apamea remissa;Apamea;Noctuidae
-SP865;SP865;Aphnaeus schistacea;Aphnaeus schistacea;Aphnaeus;Lycaenidae
-SP866;SP1061;Aphomia sabella;Arenipses sabella;Arenipses;Pyralidae
-SP867;SP867;Argyresthia thuiella;Argyresthia thuiella;Argyresthia;Argyresthiidae
-SP868;SP868;Blastobasis adustella;Blastobasis adustella;Blastobasis;Blastobasidae
-SP869;SP869;Apopestes spectrum;Apopestes spectrum;Apopestes;Erebidae
-SP870;SP870;Autosticha modicella;Autosticha modicella;Autosticha;Autostichidae
-SP871;SP871;Batrachedra knabi;Batrachedra knabi;Batrachedra;Batrachedridae
-SP872;SP872;Blastobasis decolorella;Blastobasis decolorella;Blastobasis;Blastobasidae
-SP873;SP873;Blastobasis glandulella;Blastobasis glandulella;Blastobasis;Blastobasidae
-SP874;SP874;Blastobasis lacticolella;Blastobasis lacticolella;Blastobasis;Blastobasidae
-SP875;SP875;Blastobasis maroccanella;Blastobasis maroccanella;Blastobasis;Blastobasidae
-SP876;SP876;Blastobasis vittata;Blastobasis vittata;Blastobasis;Blastobasidae
-SP877;SP877;Borkhausenia nefrax;Borkhausenia nefrax;Borkhausenia;Oecophoridae
-SP878;SP878;Bucculatrix chrysanthemella;Bucculatrix chrysanthemella;Bucculatrix;Bucculatricidae
-SP879;SP879;Cadra calidella;Cadra calidella;Cadra;Pyralidae
-SP880;SP880;Bucculatrix ainsliella;Bucculatrix ainsliella;Bucculatrix;Bucculatricidae
-SP881;SP881;Calephelis virginiensis;Calephelis virginiensis;Calephelis;Riodinidae
-SP882;SP882;Callopistria floridensis;Callopistria floridensis;Callopistria;Noctuidae
-SP883;SP883;Cameraria gaultheriella;Cameraria gaultheriella;Cameraria;Gracillariidae
-SP884;SP884;Caphys biliniata;Caphys biliniata;Caphys;Pyralidae
-SP885;SP885;Catopsilia pyranthe;Catopsilia pyranthe;Catopsilia;Pieridae
-SP886;SP886;Chiasmia aestimaria;Chiasmia aestimaria;Chiasmia;Geometridae
-SP887;SP887;Coleophora spiraeella;Coleophora spiraeella;Coleophora;Coleophoridae
-SP888;SP1385;Choreutis nemorana;Anthophila nemorana;Anthophila;Choreutidae
-SP889;SP889;Choristoneura freemani;Choristoneura freemani;Choristoneura;Tortricidae
-SP890;SP890;Clavigesta sylvestrana;Clavigesta sylvestrana;Clavigesta;Tortricidae
-SP891;SP893;Coleophora coxi;Coleophora texanella;Coleophora;Coleophoridae
-SP892;SP892;Coleophora serratella;Coleophora serratella;Coleophora;Coleophoridae
-SP893;SP893;Coleophora texanella;Coleophora texanella;Coleophora;Coleophoridae
-SP894;SP894;Coleotechnites piceaella;Coleotechnites piceaella;Coleotechnites;Gelechiidae
-SP895;SP51;Cryptophlebia leucotreta;Thaumatotibia leucotreta;Thaumatotibia;Tortricidae
-SP896;SP896;Comotia torsicornis;Comotia torsicornis;Comotia;Pyralidae
-SP897;SP897;Copaxa lavendera;Copaxa lavendera;Copaxa;Saturniidae
-SP898;SP580;Crocidolomia binotalis;Crocidolomia pavonana;Crocidolomia;Crambidae
-SP899;SP899;Crocidophora butleri;Crocidophora butleri;Crocidophora;Crambidae
-SP900;SP1455;Cydia deshaisiana;Cydia saltitans;Cydia;Tortricidae
-SP901;SP901;Cydia grunertiana;Cydia grunertiana;Cydia;Tortricidae
-SP902;SP902;Cydia millenniana;Cydia millenniana;Cydia;Tortricidae
-SP903;SP903;Cydia pactolana;Cydia pactolana;Cydia;Tortricidae
-SP904;SP478;Cynthia cardui;Vanessa cardui;Vanessa;Nymphalidae
-SP905;SP905;Vanessa carye;Vanessa carye;Vanessa;Nymphalidae
-SP906;SP906;Dryadaula pactolia;Dryadaula pactolia;Dryadaula;Dryadaulidae
-SP907;SP963;Elophila manilensis;Nymphula manilensis;Nymphula;Crambidae
-SP908;SP908;Epinotia cedricida;Epinotia cedricida;Epinotia;Tortricidae
-SP909;SP909;Epinotia nigricana;Epinotia nigricana;Epinotia;Tortricidae
-SP910;SP910;Erannis defoliaria;Erannis defoliaria;Erannis;Geometridae
-SP911;SP1460;Eratophyes amasiella;Schiffermuelleria amasiella;Schiffermuelleria;Oecophoridae
-SP912;SP912;Euchromia lethe;Euchromia lethe;Euchromia;Erebidae
-SP913;SP913;Eupithecia lariciata;Eupithecia lariciata;Eupithecia;Geometridae
-SP914;SP914;Eupithecia phoeniceata;Eupithecia phoeniceata;Eupithecia;Geometridae
-SP915;SP915;Danaus genutia;Danaus genutia;Danaus;Nymphalidae
-SP916;SP916;Dasyses incrustata;Dasyses incrustata;Dasyses;Tineidae
-SP917;SP917;Deilephila elpenor;Deilephila elpenor;Deilephila;Sphingidae
-SP918;SP1452;Dichelia cedricola;Syndemis cedricola;Syndemis;Tortricidae
-SP919;SP919;Ditula angustiorana;Ditula angustiorana;Ditula;Tortricidae
-SP920;SP920;Earias ansorgei;Earias ansorgei;Earias;Nolidae
-SP921;SP1450;Eodiatraea rufescens;Diatraea rufescens;Diatraea;Crambidae
-SP922;SP922;Epinotia fraternana;Epinotia fraternana;Epinotia;Tortricidae
-SP923;SP1422;Epinotia laracana;Epinotia celtisana;Epinotia;Tortricidae
-SP924;SP924;Epinotia subsequana;Epinotia subsequana;Epinotia;Tortricidae
-SP925;SP925;Erinnyis ello;Erinnyis ello;Erinnyis;Sphingidae
-SP926;SP926;Ethmia nigroapicella;Ethmia nigroapicella;Ethmia;Ethmiidae
-SP927;SP927;Eupithecia intricata;Eupithecia intricata;Eupithecia;Geometridae
-SP928;SP928;Eupithecia pulchellata;Eupithecia pulchellata;Eupithecia;Geometridae
-SP929;SP929;Euploea core;Euploea core;Euploea;Nymphalidae
-SP930;SP930;Euproctis fraterna;Euproctis fraterna;Euproctis;Erebidae
-SP931;SP931;Eustixia pupula;Eustixia pupula;Eustixia;Crambidae
-SP932;SP932;Eutelia adulatrix;Eutelia adulatrix;Eutelia;Euteliidae
-SP933;SP933;Euzophera osseatella;Euzophera osseatella;Euzophera;Pyralidae
-SP934;SP934;Euzophera pinguis;Euzophera pinguis;Euzophera;Pyralidae
-SP935;SP935;Evergestis aenealis;Evergestis aenealis;Evergestis;Crambidae
-SP936;SP936;Gelechia sabinellus;Gelechia sabinellus;Gelechia;Gelechiidae
-SP937;SP937;Idaea inquinata;Idaea inquinata;Idaea;Geometridae
-SP938;SP938;Lithophane leautieri;Lithophane leautieri;Lithophane;Noctuidae
-SP939;SP1390;Oegoconia novimundi;Oegoconia quadripuncta;Oegoconia;Autostichidae
-SP940;SP940;Hadena compta;Hadena compta;Hadena;Noctuidae
-SP941;SP941;Haplochrois theae;Haplochrois theae;Haplochrois;Elachistidae
-SP942;SP942;Haplotinea insectella;Haplotinea insectella;Haplotinea;Tineidae
-SP943;SP943;Heringocrania unimaculella;Heringocrania unimaculella;Heringocrania;Eriocraniidae
-SP944;SP944;Hipparchia statilinus;Hipparchia statilinus;Hipparchia;Nymphalidae
-SP945;SP1243;Homadaula albizziae;Homadaula anisocentra;Homadaula;Galacticidae
-SP946;SP946;Hyles euphorbiae;Hyles euphorbiae;Hyles;Sphingidae
-SP947;SP947;Hypolimnas misippus;Hypolimnas misippus;Hypolimnas;Nymphalidae
-SP948;SP948;Hypsopygia costalis;Hypsopygia costalis;Hypsopygia;Pyralidae
-SP949;SP949;Iphiclides podalirius;Iphiclides podalirius;Iphiclides;Papilionidae
-SP950;SP950;Junonia atlites;Junonia atlites;Junonia;Nymphalidae
-SP951;SP1401;Kotochalia junodi;Chaliopsis junodi;Chaliopsis;Psychidae
-SP952;SP128;Laspeyresia pomonella;Cydia pomonella;Cydia;Tortricidae
-SP953;SP953;Leucoma salicis;Leucoma salicis;Leucoma;Erebidae
-SP954;SP954;Macaria liturata;Macaria liturata;Macaria;Geometridae
-SP955;SP955;Manduca quinquemaculatus;Manduca quinquemaculatus;Manduca;Sphingidae
-SP956;SP956;Monema flavescens;Monema flavescens;Monema;Limacodidae
-SP957;SP957;Mussidia nigrivenella;Mussidia nigrivenella;Mussidia;Pyralidae
-SP958;SP958;Myrlaea marmorata;Myrlaea marmorata;Myrlaea;Pyralidae
-SP959;SP959;Nemapogon variatella;Nemapogon variatella;Nemapogon;Tineidae
-SP960;SP960;Neurothaumasia ankerella;Neurothaumasia ankerella;Neurothaumasia;Tineidae
-SP961;SP1057;Nymphula crisonalis;Parapoynx crisonalis;Parapoynx;Crambidae
-SP962;SP1060;Nymphula enixalis;Elophila difflualis;Elophila;Crambidae
-SP963;SP963;Nymphula manilensis;Nymphula manilensis;Nymphula;Crambidae
-SP964;SP964;Elophila responsalis;Elophila responsalis;Elophila;Crambidae
-SP965;SP965;Oligostigma polydectalis;Oligostigma polydectalis;Oligostigma;Crambidae
-SP966;SP1466;Orgyia turbata;Clethrogyna turbata;Clethrogyna;Erebidae
-SP967;SP967;Parapoynx bilinealis;Parapoynx bilinealis;Parapoynx;Crambidae
-SP968;SP968;Phtheochroa pulvillana;Phtheochroa pulvillana;Phtheochroa;Tortricidae
-SP969;SP969;Phyllonorycter geniculella;Phyllonorycter geniculella;Phyllonorycter;Gracillariidae
-SP970;SP970;Phyllonorycter leucographella;Phyllonorycter leucographella;Phyllonorycter;Gracillariidae
-SP971;SP174;Phyllonorycter robiniella;Macrosaccus robiniella;Macrosaccus;Gracillariidae
-SP972;SP972;Pardasena virgulana;Pardasena virgulana;Pardasena;Nolidae
-SP973;SP973;Phobetron hipparchia;Phobetron hipparchia;Phobetron;Limacodidae
-SP974;SP970;Phyllonorycter leucographellus;Phyllonorycter leucographella;Phyllonorycter;Gracillariidae
-SP975;SP975;Phyllonorycter medicaginella;Phyllonorycter medicaginella;Phyllonorycter;Gracillariidae
-SP976;SP976;Platynota rostrana;Platynota rostrana;Platynota;Tortricidae
-SP977;SP977;Psychoides filicivora;Psychoides filicivora;Psychoides;Tineidae
-SP978;SP978;Spodoptera dolichos;Spodoptera dolichos;Spodoptera;Noctuidae
-SP979;SP620;Ponometia candefacta;Acontia candefacta;Acontia;Noctuidae
-SP980;SP1388;Pryeria sinica;Sinica sinica;Sinica;Zygaenidae
-SP981;SP981;Pygospila tyres;Pygospila tyres;Pygospila;Crambidae
-SP982;SP982;Pyrrharctia isabella;Pyrrharctia isabella;Pyrrharctia;Erebidae
-SP983;SP983;Plesiomorpha flaviceps;Plesiomorpha flaviceps;Plesiomorpha;Geometridae
-SP984;SP984;Rothschildia orizaba;Rothschildia orizaba;Rothschildia;Saturniidae
-SP985;SP985;Sameodes cancellalis;Sameodes cancellalis;Sameodes;Crambidae
-SP986;SP986;Saturnia pyri;Saturnia pyri;Saturnia;Saturniidae
-SP987;SP987;Sceliodes laisalis;Sceliodes laisalis;Sceliodes;Crambidae
-SP988;SP988;Scythris buszkoi;Scythris buszkoi;Scythris;Scythrididae
-SP989;SP989;Selania leplastriana;Selania leplastriana;Selania;Tortricidae
-SP990;SP1062;Sibine stimulea;Acharia stimulea;Acharia;Limacodidae
-SP991;SP991;Sphinx pinastri;Sphinx pinastri;Sphinx;Sphingidae
-SP992;SP992;Theresimima ampellophaga;Theresimima ampellophaga;Theresimima;Zygaenidae
-SP993;SP993;Vitula edmandsii;Vitula edmandsii;Vitula;Pyralidae
-SP994;SP1102;Stenoptilia millieridactyla;Stenoptilia millieridactylus;Stenoptilia;Pterophoridae
-SP995;SP995;Stigmella suberivora;Stigmella suberivora;Stigmella;Nepticulidae
-SP996;SP1410;Syncopacma polychromella;Aproaerema polychromella;Aproaerema;Gelechiidae
-SP997;SP1438;Theretra latreillei;Theretra latreillii;Theretra;Sphingidae
-SP998;SP530;Tinea laricella;Coleophora laricella;Coleophora;Coleophoridae
-SP999;SP1443;Typhonia beatricis;Typhonia melana;Typhonia;Psychidae
-SP1000;SP1000;Utetheisa ornatrix;Utetheisa ornatrix;Utetheisa;Erebidae
-SP1001;SP1001;Deudorix livia;Deudorix livia;Deudorix;Lycaenidae
-SP1002;SP1002;Zebronia phenice;Zebronia phenice;Zebronia;Crambidae
-SP1003;SP1003;Zeiraphera griseana;Zeiraphera griseana;Zeiraphera;Tortricidae
-SP1004;SP1004;Zygaena orana;Zygaena orana;Zygaena;Zygaenidae
-SP1005;SP1005;Earias biplaga;Earias biplaga;Earias;Nolidae
-SP1006;SP1006;Earias cupreoviridis;Earias cupreoviridis;Earias;Nolidae
-SP1007;SP1007;Earias vittella;Earias vittella;Earias;Nolidae
-SP1008;SP1008;Eldana saccharina;Eldana saccharina;Eldana;Pyralidae
-SP1009;SP1009;Eupalamides cyparissias;Eupalamides cyparissias;Eupalamides;Castniidae
-SP1010;SP1010;Exelastis atomosa;Exelastis atomosa;Exelastis;Pterophoridae
-SP1011;SP1011;Megastes grandalis;Megastes grandalis;Megastes;Crambidae
-SP1012;SP1012;Megastes pusialis;Megastes pusialis;Megastes;Crambidae
-SP1013;SP1013;Parasa vivida;Parasa vivida;Parasa;Limacodidae
-SP1014;SP1014;Sacadodes pyralis;Sacadodes pyralis;Sacadodes;Noctuidae
-SP1015;SP1015;Sesamia uniformis;Sesamia uniformis;Sesamia;Noctuidae
-SP1016;SP1016;Spodoptera ornithogalli;Spodoptera ornithogalli;Spodoptera;Noctuidae
-SP1017;SP1017;Spodoptera praefica;Spodoptera praefica;Spodoptera;Noctuidae
-SP1018;SP1018;Tiracola plagiata;Tiracola plagiata;Tiracola;Noctuidae
-SP1019;SP1019;Chilo agamemnon;Chilo agamemnon;Chilo;Crambidae
-SP1020;SP1020;Choristoneura carnana;Choristoneura carnana;Choristoneura;Tortricidae
-SP1021;SP1021;Choristoneura orae;Choristoneura orae;Choristoneura;Tortricidae
-SP1022;SP1022;Choristoneura pinus;Choristoneura pinus;Choristoneura;Tortricidae
-SP1023;SP1023;Choristoneura fumiferana;Choristoneura fumiferana;Choristoneura;Tortricidae
-SP1024;SP1024;Choristoneura retiniana;Choristoneura retiniana;Choristoneura;Tortricidae
-SP1025;SP1025;Choristoneura parallela;Choristoneura parallela;Choristoneura;Tortricidae
-SP1026;SP1026;Choristoneura lambertiana;Choristoneura lambertiana;Choristoneura;Tortricidae
-SP1027;SP1027;Choristoneura conflictana;Choristoneura conflictana;Choristoneura;Tortricidae
-SP1028;SP1028;Chilo infuscatellus;Chilo infuscatellus;Chilo;Crambidae
-SP1029;SP1029;Diparopsis castanea;Diparopsis castanea;Diparopsis;Noctuidae
-SP1030;SP1030;Eoreuma loftini;Eoreuma loftini;Eoreuma;Crambidae
-SP1031;SP1031;Epicampoptera marantica;Epicampoptera marantica;Epicampoptera;Drepanidae
-SP1032;SP1032;Euzopherodes vapidella;Euzopherodes vapidella;Euzopherodes;Pyralidae
-SP1033;SP1033;Leucoptera meyricki;Leucoptera meyricki;Leucoptera;Lyonetiidae
-SP1034;SP1034;Leucoptera coma;Leucoptera coma;Leucoptera;Lyonetiidae
-SP1035;SP1035;Leucoptera caffeina;Leucoptera caffeina;Leucoptera;Lyonetiidae
-SP1036;SP1036;Sesamia calamistis;Sesamia calamistis;Sesamia;Noctuidae
-SP1037;SP1037;Pimelephila ghesquierei;Pimelephila ghesquierei;Pimelephila;Crambidae
-SP1038;SP1038;Acleris issikii;Acleris issikii;Acleris;Tortricidae
-SP1039;SP1039;Acleris nivisellana;Acleris nivisellana;Acleris;Tortricidae
-SP1040;SP1040;Acleris robinsoniana;Acleris robinsoniana;Acleris;Tortricidae
-SP1041;SP1041;Acleris senescens;Acleris senescens;Acleris;Tortricidae
-SP1042;SP1042;Acleris variana;Acleris variana;Acleris;Tortricidae
-SP1043;SP1043;Acrobasis pirivorella;Acrobasis pirivorella;Acrobasis;Pyralidae
-SP1044;SP1044;Acleris nishidai;Acleris nishidai;Acleris;Tortricidae
-SP1045;SP1045;Blastobasis graminea;Blastobasis graminea;Blastobasis;Blastobasidae
-SP1046;SP1046;Archips podana;Archips podana;Archips;Tortricidae
-SP1047;SP1047;Busseola fusca;Busseola fusca;Busseola;Noctuidae
-SP1048;SP1463;Telchin licus;Castnia licus;Castnia;Castniidae
-SP1049;SP1049;Antispila oinophylla;Antispila oinophylla;Antispila;Heliozelidae
-SP1050;SP1050;Parapoynx polydectalis;Parapoynx polydectalis;Parapoynx;Crambidae
-SP1051;SP1051;Lozotaenia cedrivora;Lozotaenia cedrivora;Lozotaenia;Tortricidae
-SP1052;SP1052;Epinotia algeriensis;Epinotia algeriensis;Epinotia;Tortricidae
-SP1053;SP1413;Bifascioides leucomelanellus;Bifascioides leucomelanella;Bifascioides;Cosmopterigidae
-SP1054;SP1054;Ascalenia acaciella;Ascalenia acaciella;Ascalenia;Cosmopterigidae
-SP1055;SP1055;Neomariania rebeli;Neomariania rebeli;Neomariania;Cosmopterigidae
-SP1056;SP1056;Parapoynx obscuralis;Parapoynx obscuralis;Parapoynx;Crambidae
-SP1057;SP1057;Parapoynx crisonalis;Parapoynx crisonalis;Parapoynx;Crambidae
-SP1058;SP1058;Agassiziella angulipennis;Agassiziella angulipennis;Agassiziella;Crambidae
-SP1059;SP1059;Blastobasis rebeli;Blastobasis rebeli;Blastobasis;Blastobasidae
-SP1060;SP1060;Elophila difflualis;Elophila difflualis;Elophila;Crambidae
-SP1061;SP1061;Arenipses sabella;Arenipses sabella;Arenipses;Pyralidae
-SP1062;SP1062;Acharia stimulea;Acharia stimulea;Acharia;Limacodidae
-SP1063;SP1063;Elophila melagynalis;Elophila melagynalis;Elophila;Crambidae
-SP1064;SP1064;Gisilia stereodoxa;Gisilia stereodoxa;Gisilia;Cosmopterigidae
-SP1065;SP1065;Peribatodes perversaria;Peribatodes perversaria;Peribatodes;Geometridae
-SP1066;SP1066;Papilio demodocus;Papilio demodocus;Papilio;Papilionidae
-SP1067;SP1067;Syntomeida epilais;Syntomeida epilais;Syntomeida;Erebidae
-SP1068;SP1068;Eurema blanda;Eurema blanda;Eurema;Pieridae
-SP1069;SP1288;Actias isabellae;Graellsia isabellae;Graellsia;Saturniidae
-SP1070;SP1070;Aloa lactinea;Aloa lactinea;Aloa;Erebidae
-SP1071;SP1071;Crambus leucoschalis;Crambus leucoschalis;Crambus;Crambidae
-SP1072;SP1072;Ethmia terminella;Ethmia terminella;Ethmia;Ethmiidae
-SP1073;SP1073;Euclasta varii;Euclasta varii;Euclasta;Crambidae
-SP1074;SP1074;Eupithecia sinuosaria;Eupithecia sinuosaria;Eupithecia;Geometridae
-SP1075;SP1075;Feltia subgothica;Feltia subgothica;Feltia;Noctuidae
-SP1076;SP1076;Idaea bonifata;Idaea bonifata;Idaea;Geometridae
-SP1077;SP1077;Kirinia roxelana;Kirinia roxelana;Kirinia;Nymphalidae
-SP1078;SP902;Laspeyresia milleniana;Cydia millenniana;Cydia;Tortricidae
-SP1079;SP1079;Nemapogon gerasimovi;Nemapogon gerasimovi;Nemapogon;Tineidae
-SP1080;SP1080;Sciota marmorata;Sciota marmorata;Sciota;Pyralidae
-SP1081;SP824;Stigmella heringella;Ectoedemia heringella;Ectoedemia;Nepticulidae
-SP1082;SP1082;Heteropterus morpheus;Heteropterus morpheus;Heteropterus;Hesperiidae
-SP1083;SP1083;Sedina buettneri;Sedina buettneri;Sedina;Noctuidae
-SP1084;SP1084;Azeta repugnalis;Azeta repugnalis;Azeta;Erebidae
-SP1085;SP1085;Rapala manea;Rapala manea;Rapala;Lycaenidae
-SP1086;SP1086;Phycita diaphana;Phycita diaphana;Phycita;Pyralidae
-SP1087;SP1087;Euplexia lucipara;Euplexia lucipara;Euplexia;Noctuidae
-SP1088;SP1088;Eurranthis plummistaria;Eurranthis plummistaria;Eurranthis;Geometridae
-SP1089;SP1089;Synanthedon andrenaeformis;Synanthedon andrenaeformis;Synanthedon;Sesiidae
-SP1090;SP1090;Ocnerostoma piniariella;Ocnerostoma piniariella;Ocnerostoma;Yponomeutidae
-SP1091;SP1091;Phyllonorycter strigulatella;Phyllonorycter strigulatella;Phyllonorycter;Gracillariidae
-SP1092;SP845;Acharia apicalis;Sibine apicalis;Sibine;Limacodidae
-SP1093;SP1093;Elophila nymphaeata;Elophila nymphaeata;Elophila;Crambidae
-SP1094;SP1094;Esperia sulphurella;Esperia sulphurella;Esperia;Oecophoridae
-SP1095;SP1095;Eupithecia carpophagata;Eupithecia carpophagata;Eupithecia;Geometridae
-SP1096;SP1096;Leucoptera laburnella;Leucoptera laburnella;Leucoptera;Lyonetiidae
-SP1097;SP1097;Phyllonorycter joannisi;Phyllonorycter joannisi;Phyllonorycter;Gracillariidae
-SP1098;SP1098;Spatalia argentina;Spatalia argentina;Spatalia;Notodontidae
-SP1099;SP1397;Zophodia grossulariella;Zophodia convolutella;Zophodia;Pyralidae
-SP1100;SP1100;Eccopisa effractella;Eccopisa effractella;Eccopisa;Pyralidae
-SP1101;SP1101;Haplotinea ditella;Haplotinea ditella;Haplotinea;Tineidae
-SP1102;SP1102;Stenoptilia millieridactylus;Stenoptilia millieridactylus;Stenoptilia;Pterophoridae
-SP1103;SP1103;Stigmella pyri;Stigmella pyri;Stigmella;Nepticulidae
-SP1104;SP1104;Thera britannica;Thera britannica;Thera;Geometridae
-SP1105;SP1105;Zelleria oleastrella;Zelleria oleastrella;Zelleria;Yponomeutidae
-SP1106;SP1106;Stigmella speciosa;Stigmella speciosa;Stigmella;Nepticulidae
-SP1107;SP1107;Earias vernana;Earias vernana;Earias;Nolidae
-SP1108;SP1108;Stigmella centifoliella;Stigmella centifoliella;Stigmella;Nepticulidae
-SP1109;SP852;Agrius cingulatus;Agrius cingulata;Agrius;Sphingidae
-SP1110;SP1110;Acentria ephemerella;Acentria ephemerella;Acentria;Crambidae
-SP1111;SP1111;Acleris forsskaleana;Acleris forsskaleana;Acleris;Tortricidae
-SP1112;SP1112;Acleris holmiana;Acleris holmiana;Acleris;Tortricidae
-SP1113;SP1113;Acleris rhombana;Acleris rhombana;Acleris;Tortricidae
-SP1114;SP1114;Acrobasis suavella;Acrobasis suavella;Acrobasis;Pyralidae
-SP1115;SP1115;Agapeta zoegana;Agapeta zoegana;Agapeta;Tortricidae
-SP1116;SP1116;Agrochola lota;Agrochola lota;Agrochola;Noctuidae
-SP1117;SP1117;Amphipyra tragopoginis;Amphipyra tragopoginis;Amphipyra;Noctuidae
-SP1118;SP1118;Anacampsis populella;Anacampsis populella;Anacampsis;Gelechiidae
-SP1119;SP1119;Anania hortulata;Anania hortulata;Anania;Crambidae
-SP1120;SP1120;Anartia lytraea;Anartia lytraea;Anartia;Nymphalidae
-SP1121;SP1121;Anomis argillacea;Anomis argillacea;Anomis;Erebidae
-SP1122;SP1122;Anomis privata;Anomis privata;Anomis;Erebidae
-SP1123;SP1123;Anticarsia gemmatalis;Anticarsia gemmatalis;Anticarsia;Erebidae
-SP1124;SP1124;Apamea unanimis;Apamea unanimis;Apamea;Noctuidae
-SP1125;SP1125;Aphomia sociella;Aphomia sociella;Aphomia;Pyralidae
-SP1126;SP1126;Aphrissa orbis;Aphrissa orbis;Aphrissa;Pieridae
-SP1127;SP1128;Apterona crenulella;Apterona helicoidella;Apterona;Psychidae
-SP1128;SP1128;Apterona helicoidella;Apterona helicoidella;Apterona;Psychidae
-SP1129;SP1128;Apterona helix;Apterona helicoidella;Apterona;Psychidae
-SP1130;SP1130;Archips oporana;Archips oporana;Archips;Tortricidae
-SP1131;SP1131;Argyresthia conjugella;Argyresthia conjugella;Argyresthia;Argyresthiidae
-SP1132;SP1132;Autosticha kyotensis;Autosticha kyotensis;Autosticha;Autostichidae
-SP1133;SP1133;Batia lunaris;Batia lunaris;Batia;Oecophoridae
-SP1134;SP1134;Bedellia orchilella;Bedellia orchilella;Bedellia;Bedelliidae
-SP1135;SP1135;Calophasia lunula;Calophasia lunula;Calophasia;Noctuidae
-SP1136;SP1136;Caloptilia triadicae;Caloptilia triadicae;Caloptilia;Gracillariidae
-SP1137;SP1137;Caradrina clavipalpis;Caradrina clavipalpis;Caradrina;Noctuidae
-SP1138;SP1138;Caradrina morpheus;Caradrina morpheus;Caradrina;Noctuidae
-SP1139;SP1139;Carcina quercana;Carcina quercana;Carcina;Peleopodidae
-SP1140;SP1140;Cerapteryx graminis;Cerapteryx graminis;Cerapteryx;Noctuidae
-SP1141;SP1141;Choreutis pariana;Choreutis pariana;Choreutis;Choreutidae
-SP1142;SP1142;Chrysodeixis includens;Chrysodeixis includens;Chrysodeixis;Noctuidae
-SP1143;SP1143;Clepsis spectrana;Clepsis spectrana;Clepsis;Tortricidae
-SP1144;SP1144;Cnephasia asseclana;Cnephasia asseclana;Cnephasia;Tortricidae
-SP1145;SP1145;Cnephasia longana;Cnephasia longana;Cnephasia;Tortricidae
-SP1146;SP1146;Cnephasia stephensiana;Cnephasia stephensiana;Cnephasia;Tortricidae
-SP1147;SP1147;Coleophora badiipennella;Coleophora badiipennella;Coleophora;Coleophoridae
-SP1148;SP1148;Coleophora colutella;Coleophora colutella;Coleophora;Coleophoridae
-SP1149;SP1149;Coleophora limosipennella;Coleophora limosipennella;Coleophora;Coleophoridae
-SP1150;SP1150;Coleophora parthenica;Coleophora parthenica;Coleophora;Coleophoridae
-SP1151;SP1151;Cucullia umbratica;Cucullia umbratica;Cucullia;Noctuidae
-SP1152;SP1152;Cyclargus ammon;Cyclargus ammon;Cyclargus;Lycaenidae
-SP1153;SP1153;Dasystoma salicella;Dasystoma salicella;Dasystoma;Lypusidae
-SP1154;SP1458;Depressaria daucella;Depressaria apiella;Depressaria;Depressariidae
-SP1155;SP1155;Dichomeris marginella;Dichomeris marginella;Dichomeris;Gelechiidae
-SP1156;SP1156;Dichomeris picrocarpa;Dichomeris picrocarpa;Dichomeris;Gelechiidae
-SP1157;SP1157;Elachista saccharella;Elachista saccharella;Elachista;Elachistidae
-SP1158;SP1427;Digrammia hebetata;Digrammia rippertaria;Digrammia;Geometridae
-SP1159;SP1159;Dinumma deponens;Dinumma deponens;Dinumma;Erebidae
-SP1160;SP1421;Ecpyrrhorrhoe puralis;Mimudea puralis;Mimudea;Crambidae
-SP1161;SP1161;Empyreuma pugione;Empyreuma pugione;Empyreuma;Erebidae
-SP1162;SP1446;Epicallima formosella;Callima formosella;Callima;Oecophoridae
-SP1163;SP1163;Etainia sericopeza;Etainia sericopeza;Etainia;Nepticulidae
-SP1164;SP1164;Ethmia bipunctella;Ethmia bipunctella;Ethmia;Ethmiidae
-SP1165;SP1165;Eulithis mellinata;Eulithis mellinata;Eulithis;Geometridae
-SP1166;SP1166;Evergestis pallidata;Evergestis pallidata;Evergestis;Crambidae
-SP1167;SP1167;Exoteleia dodecella;Exoteleia dodecella;Exoteleia;Gelechiidae
-SP1168;SP1168;Garella nilotica;Garella nilotica;Garella;Nolidae
-SP1169;SP1169;Glyphodes onychinalis;Glyphodes onychinalis;Glyphodes;Crambidae
-SP1170;SP1170;Gonodonta bidens;Gonodonta bidens;Gonodonta;Erebidae
-SP1171;SP1171;Gracillaria syringella;Gracillaria syringella;Gracillaria;Gracillariidae
-SP1172;SP1172;Hemithea aestivaria;Hemithea aestivaria;Hemithea;Geometridae
-SP1173;SP1173;Hileithia decostalis;Hileithia decostalis;Hileithia;Crambidae
-SP1174;SP1174;Hydraecia micacea;Hydraecia micacea;Hydraecia;Noctuidae
-SP1175;SP1449;Lampronia corticella;Incurvaria rubiella;Incurvaria;Incurvariidae
-SP1176;SP1447;Lamprosema charesalis;Lamprosema chagosalis;Lamprosema;Crambidae
-SP1177;SP1177;Lateroligia ophiogramma;Lateroligia ophiogramma;Lateroligia;Noctuidae
-SP1178;SP1178;Leucania comma;Leucania comma;Leucania;Noctuidae
-SP1179;SP561;Lobesia euphorbiana;Lobesiodes euphorbiana;Lobesiodes;Tortricidae
-SP1180;SP1180;Lycomorphodes sordida;Lycomorphodes sordida;Lycomorphodes;Erebidae
-SP1181;SP1181;Mesapamea secalis;Mesapamea secalis;Mesapamea;Noctuidae
-SP1182;SP1182;Metzneria lappella;Metzneria lappella;Metzneria;Gelechiidae
-SP1183;SP1183;Metzneria paucipunctella;Metzneria paucipunctella;Metzneria;Gelechiidae
-SP1184;SP1184;Monopis obviella;Monopis obviella;Monopis;Tineidae
-SP1185;SP1185;Moodna bisinuella;Moodna bisinuella;Moodna;Pyralidae
-SP1186;SP1186;Neoleucinodes torvis;Neoleucinodes torvis;Neoleucinodes;Crambidae
-SP1187;SP1187;Niphonyx segregata;Niphonyx segregata;Niphonyx;Noctuidae
-SP1188;SP1188;Nola cucullatella;Nola cucullatella;Nola;Nolidae
-SP1189;SP1189;Ochsenheimeria vacculella;Ochsenheimeria vacculella;Ochsenheimeria;Ypsolophidae
-SP1190;SP1190;Oligia latruncula;Oligia latruncula;Oligia;Noctuidae
-SP1191;SP1191;Oligia strigilis;Oligia strigilis;Oligia;Noctuidae
-SP1192;SP1429;Omphaloscelis lunosa;Anchoscelis lunosa;Anchoscelis;Noctuidae
-SP1193;SP1193;Ornativalva erubescens;Ornativalva erubescens;Ornativalva;Gelechiidae
-SP1194;SP1194;Pandemis cerasana;Pandemis cerasana;Pandemis;Tortricidae
-SP1195;SP1195;Pandemis heparana;Pandemis heparana;Pandemis;Tortricidae
-SP1196;SP1196;Paracorsia repandalis;Paracorsia repandalis;Paracorsia;Crambidae
-SP1197;SP1197;Parascotia fuliginaria;Parascotia fuliginaria;Parascotia;Erebidae
-SP1198;SP1277;Paraswammerdamia nebulella;Paraswammerdamia lutarea;Paraswammerdamia;Yponomeutidae
-SP1199;SP1199;Pasiphila rectangulata;Pasiphila rectangulata;Pasiphila;Geometridae
-SP1200;SP1200;Perittia herrichiella;Perittia herrichiella;Perittia;Elachistidae
-SP1201;SP1201;Perizoma alchemillata;Perizoma alchemillata;Perizoma;Geometridae
-SP1202;SP1202;Porphyrosela minuta;Porphyrosela minuta;Porphyrosela;Gracillariidae
-SP1203;SP1203;Prepona laertes;Prepona laertes;Prepona;Nymphalidae
-SP1204;SP1204;Promalactis suzukiella;Promalactis suzukiella;Promalactis;Oecophoridae
-SP1205;SP1205;Psyche casta;Psyche casta;Psyche;Psychidae
-SP1206;SP1206;Pterolonche inspersa;Pterolonche inspersa;Pterolonche;Pterolonchidae
-SP1207;SP1207;Recurvaria nanella;Recurvaria nanella;Recurvaria;Gelechiidae
-SP1208;SP1417;Remigia conveniens;Mocis conveniens;Mocis;Erebidae
-SP1209;SP1209;Rhopobota naevana;Rhopobota naevana;Rhopobota;Tortricidae
-SP1210;SP1210;Scardia amurensis;Scardia amurensis;Scardia;Tineidae
-SP1211;SP1211;Sclerocona acutella;Sclerocona acutella;Sclerocona;Crambidae
-SP1212;SP1212;Scorylus cubensis;Scorylus cubensis;Scorylus;Pyralidae
-SP1213;SP1213;Scythris sinensis;Scythris sinensis;Scythris;Scythrididae
-SP1214;SP1214;Sesia apiformis;Sesia apiformis;Sesia;Sesiidae
-SP1215;SP1215;Sitochroa palealis;Sitochroa palealis;Sitochroa;Crambidae
-SP1216;SP1216;Stenolechia bathrodyas;Stenolechia bathrodyas;Stenolechia;Gelechiidae
-SP1217;SP1217;Stylopalpia luniferella;Stylopalpia luniferella;Stylopalpia;Pyralidae
-SP1218;SP1277;Swammerdamia caesiella;Paraswammerdamia lutarea;Paraswammerdamia;Yponomeutidae
-SP1219;SP1219;Swammerdamia pyrella;Swammerdamia pyrella;Swammerdamia;Yponomeutidae
-SP1220;SP1220;Symmetrischema capsica;Symmetrischema capsica;Symmetrischema;Gelechiidae
-SP1221;SP1221;Syngrapha interrogationis;Syngrapha interrogationis;Syngrapha;Noctuidae
-SP1222;SP1222;Tathorhynchus exsiccata;Tathorhynchus exsiccata;Tathorhynchus;Noctuidae
-SP1223;SP1223;Thecla limenia;Thecla limenia;Thecla;Lycaenidae
-SP1224;SP1224;Thera juniperata;Thera juniperata;Thera;Geometridae
-SP1225;SP1225;Tyta luctuosa;Tyta luctuosa;Tyta;Erebidae
-SP1226;SP1226;Urbanus dorantes;Urbanus dorantes;Urbanus;Hesperiidae
-SP1227;SP1227;Xestia c-nigrum;Xestia c-nigrum;Xestia;Noctuidae
-SP1228;SP1228;Xestia xanthographa;Xestia xanthographa;Xestia;Noctuidae
-SP1229;SP1454;Yponomeuta cagnagella;Yponomeuta cagnagellus;Yponomeuta;Yponomeutidae
-SP1230;SP1230;Yponomeuta padella;Yponomeuta padella;Yponomeuta;Yponomeutidae
-SP1231;SP1231;Ypsolopha dentella;Ypsolopha dentella;Ypsolopha;Ypsolophidae
-SP1232;SP1415;Ypsolopha ustella;Ypsolophus ustella;Ypsolophus;Plutellidae
-SP1233;SP1233;Aristaea onychota;Aristaea onychota;Aristaea;Gracillariidae
-SP1234;SP1433;Homeosoma stenotea;Homoeosoma stenotea;Homoeosoma;Pyralidae
-SP1235;SP1235;Agonopterix alstromeriana;Agonopterix alstromeriana;Agonopterix;Depressariidae
-SP1236;SP1236;Heteroteucha dichroella;Heteroteucha dichroella;Heteroteucha;Oecophoridae
-SP1237;SP1237;Orgyia thyellina;Orgyia thyellina;Orgyia;Erebidae
-SP1238;SP1238;Papilio xuthus;Papilio xuthus;Papilio;Papilionidae
-SP1239;SP698;Tyria jacobaea;Tyria jacobaeae;Tyria;Erebidae
-SP1240;SP1240;Aethes rutilana;Aethes rutilana;Aethes;Tortricidae
-SP1241;SP892;Coleophora fuscedinella;Coleophora serratella;Coleophora;Coleophoridae
-SP1242;SP1164;Ethmia bipuctella;Ethmia bipunctella;Ethmia;Ethmiidae
-SP1243;SP1243;Homadaula anisocentra;Homadaula anisocentra;Homadaula;Galacticidae
-SP1244;SP130;Chrysoesthia sexgutella;Chrysoesthia sexguttella;Chrysoesthia;Gelechiidae
-SP1245;SP1245;Mirificarma eburnella;Mirificarma eburnella;Mirificarma;Gelechiidae
-SP1246;SP1199;Chloroclystis rectangulata;Pasiphila rectangulata;Pasiphila;Geometridae
-SP1247;SP1165;Eulithus mellinata;Eulithis mellinata;Eulithis;Geometridae
-SP1248;SP1404;Semiothisa hebesata;Chiasmia hebesata;Chiasmia;Geometridae
-SP1249;SP1449;Lampronia rubiella;Incurvaria rubiella;Incurvaria;Incurvariidae
-SP1250;SP956;Cnidocampa flavescens;Monema flavescens;Monema;Limacodidae
-SP1251;SP953;Stilpnotia salicis;Leucoma salicis;Leucoma;Erebidae
-SP1252;SP1163;Obrussa sericopeza;Etainia sericopeza;Etainia;Nepticulidae
-SP1253;SP1121;Alabama argillacea;Anomis argillacea;Anomis;Erebidae
-SP1254;SP1168;Characoma nilitica;Garella nilotica;Garella;Nolidae
-SP1255;SP387;Hadula trifolii;Anarta trifolii;Anarta;Noctuidae
-SP1256;SP1428;Pseudoplusia includens;Acontia margaritata;Acontia;Noctuidae
-SP1257;SP1227;Xestia adela;Xestia c-nigrum;Xestia;Noctuidae
-SP1258;SP1153;Cheimophila salicella;Dasystoma salicella;Dasystoma;Lypusidae
-SP1259;SP1446;Dafa formosella;Callima formosella;Callima;Oecophoridae
-SP1260;SP68;Anagasta kuehniella;Ephestia kuehniella;Ephestia;Pyralidae
-SP1261;SP129;Ephestia cautella;Cadra cautella;Cadra;Pyralidae
-SP1262;SP1119;Eurrhypara hortulata;Anania hortulata;Anania;Crambidae
-SP1263;SP703;Loxostege stricticalis;Loxostege sticticalis;Loxostege;Crambidae
-SP1264;SP1394;Vogtia malloi;Arcola malloi;Arcola;Pyralidae
-SP1265;SP1184;Monopis ferruginella;Monopis obviella;Monopis;Tineidae
-SP1266;SP1266;Auratonota dominica;Auratonota dominica;Auratonota;Tortricidae
-SP1267;SP42;Cacoeciamorpha pronubana;Cacoecimorpha pronubana;Cacoecimorpha;Tortricidae
-SP1268;SP1144;Cnephasia interjectana;Cnephasia asseclana;Cnephasia;Tortricidae
-SP1269;SP1111;Croesia forskaleana;Acleris forsskaleana;Acleris;Tortricidae
-SP1270;SP1112;Croesia holmiana;Acleris holmiana;Acleris;Tortricidae
-SP1271;SP22;Cydia molesta;Grapholita molesta;Grapholita;Tortricidae
-SP1272;SP101;Epiblema cynosbatella;Notocelia cynosbatella;Notocelia;Tortricidae
-SP1273;SP1273;Eucosmomorpha albersana;Eucosmomorpha albersana;Eucosmomorpha;Tortricidae
-SP1274;SP1209;Rhopobota unipuntana;Rhopobota naevana;Rhopobota;Tortricidae
-SP1275;SP1275;Sparganothis pilleriana;Sparganothis pilleriana;Sparganothis;Tortricidae
-SP1276;SP596;Spilonota lariciana;Spilonota laricana;Spilonota;Tortricidae
-SP1277;SP1277;Paraswammerdamia lutarea;Paraswammerdamia lutarea;Paraswammerdamia;Yponomeutidae
-SP1278;SP1277;Swammerdamia lutaria;Paraswammerdamia lutarea;Paraswammerdamia;Yponomeutidae
-SP1279;SP1279;Coleophora anatipennella;Coleophora anatipennella;Coleophora;Coleophoridae
-SP1280;SP701;Aglossa dimidiata;Aglossa dimidiatus;Aglossa;Pyralidae
-SP1281;SP703;Margaritia sticticalis;Loxostege sticticalis;Loxostege;Crambidae
-SP1282;SP689;Synanthedon tipuliforme;Synanthedon tipuliformis;Synanthedon;Sesiidae
-SP1283;SP1283;Acalyptris platani;Acalyptris platani;Acalyptris;Nepticulidae
-SP1284;SP1284;Argyresthia laevigatella;Argyresthia laevigatella;Argyresthia;Argyresthiidae
-SP1285;SP902;Cydia milleniana;Cydia millenniana;Cydia;Tortricidae
-SP1286;SP1286;Cydia strobilella;Cydia strobilella;Cydia;Tortricidae
-SP1287;SP41;Diaphania perspectalis;Cydalima perspectalis;Cydalima;Crambidae
-SP1288;SP1288;Graellsia isabellae;Graellsia isabellae;Graellsia;Saturniidae
-SP1289;SP829;Pennisetia hylaeformis;Pennisetia hylaeiformis;Pennisetia;Sesiidae
-SP1290;SP1290;Sesamia nonagrioides;Sesamia nonagrioides;Sesamia;Noctuidae
-SP1291;SP1291;Archips xylosteana;Archips xylosteana;Archips;Tortricidae
-SP1292;SP1292;Eugnosta chemsakiana;Eugnosta chemsakiana;Eugnosta;Tortricidae
-SP1293;SP1293;Thyraylia nana;Thyraylia nana;Thyraylia;Tortricidae
-SP1294;SP1294;Batrachedra amydraula;Batrachedra amydraula;Batrachedra;Batrachedridae
-SP1295;SP21;Galleria melonella;Galleria mellonella;Galleria;Pyralidae
-SP1296;SP1296;Coptodisca lucifluella;Coptodisca lucifluella;Coptodisca;Heliozelidae
-SP1297;SP70;Megalorhipida leucodactyla;Megalorhipida leucodactylus;Megalorhipida;Pterophoridae
-SP1298;SP67;Phyllocnistis vitigenella;Phyllocnistis vitegenella;Phyllocnistis;Gracillariidae
-SP1299;SP1299;Aethes flagellana;Aethes flagellana;Aethes;Tortricidae
-SP1300;SP1300;Agonopterix aspersella;Agonopterix aspersella;Agonopterix;Depressariidae
-SP1301;SP1301;Ancylosis albidella;Ancylosis albidella;Ancylosis;Pyralidae
-SP1302;SP1302;Atemelia torquatella;Atemelia torquatella;Atemelia;Yponomeutidae
-SP1303;SP1303;Brachodes funebris;Brachodes funebris;Brachodes;Brachodidae
-SP1304;SP1304;Caloptilia cuculipennella;Caloptilia cuculipennella;Caloptilia;Gracillariidae
-SP1305;SP1305;Celypha striana;Celypha striana;Celypha;Tortricidae
-SP1306;SP1306;Clostera curtula;Clostera curtula;Clostera;Notodontidae
-SP1307;SP1307;Cnephasia heinemanni;Cnephasia heinemanni;Cnephasia;Tortricidae
-SP1308;SP1308;Cochylidia moguntiana;Cochylidia moguntiana;Cochylidia;Tortricidae
-SP1309;SP1309;Coleophora ononidella;Coleophora ononidella;Coleophora;Coleophoridae
-SP1310;SP1310;Coleophora staehelinella;Coleophora staehelinella;Coleophora;Coleophoridae
-SP1311;SP1311;Cucullia reisseri;Cucullia reisseri;Cucullia;Noctuidae
-SP1312;SP1312;Depressaria velox;Depressaria velox;Depressaria;Depressariidae
-SP1313;SP1313;Depressaria veneficella;Depressaria veneficella;Depressaria;Depressariidae
-SP1314;SP1314;Dichomeris helianthemi;Dichomeris helianthemi;Dichomeris;Gelechiidae
-SP1315;SP1315;Elachista igaloensis;Elachista igaloensis;Elachista;Elachistidae
-SP1316;SP1316;Ethmia fumidella;Ethmia fumidella;Ethmia;Ethmiidae
-SP1317;SP1317;Eupithecia rosmarinata;Eupithecia rosmarinata;Eupithecia;Geometridae
-SP1318;SP1318;Eupithecia semigraphata;Eupithecia semigraphata;Eupithecia;Geometridae
-SP1319;SP1319;Grapholita tenebrosana;Grapholita tenebrosana;Grapholita;Tortricidae
-SP1320;SP1320;Haplochrois ochraceella;Haplochrois ochraceella;Haplochrois;Elachistidae
-SP1321;SP1321;Heterogenea asella;Heterogenea asella;Heterogenea;Limacodidae
-SP1322;SP1322;Hydrelia flammeolaria;Hydrelia flammeolaria;Hydrelia;Geometridae
-SP1323;SP1323;Lasionycta proxima;Lasionycta proxima;Lasionycta;Noctuidae
-SP1324;SP1324;Meganephria bimaculosa;Meganephria bimaculosa;Meganephria;Noctuidae
-SP1325;SP1325;Neomariania partinicensis;Neomariania partinicensis;Neomariania;Cosmopterigidae
-SP1326;SP1326;Nola thymula;Nola thymula;Nola;Nolidae
-SP1327;SP1327;Pammene gallicolana;Pammene gallicolana;Pammene;Tortricidae
-SP1328;SP1328;Phalonidia affinitana;Phalonidia affinitana;Phalonidia;Tortricidae
-SP1329;SP1329;Stenoptilia pterodactyla;Stenoptilia pterodactyla;Stenoptilia;Pterophoridae
-SP1330;SP1330;Stigmella desperatella;Stigmella desperatella;Stigmella;Nepticulidae
-SP1331;SP1457;Syncopacma buvati;Aproaerema buvati;Aproaerema;Gelechiidae
-SP1332;SP1332;Borkhausenia crimnodes;Borkhausenia crimnodes;Borkhausenia;Oecophoridae
-SP1333;SP1403;Donacaula niloticus;Schoenobius niloticus;Schoenobius;Crambidae
-SP1334;SP176;Grapholitha delineana;Grapholita delineana;Grapholita;Tortricidae
-SP1335;SP22;Grapholitha molesta;Grapholita molesta;Grapholita;Tortricidae
-SP1336;SP24;Phthorimaea openculella;Phthorimaea operculella;Phthorimaea;Gelechiidae
-SP1337;SP1337;Trilocha varians;Trilocha varians;Trilocha;Bombycidae
-SP1338;SP1338;Anomis sabulifera;Anomis sabulifera;Anomis;Erebidae
-SP1339;SP1451;Trichoplusia vittata;Vittaplusia vittata;Vittaplusia;Noctuidae
-SP1340;SP1420;Tinthia tineiformis;Microsphecia tineiformis;Microsphecia;Sesiidae
-SP1341;SP19;Hyphantrea cunea;Hyphantria cunea;Hyphantria;Erebidae
-SP1342;SP10;Spodoptora litura;Spodoptera litura;Spodoptera;Noctuidae
-SP1343;SP1343;Anapisa holobrunnea;Anapisa holobrunnea;Anapisa;Erebidae
-SP1344;SP1440;Anapisa metarctioides;Apisa metarctiodes;Apisa;Erebidae
-SP1345;SP1345;Archinadata aurivilliusi;Archinadata aurivilliusi;Archinadata;Notodontidae
-SP1346;SP1346;Archithosia makomensis;Archithosia makomensis;Archithosia;Erebidae
-SP1347;SP1347;Balacra compsa;Balacra compsa;Balacra;Erebidae
-SP1348;SP1348;Borbo borbonica;Borbo borbonica;Borbo;Hesperiidae
-SP1349;SP1349;Brachychira punctulata;Brachychira punctulata;Brachychira;Notodontidae
-SP1350;SP1350;Calligraphidia opulenta;Calligraphidia opulenta;Calligraphidia;Erebidae
-SP1351;SP1351;Daphaenisca inexpectata;Daphaenisca inexpectata;Daphaenisca;Erebidae
-SP1352;SP1352;Dasychira punctifera;Dasychira punctifera;Dasychira;Erebidae
-SP1353;SP1353;Euproctis ceramozona;Euproctis ceramozona;Euproctis;Erebidae
-SP1354;SP1354;Eurema floricola;Eurema floricola;Eurema;Pieridae
-SP1355;SP1355;Gargettoscrancia albolineata;Gargettoscrancia albolineata;Gargettoscrancia;Notodontidae
-SP1356;SP1356;Hippurarctia judith;Hippurarctia judith;Hippurarctia;Erebidae
-SP1357;SP1357;Hypotrabala castanea;Hypotrabala castanea;Hypotrabala;Lasiocampidae
-SP1358;SP1358;Ligulosia costimaculata;Ligulosia costimaculata;Ligulosia;Erebidae
-SP1359;SP1359;Lomadonta saturata;Lomadonta saturata;Lomadonta;Erebidae
-SP1360;SP1360;Meza mabillei;Meza mabillei;Meza;Hesperiidae
-SP1361;SP1361;Mimopacha tripunctata;Mimopacha tripunctata;Mimopacha;Lasiocampidae
-SP1362;SP1362;Neptis metella;Neptis metella;Neptis;Nymphalidae
-SP1363;SP1363;Pachytrina gliharta;Pachytrina gliharta;Pachytrina;Lasiocampidae
-SP1364;SP1364;Palaeugoa spurrelli;Palaeugoa spurrelli;Palaeugoa;Erebidae
-SP1365;SP1365;Pirga ubangiana;Pirga ubangiana;Pirga;Erebidae
-SP1366;SP1366;Pseudobarobata denticulata;Pseudobarobata denticulata;Pseudobarobata;Notodontidae
-SP1367;SP1367;Pseudobarobata integra;Pseudobarobata integra;Pseudobarobata;Notodontidae
-SP1368;SP1368;Rhypopteryx rubripunctata;Rhypopteryx rubripunctata;Rhypopteryx;Erebidae
-SP1369;SP1369;Stenoglene plagiatus;Stenoglene plagiatus;Stenoglene;Eupterotidae
-SP1370;SP1441;Telchinia encedana;Telchinia encedon;Telchinia;Nymphalidae
-SP1371;SP1371;Uripao albizonata;Uripao albizonata;Uripao;Erebidae
-SP1372;SP1372;Aproaerema modicella;Aproaerema modicella;Aproaerema;Gelechiidae
-SP1373;SP1437;Aproaerema simplixella;Aproaerema simplexella;Aproaerema;Gelechiidae
-SP1374;SP1374;Pareuchaetes aurata;Pareuchaetes aurata;Pareuchaetes;Erebidae
-SP1375;SP1375;Symbrenthia hypselis;Symbrenthia hypselis;Symbrenthia;Nymphalidae
-SP1376;SP435;Nemapogon granellus;Nemapogon granella;Nemapogon;Tineidae
-SP1377;SP578;Conopomorpha litchiela;Conopomorpha litchiella;Conopomorpha;Gracillariidae
-SP1378;SP68;Ephestia kuehniela;Ephestia kuehniella;Ephestia;Pyralidae
-SP1379;SP8;Sitotroga cerealela;Sitotroga cerealella;Sitotroga;Gelechiidae
-SP1380;SP1380;Pyrausta inornatalis;Pyrausta inornatalis;Pyrausta;Crambidae
-SP1381;SP1381;Stomphastis thraustica;Stomphastis thraustica;Stomphastis;Gracillariidae
-SP1382;SP1382;Angelabella tecomae;Angelabella tecomae;Angelabella;Gracillariidae
-SP1383;SP1383;Doleschallia bisaltide;Doleschallia bisaltide;Doleschallia;Nymphalidae
-SP1384;SP1384;Heliconius erato;Heliconius erato;Heliconius;Nymphalidae
-SP1385;SP1385;Anthophila nemorana;Anthophila nemorana;Anthophila;Choreutidae
-SP1386;SP1386;Coptodisca juglandiella;Coptodisca juglandiella;Coptodisca;Heliozelidae
-SP1387;SP1387;Leucoptera coffeella;Leucoptera coffeella;Leucoptera;Lyonetiidae
-SP1388;SP1388;Sinica sinica;Sinica sinica;Sinica;Zygaenidae
-SP1389;SP1389;Acherontia lachesis;Acherontia lachesis;Acherontia;Sphingidae
-SP1390;SP1390;Oegoconia quadripuncta;Oegoconia quadripuncta;Oegoconia;Autostichidae
-SP1391;SP1391;Dryadaula terpsichorella;Dryadaula terpsichorella;Dryadaula;Dryadaulidae
-SP1392;SP1392;Cryptoblabes adoceta;Cryptoblabes adoceta;Cryptoblabes;Pyralidae
-SP1393;SP1393;Manoba brunellus;Manoba brunellus;Manoba;Nolidae
-SP1394;SP1394;Arcola malloi;Arcola malloi;Arcola;Pyralidae
-SP1395;SP1395;Cizara ardeniae;Cizara ardeniae;Cizara;Sphingidae
-SP1396;SP1396;Helicoverpa assulta;Helicoverpa assulta;Helicoverpa;Noctuidae
-SP1397;SP1397;Zophodia convolutella;Zophodia convolutella;Zophodia;Pyralidae
-SP1398;SP1398;Cactoblastis doddi;Cactoblastis doddi;Cactoblastis;Pyralidae
-SP1399;SP1399;Leptocneria reducta;Leptocneria reducta;Leptocneria;Erebidae
-SP1400;SP1400;Cosmopterix feminella;Cosmopterix feminella;Cosmopterix;Cosmopterigidae
-SP1401;SP1401;Chaliopsis junodi;Chaliopsis junodi;Chaliopsis;Psychidae
-SP1402;SP1402;Acontia margana;Acontia margana;Acontia;Noctuidae
-SP1403;SP1403;Schoenobius niloticus;Schoenobius niloticus;Schoenobius;Crambidae
-SP1404;SP1404;Chiasmia hebesata;Chiasmia hebesata;Chiasmia;Geometridae
-SP1405;SP1405;Homoeographa lanceolella;Homoeographa lanceolella;Homoeographa;Pyralidae
-SP1406;SP1406;Chrysoclista linneela;Chrysoclista linneela;Chrysoclista;Elachistidae
-SP1407;SP1407;Polygonia vaualbum;Polygonia vaualbum;Polygonia;Nymphalidae
-SP1408;SP1408;Thyas coronata;Thyas coronata;Thyas;Erebidae
-SP1409;SP1409;Hypena commixtalis;Hypena commixtalis;Hypena;Erebidae
-SP1410;SP1410;Aproaerema polychromella;Aproaerema polychromella;Aproaerema;Gelechiidae
-SP1411;SP1411;Fabriciana niobe;Fabriciana niobe;Fabriciana;Nymphalidae
-SP1412;SP1412;Pyroderces incertulella;Pyroderces incertulella;Pyroderces;Cosmopterigidae
-SP1413;SP1413;Bifascioides leucomelanella;Bifascioides leucomelanella;Bifascioides;Cosmopterigidae
-SP1414;SP1414;Acontia exigua;Acontia exigua;Acontia;Noctuidae
-SP1415;SP1415;Ypsolophus ustella;Ypsolophus ustella;Ypsolophus;Plutellidae
-SP1416;SP1416;Pectinophora fusculella;Pectinophora fusculella;Pectinophora;Gelechiidae
-SP1417;SP1417;Mocis conveniens;Mocis conveniens;Mocis;Erebidae
-SP1418;SP1418;Coenonympha iphis;Coenonympha iphis;Coenonympha;Nymphalidae
-SP1419;SP1419;Oxyplax pallivitta;Oxyplax pallivitta;Oxyplax;Limacodidae
-SP1420;SP1420;Microsphecia tineiformis;Microsphecia tineiformis;Microsphecia;Sesiidae
-SP1421;SP1421;Mimudea puralis;Mimudea puralis;Mimudea;Crambidae
-SP1422;SP1422;Epinotia celtisana;Epinotia celtisana;Epinotia;Tortricidae
-SP1423;SP1423;Digrammia pallidata;Digrammia pallidata;Digrammia;Geometridae
-SP1424;SP1424;Stegasta basqueella;Stegasta basqueella;Stegasta;Gelechiidae
-SP1425;SP1425;Monochroa hornigi;Monochroa hornigi;Monochroa;Gelechiidae
-SP1426;SP1426;Dione vanillae;Dione vanillae;Dione;Nymphalidae
-SP1427;SP1427;Digrammia rippertaria;Digrammia rippertaria;Digrammia;Geometridae
-SP1428;SP1428;Acontia margaritata;Acontia margaritata;Acontia;Noctuidae
-SP1429;SP1429;Anchoscelis lunosa;Anchoscelis lunosa;Anchoscelis;Noctuidae
-SP1430;SP1430;Parectopa alysidota;Parectopa alysidota;Parectopa;Gracillariidae
-SP1431;SP1431;Samea ecclesialis;Samea ecclesialis;Samea;Crambidae
-SP1432;SP1432;Depressaria discipunctella;Depressaria discipunctella;Depressaria;Depressariidae
-SP1433;SP1433;Homoeosoma stenotea;Homoeosoma stenotea;Homoeosoma;Pyralidae
-SP1434;SP1434;Ancylis impatiens;Ancylis impatiens;Ancylis;Tortricidae
-SP1435;SP1435;Araeomolis nigripuncta;Araeomolis nigripuncta;Araeomolis;Erebidae
-SP1436;SP1436;Limenitis reducta;Limenitis reducta;Limenitis;Nymphalidae
-SP1437;SP1437;Aproaerema simplexella;Aproaerema simplexella;Aproaerema;Gelechiidae
-SP1438;SP1438;Theretra latreillii;Theretra latreillii;Theretra;Sphingidae
-SP1439;SP1439;Leucania obsoleta;Leucania obsoleta;Leucania;Noctuidae
-SP1440;SP1440;Apisa metarctiodes;Apisa metarctiodes;Apisa;Erebidae
-SP1441;SP1441;Telchinia encedon;Telchinia encedon;Telchinia;Nymphalidae
-SP1442;SP1442;Dendrolimus punctata;Dendrolimus punctata;Dendrolimus;Lasiocampidae
-SP1443;SP1443;Typhonia melana;Typhonia melana;Typhonia;Psychidae
-SP1444;SP1444;Hamadryas februa;Hamadryas februa;Hamadryas;Nymphalidae
-SP1445;SP1445;Cyaniris semiargus;Cyaniris semiargus;Cyaniris;Lycaenidae
-SP1446;SP1446;Callima formosella;Callima formosella;Callima;Oecophoridae
-SP1447;SP1447;Lamprosema chagosalis;Lamprosema chagosalis;Lamprosema;Crambidae
-SP1448;SP1448;Chloantha hyperici;Chloantha hyperici;Chloantha;Noctuidae
-SP1449;SP1449;Incurvaria rubiella;Incurvaria rubiella;Incurvaria;Incurvariidae
-SP1450;SP1450;Diatraea rufescens;Diatraea rufescens;Diatraea;Crambidae
-SP1451;SP1451;Vittaplusia vittata;Vittaplusia vittata;Vittaplusia;Noctuidae
-SP1452;SP1452;Syndemis cedricola;Syndemis cedricola;Syndemis;Tortricidae
-SP1453;SP1453;Parapediasia teterellus;Parapediasia teterellus;Parapediasia;Crambidae
-SP1454;SP1454;Yponomeuta cagnagellus;Yponomeuta cagnagellus;Yponomeuta;Yponomeutidae
-SP1455;SP1455;Cydia saltitans;Cydia saltitans;Cydia;Tortricidae
-SP1456;SP1456;Papilio indra;Papilio indra;Papilio;Papilionidae
-SP1457;SP1457;Aproaerema buvati;Aproaerema buvati;Aproaerema;Gelechiidae
-SP1458;SP1458;Depressaria apiella;Depressaria apiella;Depressaria;Depressariidae
-SP1459;SP1459;Acrolepia jaspidata;Acrolepia jaspidata;Acrolepia;Glyphipterigidae
-SP1460;SP1460;Schiffermuelleria amasiella;Schiffermuelleria amasiella;Schiffermuelleria;Oecophoridae
-SP1461;SP1461;Thecla angelia;Thecla angelia;Thecla;Lycaenidae
-SP1462;SP1462;Leucania lobrega;Leucania lobrega;Leucania;Noctuidae
-SP1463;SP1463;Castnia licus;Castnia licus;Castnia;Castniidae
-SP1464;SP1464;Thecla megarus;Thecla megarus;Thecla;Lycaenidae
-SP1465;SP1465;Athetis nonagrica;Athetis nonagrica;Athetis;Noctuidae
-SP1466;SP1466;Clethrogyna turbata;Clethrogyna turbata;Clethrogyna;Erebidae
-SP1467;SP1467;Elkalyce argiades;Elkalyce argiades;Elkalyce;Lycaenidae
-SP1468;SP1468;Zale minerea;Zale minerea;Zale;Erebidae
-SP1469;SP1469;Notioplusia illustrata;Notioplusia illustrata;Notioplusia;Noctuidae
-SP1470;SP1470;Melanargia japygia;Melanargia japygia;Melanargia;Nymphalidae
+SpeciesID,AcceptedSpeciesID,Family,Genus,Species
+SP1,SP1,Pieridae,Abaeis,Abaeis nicippe
+SP2,SP2,Nepticulidae,Acalyptris,Acalyptris platani
+SP3,SP3,Crambidae,Acentria,Acentria ephemerella
+SP4,SP4,Erebidae,Achaea,Achaea ablunaris
+SP5,SP1055,Limacodidae,Sibine,Acharia apicalis
+SP6,SP6,Limacodidae,Acharia,Acharia stimulea
+SP7,SP7,Sphingidae,Acherontia,Acherontia lachesis
+SP8,SP8,Pyralidae,Achroia,Achroia grisella
+SP9,SP9,Crambidae,Achyra,Achyra affinitalis
+SP10,SP10,Tortricidae,Acleris,Acleris comariana
+SP11,SP11,Tortricidae,Acleris,Acleris forsskaleana
+SP12,SP12,Tortricidae,Acleris,Acleris holmiana
+SP13,SP13,Tortricidae,Acleris,Acleris rhombana
+SP14,SP14,Tortricidae,Acleris,Acleris undulana
+SP15,SP15,Tortricidae,Acleris,Acleris variegana
+SP16,SP16,Tortricidae,Acleris,Acleris zimmermani
+SP17,SP17,Noctuidae,Acontia,Acontia candefacta
+SP18,SP18,Noctuidae,Acontia,Acontia crocata
+SP19,SP20,Nymphalidae,Acraea,Acraea terpiscore
+SP20,SP20,Nymphalidae,Acraea,Acraea terpsicore
+SP21,SP21,Pyralidae,Acrobasis,Acrobasis suavella
+SP22,SP22,Gracillariidae,Acrocercops,Acrocercops laciniella
+SP23,SP23,Glyphipterigidae,Acrolepia,Acrolepia assectella
+SP24,SP23,Glyphipterigidae,Acrolepia,Acrolepiopsis assectella
+SP25,SP1295,Glyphipterigidae,Acrolepia,Acrolepiopsis jaspidata
+SP26,SP26,Glyphipterigidae,Acrolepiopsis,Acrolepiopsis sapporensis
+SP27,SP593,Saturniidae,Graellsia,Actias isabellae
+SP28,SP28,Saturniidae,Actias,Actias selene
+SP29,SP1291,Noctuidae,Chloantha,Actinotia hyperici
+SP30,SP30,Tortricidae,Adoxophyes,Adoxophyes privatana
+SP31,SP31,Tortricidae,Aethes,Aethes rubiginana
+SP32,SP32,Tortricidae,Aethes,Aethes rutilana
+SP33,SP33,Tortricidae,Agapeta,Agapeta zoegana
+SP34,SP34,Crambidae,Agassiziella,Agassiziella angulipennis
+SP35,SP35,Crambidae,Agathodes,Agathodes designalis
+SP36,SP36,Erebidae,Aglaonice,Aglaonice hirtipalpis
+SP37,SP37,Pyralidae,Aglossa,Aglossa caprealis
+SP38,SP39,Pyralidae,Aglossa,Aglossa dimidiata
+SP39,SP39,Pyralidae,Aglossa,Aglossa dimidiatus
+SP40,SP40,Pyralidae,Aglossa,Aglossa pinguinalis
+SP41,SP42,Depressariidae,Agonopterix,Agonopterix alstroemeriana
+SP42,SP42,Depressariidae,Agonopterix,Agonopterix alstromeriana
+SP43,SP43,Depressariidae,Agonopterix,Agonopterix arenella
+SP44,SP44,Depressariidae,Agonopterix,Agonopterix assimilella
+SP45,SP44,Depressariidae,Agonopterix,Agonopterix assimillella
+SP46,SP46,Depressariidae,Agonopterix,Agonopterix ciliella
+SP47,SP47,Depressariidae,Agonopterix,Agonopterix heracliana
+SP48,SP48,Depressariidae,Agonopterix,Agonopterix nervosa
+SP49,SP49,Depressariidae,Agonopterix,Agonopterix ulicetella
+SP50,SP50,Elachistidae,Agonoxena,Agonoxena argaula
+SP51,SP51,Elachistidae,Agonoxena,Agonoxena pyrogramma
+SP52,SP1264,Nymphalidae,Dione,Agraulis vanillae
+SP53,SP53,Sphingidae,Agrius,Agrius cingulata
+SP54,SP53,Sphingidae,Agrius,Agrius cingulatus
+SP55,SP55,Sphingidae,Agrius,Agrius convolvuli
+SP56,SP1230,Noctuidae,Leptologia,Agrochola lota
+SP57,SP1231,Noctuidae,Anchoscelis,Agrochola lunosa
+SP58,SP58,Noctuidae,Agrotis,Agrotis ipsilon
+SP59,SP59,Noctuidae,Agrotis,Agrotis segetum
+SP60,SP87,Erebidae,Anomis,Alabama argillacea
+SP61,SP61,Alucitidae,Alucita,Alucita objurgatella
+SP62,SP62,Tortricidae,Amorbia,Amorbia emigratella
+SP63,SP63,Noctuidae,Amphipyra,Amphipyra tragopoginis
+SP64,SP64,Pyralidae,Amyelois,Amyelois transitella
+SP65,SP65,Noctuidae,Amyna,Amyna axis
+SP66,SP66,Noctuidae,Amyna,Amyna natalis
+SP67,SP67,Gelechiidae,Anacampsis,Anacampsis humilis
+SP68,SP68,Gelechiidae,Anacampsis,Anacampsis populella
+SP69,SP666,Geometridae,Iridopsis,Anacamptodes fragilaria
+SP70,SP485,Pyralidae,Ephestia,Anagasta kuehniella
+SP71,SP71,Crambidae,Anania,Anania hortulata
+SP72,SP72,Gelechiidae,Anarsia,Anarsia lineatella
+SP73,SP73,Noctuidae,Anarta,Anarta decepta
+SP74,SP74,Noctuidae,Anarta,Anarta edwardsii
+SP75,SP75,Noctuidae,Anarta,Anarta trifolii
+SP76,SP78,Nymphalidae,Anartia,Anartia chrysopelea
+SP77,SP77,Nymphalidae,Anartia,Anartia fatima
+SP78,SP78,Nymphalidae,Anartia,Anartia lytraea
+SP79,SP79,Cosmopterigidae,Anatrachyntis,Anatrachyntis badia
+SP80,SP1276,Cosmopterigidae,Pyroderces,Anatrachyntis incertulella
+SP81,SP81,Cosmopterigidae,Anatrachyntis,Anatrachyntis rileyi
+SP82,SP82,Cosmopterigidae,Anatrachyntis,Anatrachyntis simplex
+SP83,SP83,Tortricidae,Ancylis,Ancylis comptana
+SP84,SP84,Crambidae,Ancylostomia,Ancylostomia stercorea
+SP85,SP206,Crambidae,Bleszynskia,Angustalius malacelloides
+SP86,SP86,Gelechiidae,Anisoplaca,Anisoplaca cosmia
+SP87,SP87,Erebidae,Anomis,Anomis argillacea
+SP88,SP88,Erebidae,Anomis,Anomis erosa
+SP89,SP89,Erebidae,Anomis,Anomis flava
+SP90,SP1287,Erebidae,Zale,Anomis involuta
+SP91,SP91,Erebidae,Anomis,Anomis luridula
+SP92,SP92,Erebidae,Anomis,Anomis privata
+SP93,SP93,Erebidae,Anomis,Anomis sabulifera
+SP94,SP94,Pterophoridae,Anstenoptilia,Anstenoptilia marmarodactyla
+SP95,SP95,Saturniidae,Antheraea,Antheraea paphia
+SP96,SP96,Saturniidae,Antheraea,Antheraea pernyi
+SP97,SP97,Saturniidae,Antheraea,Antheraea polyphemus
+SP98,SP98,Saturniidae,Antheraea,Antheraea yamamai
+SP99,SP99,Choreutidae,Anthophila,Anthophila fabriciana
+SP100,SP100,Choreutidae,Anthophila,Anthophila nemorana
+SP101,SP101,Erebidae,Antiblemma,Antiblemma acclinalis
+SP102,SP102,Erebidae,Anticarsia,Anticarsia gemmatalis
+SP103,SP103,Erebidae,Antichloris,Antichloris eriphia
+SP104,SP104,Erebidae,Antichloris,Antichloris steinbachi
+SP105,SP105,Erebidae,Antichloris,Antichloris viridis
+SP106,SP106,Crambidae,Antigastra,Antigastra catalaunalis
+SP107,SP107,Heliozelidae,Antispila,Antispila oinophylla
+SP108,SP108,Pyralidae,Anypsipyla,Anypsipyla univitella
+SP109,SP109,Noctuidae,Apamea,Apamea crenata
+SP110,SP110,Noctuidae,Apamea,Apamea remissa
+SP111,SP111,Noctuidae,Apamea,Apamea unanimis
+SP112,SP112,Lycaenidae,Aphnaeus,Aphnaeus schistacea
+SP113,SP344,Pyralidae,Corcyra,Aphomia cephalonica
+SP114,SP887,Pyralidae,Paralipsa,Aphomia gularis
+SP115,SP137,Pyralidae,Arenipses,Aphomia sabella
+SP116,SP116,Pyralidae,Aphomia,Aphomia sociella
+SP117,SP117,Pieridae,Aphrissa,Aphrissa orbis
+SP118,SP118,Geometridae,Aplocera,Aplocera efformata
+SP119,SP119,Geometridae,Aplocera,Aplocera plagiata
+SP120,SP120,Pyralidae,Apomyelois,Apomyelois ceratoniae
+SP121,SP121,Erebidae,Apopestes,Apopestes spectrum
+SP122,SP122,Pieridae,Appias,Appias lyncida
+SP123,SP123,Gelechiidae,Aproaerema,Aproaerema modicella
+SP124,SP1288,Gelechiidae,Aproaerema,Aproaerema simplixella
+SP125,SP126,Psychidae,Apterona,Apterona crenulella
+SP126,SP126,Psychidae,Apterona,Apterona helicoidella
+SP127,SP126,Psychidae,Apterona,Apterona helix
+SP128,SP128,Noctuidae,Araeopteron,Araeopteron ecphaea
+SP129,SP129,Tortricidae,Archips,Archips fuscocupreanus
+SP130,SP130,Tortricidae,Archips,Archips oporana
+SP131,SP131,Tortricidae,Archips,Archips podana
+SP132,SP132,Tortricidae,Archips,Archips rosana
+SP133,SP133,Tortricidae,Archips,Archips xylosteana
+SP134,SP133,Tortricidae,Archips,Archips xylosteanus
+SP135,SP135,Pyralidae,Arcola,Arcola malloi
+SP136,SP136,Erebidae,Arcte,Arcte coerula
+SP137,SP137,Pyralidae,Arenipses,Arenipses sabella
+SP138,SP138,Argyresthiidae,Argyresthia,Argyresthia conjugella
+SP139,SP139,Argyresthiidae,Argyresthia,Argyresthia cupressella
+SP140,SP140,Argyresthiidae,Argyresthia,Argyresthia laevigatella
+SP141,SP141,Argyresthiidae,Argyresthia,Argyresthia pruniella
+SP142,SP142,Argyresthiidae,Argyresthia,Argyresthia thuiella
+SP143,SP143,Argyresthiidae,Argyresthia,Argyresthia trifasciata
+SP144,SP144,Crambidae,Argyria,Argyria centrifugens
+SP145,SP145,Crambidae,Argyria,Argyria lacteella
+SP146,SP146,Noctuidae,Argyrogramma,Argyrogramma verruca
+SP147,SP147,Nymphalidae,Ariadne,Ariadne ariadne
+SP148,SP148,Gracillariidae,Aristaea,Aristaea thalassias
+SP149,SP149,Gelechiidae,Aristotelia,Aristotelia ivae
+SP150,SP1262,Gelechiidae,Monochroa,Aristotelia leptocrossa
+SP151,SP151,Erebidae,Artigisa,Artigisa melanephele
+SP152,SP152,Zygaenidae,Artona,Artona martini
+SP153,SP153,Erebidae,Ascalapha,Ascalapha odorata
+SP154,SP154,Cosmopterigidae,Ascalenia,Ascalenia acaciella
+SP155,SP155,Crambidae,Asciodes,Asciodes gordialis
+SP156,SP155,Crambidae,Asciodes,Asciodes quietalis
+SP157,SP157,Erebidae,Asota,Asota ficus
+SP158,SP158,Pyralidae,Assara,Assara seminivale
+SP159,SP159,Crambidae,Ategumia,Ategumia adipalis
+SP160,SP160,Crambidae,Ategumia,Ategumia ebulealis
+SP161,SP161,Noctuidae,Athetis,Athetis tenuis
+SP162,SP162,Noctuidae,Athetis,Athetis thoracica
+SP163,SP163,Gelechiidae,Athrips,Athrips mouffetella
+SP164,SP164,Gelechiidae,Athrips,Athrips pruinosella
+SP165,SP165,Gelechiidae,Athrips,Athrips rancidella
+SP166,SP166,Tortricidae,Auratonota,Auratonota dispersa
+SP167,SP1279,Noctuidae,Notioplusia,Autoplusia illustrata
+SP168,SP168,Autostichidae,Autosticha,Autosticha kyotensis
+SP169,SP169,Autostichidae,Autosticha,Autosticha modicella
+SP170,SP170,Autostichidae,Autosticha,Autosticha pelodes
+SP171,SP171,Erebidae,Azeta,Azeta repugnalis
+SP172,SP172,Tortricidae,Bactra,Bactra minima
+SP173,SP173,Tortricidae,Bactra,Bactra philocherda
+SP174,SP174,Tortricidae,Bactra,Bactra straminea
+SP175,SP175,Tortricidae,Bactra,Bactra venosana
+SP176,SP176,Noctuidae,Bagisara,Bagisara repanda
+SP177,SP177,Pyralidae,Balanomis,Balanomis encyclia
+SP178,SP178,Oecophoridae,Barea,Barea asbolaea
+SP179,SP179,Oecophoridae,Barea,Barea codrella
+SP180,SP180,Oecophoridae,Barea,Barea confusella
+SP181,SP181,Oecophoridae,Barea,Barea consignatella
+SP182,SP182,Oecophoridae,Barea,Barea exarcha
+SP183,SP183,Oecophoridae,Batia,Batia lunaris
+SP184,SP184,Batrachedridae,Batrachedra,Batrachedra amydraula
+SP185,SP185,Batrachedridae,Batrachedra,Batrachedra knabi
+SP186,SP186,Batrachedridae,Batrachedra,Batrachedra microstigma
+SP187,SP187,Batrachedridae,Batrachedra,Batrachedra pinicolella
+SP188,SP188,Bedelliidae,Bedellia,Bedellia orchilella
+SP189,SP189,Bedelliidae,Bedellia,Bedellia somnulentella
+SP190,SP190,Pyralidae,Bema,Bema neuricella
+SP191,SP66,Noctuidae,Amyna,Berresa natalis
+SP192,SP1293,Cosmopterigidae,Bifascioides,Bifascioides leucomelanellus
+SP193,SP193,Gelechiidae,Bilobata,Bilobata subsecivella
+SP194,SP194,Blastobasidae,Blastobasis,Blastobasis adustella
+SP195,SP195,Blastobasidae,Blastobasis,Blastobasis decolorella
+SP196,SP196,Blastobasidae,Blastobasis,Blastobasis glandulella
+SP197,SP197,Blastobasidae,Blastobasis,Blastobasis inana
+SP198,SP198,Blastobasidae,Blastobasis,Blastobasis lacticolella
+SP199,SP199,Blastobasidae,Blastobasis,Blastobasis marmorosella
+SP200,SP200,Blastobasidae,Blastobasis,Blastobasis maroccanella
+SP201,SP201,Blastobasidae,Blastobasis,Blastobasis rebeli
+SP202,SP202,Blastobasidae,Blastobasis,Blastobasis tarda
+SP203,SP203,Blastobasidae,Blastobasis,Blastobasis vittata
+SP204,SP204,Elachistidae,Blastodacna,Blastodacna atra
+SP205,SP205,Erebidae,Bleptina,Bleptina araealis
+SP206,SP206,Crambidae,Bleszynskia,Bleszynskia malacelloides
+SP207,SP207,Erebidae,Bocana,Bocana manifestalis
+SP208,SP208,Crambidae,Bocchoris,Bocchoris fatualis
+SP209,SP209,Nepticulidae,Bohemannia,Bohemannia pulverosella
+SP210,SP210,Bombycidae,Bombyx,Bombyx mori
+SP211,SP211,Hesperiidae,Borbo,Borbo cinnara
+SP212,SP212,Oecophoridae,Borkhausenia,Borkhausenia fuscescens
+SP213,SP213,Oecophoridae,Borkhausenia,Borkhausenia nefrax
+SP214,SP214,Psychidae,Brachycyttarus,Brachycyttarus griseus
+SP215,SP215,Pyralidae,Bradyrrhoa,Bradyrrhoa gilveolella
+SP216,SP216,Lycaenidae,Brephidium,Brephidium exilis
+SP217,SP217,Bucculatricidae,Bucculatrix,Bucculatrix ainsliella
+SP218,SP218,Bucculatricidae,Bucculatrix,Bucculatrix chrysanthemella
+SP219,SP219,Bucculatricidae,Bucculatrix,Bucculatrix ivella
+SP220,SP220,Bucculatricidae,Bucculatrix,Bucculatrix parthenica
+SP221,SP221,Bucculatricidae,Bucculatrix,Bucculatrix thurberiella
+SP222,SP222,Bucculatricidae,Bucculatrix,Bucculatrix ulmifoliae
+SP223,SP223,Tortricidae,Cacocharis,Cacocharis cymotoma
+SP224,SP225,Tortricidae,Cacoecimorpha,Cacoeciamorpha pronubana
+SP225,SP225,Tortricidae,Cacoecimorpha,Cacoecimorpha pronubana
+SP226,SP226,Pyralidae,Cactoblastis,Cactoblastis cactorum
+SP227,SP227,Pyralidae,Cactoblastis,Cactoblastis doddi
+SP228,SP228,Lycaenidae,Cacyreus,Cacyreus marshalli
+SP229,SP229,Pyralidae,Cadra,Cadra calidella
+SP230,SP230,Pyralidae,Cadra,Cadra cautella
+SP231,SP231,Pyralidae,Cadra,Cadra figulilella
+SP232,SP232,Riodinidae,Calephelis,Calephelis virginiensis
+SP233,SP233,Noctuidae,Callopistria,Callopistria floridensis
+SP234,SP234,Noctuidae,Callopistria,Callopistria jamaicensis
+SP235,SP235,Noctuidae,Callopistria,Callopistria maillardi
+SP236,SP236,Noctuidae,Calophasia,Calophasia lunula
+SP237,SP238,Gracillariidae,Caloptilia,Caloptilia azaleela
+SP238,SP238,Gracillariidae,Caloptilia,Caloptilia azaleella
+SP239,SP239,Gracillariidae,Caloptilia,Caloptilia coruscans
+SP240,SP240,Gracillariidae,Caloptilia,Caloptilia negundella
+SP241,SP241,Gracillariidae,Caloptilia,Caloptilia roscipennella
+SP242,SP592,Gracillariidae,Gracillaria,Caloptilia syringella
+SP243,SP243,Gracillariidae,Caloptilia,Caloptilia triadicae
+SP244,SP244,Hesperiidae,Calpodes,Calpodes ethlius
+SP245,SP245,Gracillariidae,Cameraria,Cameraria gaultheriella
+SP246,SP246,Gracillariidae,Cameraria,Cameraria ohridella
+SP247,SP247,Pyralidae,Caphys,Caphys biliniata
+SP248,SP248,Tortricidae,Capua,Capua intractana
+SP249,SP249,Noctuidae,Caradrina,Caradrina clavipalpis
+SP250,SP250,Noctuidae,Caradrina,Caradrina kadenii
+SP251,SP251,Noctuidae,Caradrina,Caradrina morpheus
+SP252,SP252,Peleopodidae,Carcina,Carcina quercana
+SP253,SP253,Sesiidae,Carmenta,Carmenta mimosa
+SP254,SP254,Gelechiidae,Carpatolechia,Carpatolechia fugitivella
+SP255,SP255,Carposinidae,Carposina,Carposina autologa
+SP256,SP256,Carposinidae,Carposina,Carposina neurophorella
+SP257,SP257,Carposinidae,Carposina,Carposina sasakii
+SP258,SP258,Erebidae,Catocala,Catocala fraxini
+SP259,SP259,Pieridae,Catopsilia,Catopsilia pyranthe
+SP260,SP260,Psychidae,Cebysa,Cebysa leucotelus
+SP261,SP261,Noctuidae,Cerapteryx,Cerapteryx graminis
+SP262,SP262,Crambidae,Chabula,Chabula acamasalis
+SP263,SP263,Sesiidae,Chamaesphecia,Chamaesphecia crassicornis
+SP264,SP264,Sesiidae,Chamaesphecia,Chamaesphecia empiformis
+SP265,SP265,Sesiidae,Chamaesphecia,Chamaesphecia mysiniformis
+SP266,SP583,Nolidae,Garella,Characoma nilitica
+SP267,SP406,Lypusidae,Dasystoma,Cheimophila salicella
+SP268,SP268,Geometridae,Chiasmia,Chiasmia aestimaria
+SP269,SP269,Crambidae,Chilo,Chilo partellus
+SP270,SP270,Crambidae,Chilo,Chilo sacchariphagus
+SP271,SP271,Crambidae,Chilo,Chilo suppressalis
+SP272,SP272,Noctuidae,Chloridea,Chloridea virescens
+SP273,SP273,Geometridae,Chloroclystis,Chloroclystis filata
+SP274,SP274,Geometridae,Chloroclystis,Chloroclystis insigillata
+SP275,SP275,Geometridae,Chloroclystis,Chloroclystis latifasciata
+SP276,SP276,Geometridae,Chloroclystis,Chloroclystis pyrrholopha
+SP277,SP910,Geometridae,Pasiphila,Chloroclystis rectangulata
+SP278,SP278,Euteliidae,Chlumetia,Chlumetia brevisigna
+SP279,SP100,Choreutidae,Anthophila,Choreutis nemorana
+SP280,SP280,Choreutidae,Choreutis,Choreutis pariana
+SP281,SP281,Choreutidae,Choreutis,Choreutis sexfasciella
+SP282,SP282,Tortricidae,Choristoneura,Choristoneura freemani
+SP283,SP283,Tortricidae,Choristoneura,Choristoneura rosaceana
+SP284,SP284,Gracillariidae,Chrysaster,Chrysaster hagicola
+SP285,SP285,Gracillariidae,Chrysaster,Chrysaster ostensackenella
+SP286,SP1232,Elachistidae,Chrysoclista,Chrysoclista linneella
+SP287,SP287,Noctuidae,Chrysodeixis,Chrysodeixis acuta
+SP288,SP288,Noctuidae,Chrysodeixis,Chrysodeixis chalcites
+SP289,SP289,Noctuidae,Chrysodeixis,Chrysodeixis eriosoma
+SP290,SP290,Gelechiidae,Chrysoesthia,Chrysoesthia drurella
+SP291,SP292,Gelechiidae,Chrysoesthia,Chrysoesthia sexgutella
+SP292,SP292,Gelechiidae,Chrysoesthia,Chrysoesthia sexguttella
+SP293,SP293,Pyralidae,Citripestis,Citripestis eutraphera
+SP294,SP294,Tortricidae,Clavigesta,Clavigesta sylvestrana
+SP295,SP295,Tortricidae,Clepsis,Clepsis consimilana
+SP296,SP296,Tortricidae,Clepsis,Clepsis peritana
+SP297,SP297,Tortricidae,Clepsis,Clepsis spectrana
+SP298,SP298,Pterophoridae,Cnaemidophorus,Cnaemidophorus rhododactyla
+SP299,SP299,Crambidae,Cnaphalocrocis,Cnaphalocrocis medinalis
+SP300,SP300,Crambidae,Cnaphalocrocis,Cnaphalocrocis poeyalis
+SP301,SP301,Crambidae,Cnaphalocrocis,Cnaphalocrocis trapezalis
+SP302,SP302,Tortricidae,Cnephasia,Cnephasia asseclana
+SP303,SP302,Tortricidae,Cnephasia,Cnephasia interjectana
+SP304,SP304,Tortricidae,Cnephasia,Cnephasia longana
+SP305,SP305,Tortricidae,Cnephasia,Cnephasia stephensiana
+SP306,SP777,Limacodidae,Monema,Cnidocampa flavescens
+SP307,SP308,Tortricidae,Cochylis,Cochylichroa atricapitana
+SP308,SP308,Tortricidae,Cochylis,Cochylis atricapitana
+SP309,SP309,Coleophoridae,Coleophora,Coleophora alcyonipennella
+SP310,SP310,Coleophoridae,Coleophora,Coleophora badiipennella
+SP311,SP1233,Coleophoridae,Coleophora,Coleophora bernoulliella
+SP312,SP312,Coleophoridae,Coleophora,Coleophora colutella
+SP313,SP313,Coleophoridae,Coleophora,Coleophora coracipennella
+SP314,SP327,Coleophoridae,Coleophora,Coleophora coxi
+SP315,SP315,Coleophoridae,Coleophora,Coleophora deauratella
+SP316,SP316,Coleophoridae,Coleophora,Coleophora frischella
+SP317,SP323,Coleophoridae,Coleophora,Coleophora fuscedinella
+SP318,SP318,Coleophoridae,Coleophora,Coleophora klimeschiella
+SP319,SP319,Coleophoridae,Coleophora,Coleophora laricella
+SP320,SP320,Coleophoridae,Coleophora,Coleophora limosipennella
+SP321,SP321,Coleophoridae,Coleophora,Coleophora mayrella
+SP322,SP322,Coleophoridae,Coleophora,Coleophora parthenica
+SP323,SP323,Coleophoridae,Coleophora,Coleophora serratella
+SP324,SP324,Coleophoridae,Coleophora,Coleophora spinella
+SP325,SP325,Coleophoridae,Coleophora,Coleophora spiraeella
+SP326,SP326,Coleophoridae,Coleophora,Coleophora striatipennella
+SP327,SP327,Coleophoridae,Coleophora,Coleophora texanella
+SP328,SP328,Coleophoridae,Coleophora,Coleophora trifolii
+SP329,SP329,Coleophoridae,Coleophora,Coleophora versurella
+SP330,SP330,Gelechiidae,Coleotechnites,Coleotechnites piceaella
+SP331,SP331,Geometridae,Comostolopsis,Comostolopsis germana
+SP332,SP332,Pyralidae,Comotia,Comotia torsicornis
+SP333,SP333,Noctuidae,Condica,Condica dolorosa
+SP334,SP334,Noctuidae,Condica,Condica illecta
+SP335,SP335,Noctuidae,Conistra,Conistra rubiginosa
+SP336,SP336,Crambidae,Conogethes,Conogethes punctiferalis
+SP337,SP337,Gracillariidae,Conopomorpha,Conopomorpha cramerella
+SP338,SP339,Gracillariidae,Conopomorpha,Conopomorpha litchiela
+SP339,SP339,Gracillariidae,Conopomorpha,Conopomorpha litchiella
+SP340,SP340,Gracillariidae,Conopomorpha,Conopomorpha sinensis
+SP341,SP341,Saturniidae,Copaxa,Copaxa lavendera
+SP342,SP342,Heliozelidae,Coptodisca,Coptodisca juglandiella
+SP343,SP343,Heliozelidae,Coptodisca,Coptodisca lucifluella
+SP344,SP344,Pyralidae,Corcyra,Corcyra cephalonica
+SP345,SP345,Carposinidae,Coscinoptycha,Coscinoptycha improbana
+SP346,SP346,Noctuidae,Cosmodes,Cosmodes elegans
+SP347,SP347,Cosmopterigidae,Cosmopterix,Cosmopterix attenuatella
+SP348,SP348,Cosmopterigidae,Cosmopterix,Cosmopterix feminella
+SP349,SP349,Gelechiidae,Crasimorpha,Crasimorpha infuscata
+SP350,SP350,Gracillariidae,Cremastobombycia,Cremastobombycia lantanella
+SP351,SP352,Crambidae,Crocidolomia,Crocidolomia binotalis
+SP352,SP352,Crambidae,Crocidolomia,Crocidolomia pavonana
+SP353,SP353,Crambidae,Crocidophora,Crocidophora butleri
+SP354,SP354,Tortricidae,Crocidosema,Crocidosema aporema
+SP355,SP355,Tortricidae,Crocidosema,Crocidosema lantana
+SP356,SP356,Tortricidae,Crocidosema,Crocidosema plebejana
+SP357,SP357,Tortricidae,Crocidosema,Crocidosema synneurota
+SP358,SP11,Tortricidae,Acleris,Croesia forskaleana
+SP359,SP12,Tortricidae,Acleris,Croesia holmiana
+SP360,SP360,Noctuidae,Cryphia,Cryphia algae
+SP361,SP361,Tineidae,Crypsithyrodes,Crypsithyrodes concolorella
+SP362,SP362,Pyralidae,Cryptoblabes,Cryptoblabes adoceta
+SP363,SP363,Pyralidae,Cryptoblabes,Cryptoblabes gnidiella
+SP364,SP364,Crambidae,Cryptographis,Cryptographis nitidalis
+SP365,SP365,Tortricidae,Cryptophlebia,Cryptophlebia illepida
+SP366,SP1149,Tortricidae,Thaumatotibia,Cryptophlebia leucotreta
+SP367,SP367,Tortricidae,Cryptophlebia,Cryptophlebia ombrodelta
+SP368,SP368,Noctuidae,Ctenoplusia,Ctenoplusia albostriata
+SP369,SP369,Noctuidae,Ctenoplusia,Ctenoplusia limbirena
+SP370,SP370,Noctuidae,Cucullia,Cucullia umbratica
+SP371,SP371,Crambidae,Culladia,Culladia cuneiferellus
+SP372,SP372,Nymphalidae,Cupha,Cupha erymanthis
+SP373,SP373,Lycaenidae,Curetis,Curetis acuta
+SP374,SP374,Lycaenidae,Cyclargus,Cyclargus ammon
+SP375,SP375,Geometridae,Cyclophora,Cyclophora nanaria
+SP376,SP376,Geometridae,Cyclophora,Cyclophora obstataria
+SP377,SP377,Crambidae,Cydalima,Cydalima perspectalis
+SP378,SP378,Tortricidae,Cydia,Cydia coniferana
+SP379,SP1305,Tortricidae,Cydia,Cydia deshaisiana
+SP380,SP380,Tortricidae,Cydia,Cydia grunertiana
+SP381,SP381,Tortricidae,Cydia,Cydia illutana
+SP382,SP382,Tortricidae,Cydia,Cydia interscindana
+SP383,SP383,Tortricidae,Cydia,Cydia medicaginis
+SP384,SP385,Tortricidae,Cydia,Cydia milleniana
+SP385,SP385,Tortricidae,Cydia,Cydia millenniana
+SP386,SP597,Tortricidae,Grapholita,Cydia molesta
+SP387,SP387,Tortricidae,Cydia,Cydia nigricana
+SP388,SP388,Tortricidae,Cydia,Cydia pactolana
+SP389,SP389,Tortricidae,Cydia,Cydia pomonella
+SP390,SP390,Tortricidae,Cydia,Cydia splendana
+SP391,SP391,Tortricidae,Cydia,Cydia strobilella
+SP392,SP392,Tortricidae,Cydia,Cydia succedana
+SP393,SP393,Tortricidae,Cymolomia,Cymolomia hartigiana
+SP394,SP1199,Nymphalidae,Vanessa,Cynthia cardui
+SP395,SP1234,Oecophoridae,Callima,Dafa formosella
+SP396,SP396,Psychidae,Dahlica,Dahlica lichenella
+SP397,SP397,Psychidae,Dahlica,Dahlica triquetrella
+SP398,SP398,Nymphalidae,Danaus,Danaus chrysippus
+SP399,SP399,Nymphalidae,Danaus,Danaus genutia
+SP400,SP400,Nymphalidae,Danaus,Danaus plexippus
+SP401,SP401,Sphingidae,Daphnis,Daphnis nerii
+SP402,SP1298,Limacodidae,Oxyplax,Darna pallivitta
+SP403,SP403,Erebidae,Dasypodia,Dasypodia cymatodes
+SP404,SP404,Erebidae,Dasypodia,Dasypodia selenophora
+SP405,SP405,Tineidae,Dasyses,Dasyses incrustata
+SP406,SP406,Lypusidae,Dasystoma,Dasystoma salicella
+SP407,SP407,Pyralidae,Davara,Davara caricae
+SP408,SP408,Crambidae,Deanolis,Deanolis sublimbalis
+SP409,SP409,Sphingidae,Deilephila,Deilephila elpenor
+SP410,SP410,Lasiocampidae,Dendrolimus,Dendrolimus pini
+SP411,SP411,Lasiocampidae,Dendrolimus,Dendrolimus sibiricus
+SP412,SP412,Lasiocampidae,Dendrolimus,Dendrolimus superans
+SP413,SP1235,Depressariidae,Depressaria,Depressaria daucella
+SP414,SP414,Depressariidae,Depressaria,Depressaria depressana
+SP415,SP1290,Depressariidae,Depressaria,Depressaria pastinacella
+SP416,SP416,Depressariidae,Depressaria,Depressaria radiella
+SP417,SP417,Lycaenidae,Deudorix,Deudorix livia
+SP418,SP418,Pterophoridae,Diacrotricha,Diacrotricha fasciola
+SP419,SP419,Gracillariidae,Dialectica,Dialectica scalariella
+SP420,SP420,Crambidae,Diaphania,Diaphania costata
+SP421,SP421,Crambidae,Diaphania,Diaphania hyalinata
+SP422,SP422,Crambidae,Diaphania,Diaphania indica
+SP423,SP364,Crambidae,Cryptographis,Diaphania nitidalis
+SP424,SP377,Crambidae,Cydalima,Diaphania perspectalis
+SP425,SP425,Noctuidae,Diastema,Diastema tigris
+SP426,SP426,Crambidae,Diatraea,Diatraea grandiosella
+SP427,SP427,Crambidae,Diatraea,Diatraea saccharalis
+SP428,SP1275,Tortricidae,Syndemis,Dichelia cedricola
+SP429,SP429,Tortricidae,Dichelia,Dichelia histrionana
+SP430,SP431,Gelechiidae,Dichomeris,Dichomeris acuminata
+SP431,SP431,Gelechiidae,Dichomeris,Dichomeris acuminatus
+SP432,SP432,Gelechiidae,Dichomeris,Dichomeris aenigmatica
+SP433,SP433,Gelechiidae,Dichomeris,Dichomeris heriguronis
+SP434,SP434,Gelechiidae,Dichomeris,Dichomeris marginella
+SP435,SP435,Gelechiidae,Dichomeris,Dichomeris picrocarpa
+SP436,SP436,Tortricidae,Dichrorampha,Dichrorampha acuminatana
+SP437,SP437,Tortricidae,Dichrorampha,Dichrorampha aeratana
+SP438,SP438,Tortricidae,Dichrorampha,Dichrorampha montanana
+SP439,SP439,Tortricidae,Dichrorampha,Dichrorampha petiverella
+SP440,SP440,Erebidae,Dinumma,Dinumma deponens
+SP441,SP441,Crambidae,Diplopseustis,Diplopseustis perieresalis
+SP442,SP75,Noctuidae,Anarta,Discestra trifolii
+SP443,SP443,Geometridae,Disclisioprocta,Disclisioprocta stellata
+SP444,SP444,Tortricidae,Ditula,Ditula angustiorana
+SP445,SP445,Pyralidae,Doloessa,Doloessa viridis
+SP446,SP446,Dryadaulidae,Dryadaula,Dryadaula advena
+SP447,SP447,Dryadaulidae,Dryadaula,Dryadaula pactolia
+SP448,SP448,Dryadaulidae,Dryadaula,Dryadaula terpsichorella
+SP449,SP449,Noctuidae,Dryobotodes,Dryobotodes tenebrosa
+SP450,SP450,Crambidae,Duponchelia,Duponchelia fovealis
+SP451,SP451,Nolidae,Earias,Earias ansorgei
+SP452,SP452,Nolidae,Earias,Earias biplaga
+SP453,SP453,Nolidae,Earias,Earias cupreoviridis
+SP454,SP454,Nolidae,Earias,Earias insulana
+SP455,SP455,Nolidae,Earias,Earias vernana
+SP456,SP456,Nolidae,Earias,Earias vittella
+SP457,SP1237,Crambidae,Mimudea,Ecpyrrhorrhoe puralis
+SP458,SP458,Depressariidae,Ectaga,Ectaga garcia
+SP459,SP459,Nepticulidae,Ectoedemia,Ectoedemia heringella
+SP460,SP460,Pyralidae,Ectomyelois,Ectomyelois ceratoniae
+SP461,SP461,Elachistidae,Elachista,Elachista saccharella
+SP462,SP462,Noctuidae,Elaphria,Elaphria deltoides
+SP463,SP463,Noctuidae,Elaphria,Elaphria nucicolora
+SP464,SP464,Pyralidae,Elasmopalpus,Elasmopalpus lignosella
+SP465,SP464,Pyralidae,Elasmopalpus,Elasmopalpus lignosellus
+SP466,SP466,Crambidae,Elophila,Elophila difflualis
+SP467,SP829,Crambidae,Nymphula,Elophila manilensis
+SP468,SP468,Crambidae,Elophila,Elophila melagynalis
+SP469,SP469,Crambidae,Elophila,Elophila nymphaeata
+SP470,SP470,Crambidae,Elophila,Elophila obliteralis
+SP471,SP471,Crambidae,Elophila,Elophila responsalis
+SP472,SP472,Pterophoridae,Emmelina,Emmelina devriesi
+SP473,SP473,Erebidae,Empyreuma,Empyreuma affinis
+SP474,SP474,Erebidae,Empyreuma,Empyreuma pugione
+SP475,SP475,Tortricidae,Enarmonia,Enarmonia formosana
+SP476,SP476,Tortricidae,Endothenia,Endothenia quadrimaculana
+SP477,SP477,Oecophoridae,Endrosis,Endrosis sarcitrella
+SP478,SP478,Geometridae,Ennomos,Ennomos alniaria
+SP479,SP1299,Crambidae,Diatraea,Eodiatraea rufescens
+SP480,SP480,Crambidae,Eoreuma,Eoreuma loftini
+SP481,SP481,Epermeniidae,Epermenia,Epermenia aequidentellus
+SP482,SP230,Pyralidae,Cadra,Ephestia cautella
+SP483,SP483,Pyralidae,Ephestia,Ephestia elutella
+SP484,SP485,Pyralidae,Ephestia,Ephestia kuehniela
+SP485,SP485,Pyralidae,Ephestia,Ephestia kuehniella
+SP486,SP486,Pyralidae,Ephestiodes,Ephestiodes gilvescentella
+SP487,SP487,Pyralidae,Ephestiopsis,Ephestiopsis oenobarella
+SP488,SP821,Tortricidae,Notocelia,Epiblema cynosbatella
+SP489,SP489,Tortricidae,Epiblema,Epiblema strenuana
+SP490,SP490,Tortricidae,Epichoristodes,Epichoristodes acerbella
+SP491,SP491,Erebidae,Epidromia,Epidromia pannosa
+SP492,SP492,Pyralidae,Epimorius,Epimorius testaceellus
+SP493,SP493,Tortricidae,Epinotia,Epinotia abbreviana
+SP494,SP494,Tortricidae,Epinotia,Epinotia algeriensis
+SP495,SP495,Tortricidae,Epinotia,Epinotia cedricida
+SP496,SP496,Tortricidae,Epinotia,Epinotia fraternana
+SP497,SP1301,Tortricidae,Epinotia,Epinotia laracana
+SP498,SP498,Tortricidae,Epinotia,Epinotia nanana
+SP499,SP499,Tortricidae,Epinotia,Epinotia nigricana
+SP500,SP500,Tortricidae,Epinotia,Epinotia subsequana
+SP501,SP501,Tortricidae,Epiphyas,Epiphyas postvittana
+SP502,SP502,Tortricidae,Episimus,Episimus transferrana
+SP503,SP503,Tortricidae,Episimus,Episimus unguiculus
+SP504,SP503,Tortricidae,Episimus,Episimus utilis
+SP505,SP505,Geometridae,Erannis,Erannis defoliaria
+SP506,SP1281,Oecophoridae,Schiffermuelleria,Eratophyes amasiella
+SP507,SP507,Tineidae,Erechthias,Erechthias capnitis
+SP508,SP508,Tineidae,Erechthias,Erechthias flavistriata
+SP509,SP509,Tineidae,Erechthias,Erechthias kerri
+SP510,SP510,Tineidae,Erechthias,Erechthias minuscula
+SP511,SP511,Tineidae,Erechthias,Erechthias pelotricha
+SP512,SP512,Tineidae,Erechthias,Erechthias penicillata
+SP513,SP513,Tineidae,Erechthias,Erechthias simulans
+SP514,SP514,Tineidae,Erechthias,Erechthias zebrina
+SP515,SP515,Sphingidae,Erinnyis,Erinnyis ello
+SP516,SP516,Hesperiidae,Erionota,Erionota thrax
+SP517,SP517,Hesperiidae,Erionota,Erionota torus
+SP518,SP518,Oecophoridae,Esperia,Esperia sulphurella
+SP519,SP519,Nepticulidae,Etainia,Etainia sericopeza
+SP520,SP1297,Cosmopterigidae,Stagmatophora,Eteobalea intermediella
+SP521,SP1296,Cosmopterigidae,Stagmatophora,Eteobalea serratella
+SP522,SP523,Ethmiidae,Ethmia,Ethmia bipuctella
+SP523,SP523,Ethmiidae,Ethmia,Ethmia bipunctella
+SP524,SP524,Ethmiidae,Ethmia,Ethmia nigroapicella
+SP525,SP525,Ethmiidae,Ethmia,Ethmia terminella
+SP526,SP526,Pyralidae,Etiella,Etiella zinckenella
+SP527,SP527,Geometridae,Euacidalia,Euacidalia brownsvillea
+SP528,SP528,Noctuidae,Eublemma,Eublemma accedens
+SP529,SP529,Noctuidae,Eublemma,Eublemma anachoresis
+SP530,SP530,Noctuidae,Eublemma,Eublemma recta
+SP531,SP531,Noctuidae,Eublemma,Eublemma scitula
+SP532,SP532,Erebidae,Euchromia,Euchromia lethe
+SP533,SP533,Crambidae,Euchromius,Euchromius ocellea
+SP534,SP533,Crambidae,Euchromius,Euchromius ocelleus
+SP535,SP535,Crambidae,Euclasta,Euclasta gigantalis
+SP536,SP536,Crambidae,Euclasta,Euclasta varii
+SP537,SP537,Tortricidae,Eucosma,Eucosma cana
+SP538,SP1289,Tortricidae,Ancylis,Eucosma impatiens
+SP539,SP539,Tortricidae,Eucosmomorpha,Eucosmomorpha albersana
+SP540,SP542,Erebidae,Eudocima,Eudocima fullonia
+SP541,SP541,Erebidae,Eudocima,Eudocima jordani
+SP542,SP542,Erebidae,Eudocima,Eudocima phalonia
+SP543,SP543,Erebidae,Eudocima,Eudocima salaminia
+SP544,SP544,Erebidae,Eudocima,Eudocima tyrannus
+SP545,SP545,Erebidae,Eulepidotis,Eulepidotis striaepuncta
+SP546,SP546,Geometridae,Eulithis,Eulithis mellinata
+SP547,SP547,Geometridae,Eulithis,Eulithis prunata
+SP548,SP546,Geometridae,Eulithis,Eulithus mellinata
+SP549,SP549,Cosmopterigidae,Eumenodora,Eumenodora tetrachorda
+SP550,SP550,Psychidae,Eumeta,Eumeta variegatus
+SP551,SP551,Geometridae,Eupithecia,Eupithecia carpophagata
+SP552,SP552,Geometridae,Eupithecia,Eupithecia intricata
+SP553,SP553,Geometridae,Eupithecia,Eupithecia lariciata
+SP554,SP554,Geometridae,Eupithecia,Eupithecia phoeniceata
+SP555,SP555,Geometridae,Eupithecia,Eupithecia pulchellata
+SP556,SP556,Geometridae,Eupithecia,Eupithecia pusillata
+SP557,SP557,Geometridae,Eupithecia,Eupithecia ultimaria
+SP558,SP558,Nymphalidae,Euploea,Euploea core
+SP559,SP559,Nymphalidae,Euploea,Euploea mulciber
+SP560,SP560,Erebidae,Euproctis,Euproctis chrysorrhoea
+SP561,SP561,Erebidae,Euproctis,Euproctis fraterna
+SP562,SP1270,Erebidae,Sphrageidus,Euproctis similis
+SP563,SP563,Geometridae,Eurranthis,Eurranthis plummistaria
+SP564,SP71,Crambidae,Anania,Eurrhypara hortulata
+SP565,SP565,Noctuidae,Euscirrhopterus,Euscirrhopterus poeyi
+SP566,SP566,Crambidae,Eustixia,Eustixia pupula
+SP567,SP567,Euteliidae,Eutelia,Eutelia adulatrix
+SP568,SP568,Depressariidae,Eutorna,Eutorna phaulocosma
+SP569,SP569,Pyralidae,Euzophera,Euzophera osseatella
+SP570,SP570,Pyralidae,Euzophera,Euzophera pinguis
+SP571,SP571,Crambidae,Evergestis,Evergestis aenealis
+SP572,SP572,Crambidae,Evergestis,Evergestis pallidata
+SP573,SP573,Pterophoridae,Exelastis,Exelastis montichristi
+SP574,SP574,Pterophoridae,Exelastis,Exelastis pumilio
+SP575,SP575,Gelechiidae,Exoteleia,Exoteleia dodecella
+SP576,SP576,Noctuidae,Feltia,Feltia subterranea
+SP577,SP577,Nepticulidae,Fomoria,Fomoria septembrella
+SP578,SP578,Pyralidae,Fundella,Fundella argentina
+SP579,SP579,Pyralidae,Galleria,Galleria mellonella
+SP580,SP579,Pyralidae,Galleria,Galleria melonella
+SP581,SP581,Erebidae,Galtara,Galtara extensa
+SP582,SP582,Nolidae,Garella,Garella musculana
+SP583,SP583,Nolidae,Garella,Garella nilotica
+SP584,SP584,Pyralidae,Gauna,Gauna aegusalis
+SP585,SP585,Gelechiidae,Gelechia,Gelechia sabinellus
+SP586,SP586,Gelechiidae,Gelechia,Gelechia senticetella
+SP587,SP587,Glyphipterigidae,Glyphipterix,Glyphipterix simpliciella
+SP588,SP588,Crambidae,Glyphodes,Glyphodes onychinalis
+SP589,SP377,Crambidae,Cydalima,Glyphodes perspectalis
+SP590,SP590,Crambidae,Glyphodes,Glyphodes pyloalis
+SP591,SP1280,Gracillariidae,Parectopa,Gracilaria alysidota
+SP592,SP592,Gracillariidae,Gracillaria,Gracillaria syringella
+SP593,SP593,Saturniidae,Graellsia,Graellsia isabellae
+SP594,SP594,Erebidae,Grammodes,Grammodes stolida
+SP595,SP595,Tortricidae,Grapholita,Grapholita delineana
+SP596,SP596,Tortricidae,Grapholita,Grapholita mesosocia
+SP597,SP597,Tortricidae,Grapholita,Grapholita molesta
+SP598,SP595,Tortricidae,Grapholita,Grapholitha delineana
+SP599,SP597,Tortricidae,Grapholita,Grapholitha molesta
+SP600,SP600,Geometridae,Gymnoscelis,Gymnoscelis rufifasciata
+SP601,SP601,Tortricidae,Gypsonoma,Gypsonoma aceriana
+SP602,SP602,Noctuidae,Hadena,Hadena compta
+SP603,SP75,Noctuidae,Anarta,Hadula trifolii
+SP604,SP604,Elachistidae,Haplochrois,Haplochrois theae
+SP605,SP605,Tineidae,Haplotinea,Haplotinea ditella
+SP606,SP606,Tineidae,Haplotinea,Haplotinea insectella
+SP607,SP607,Crambidae,Haritalodes,Haritalodes derogata
+SP608,SP608,Hesperiidae,Hasora,Hasora badra
+SP609,SP609,Noctuidae,Hecatera,Hecatera dysodea
+SP610,SP610,Tortricidae,Hedya,Hedya nubiferana
+SP611,SP611,Tortricidae,Hedya,Hedya salicella
+SP612,SP612,Gelechiidae,Helcystogramma,Helcystogramma convolvuli
+SP613,SP613,Nymphalidae,Heliconius,Heliconius erato
+SP614,SP614,Noctuidae,Helicoverpa,Helicoverpa armigera
+SP615,SP615,Noctuidae,Helicoverpa,Helicoverpa titicacae
+SP616,SP616,Noctuidae,Helicoverpa,Helicoverpa zea
+SP617,SP614,Noctuidae,Helicoverpa,Heliothis armigera
+SP618,SP616,Noctuidae,Helicoverpa,Heliothis zea
+SP619,SP619,Heliozelidae,Heliozela,Heliozela catoptrias
+SP620,SP620,Pterophoridae,Hellinsia,Hellinsia balanotes
+SP621,SP621,Pterophoridae,Hellinsia,Hellinsia beneficus
+SP622,SP622,Crambidae,Hellula,Hellula phidilealis
+SP623,SP623,Crambidae,Hellula,Hellula undalis
+SP624,SP624,Lycaenidae,Hemiargus,Hemiargus ceraunus
+SP625,SP625,Lycaenidae,Hemiargus,Hemiargus ramon
+SP626,SP626,Geometridae,Hemithea,Hemithea aestivaria
+SP627,SP627,Eriocraniidae,Heringocrania,Heringocrania unimaculella
+SP628,SP628,Crambidae,Herpetogramma,Herpetogramma basalis
+SP629,SP629,Crambidae,Herpetogramma,Herpetogramma bipunctalis
+SP630,SP630,Crambidae,Herpetogramma,Herpetogramma licarsisalis
+SP631,SP631,Crambidae,Herpetogramma,Herpetogramma phaeopteralis
+SP632,SP632,Crambidae,Hileithia,Hileithia decostalis
+SP633,SP633,Nymphalidae,Hipparchia,Hipparchia statilinus
+SP634,SP634,Sphingidae,Hippotion,Hippotion rosetta
+SP635,SP1238,Crambidae,Pyrausta,Hodebertia testalis
+SP636,SP636,Oecophoridae,Hofmannophila,Hofmannophila pseudospretella
+SP637,SP638,Galacticidae,Homadaula,Homadaula albizziae
+SP638,SP638,Galacticidae,Homadaula,Homadaula anisocentra
+SP639,SP1269,Pyralidae,Homoeosoma,Homeosoma stenotea
+SP640,SP1306,Pyralidae,Homoeographa,Homoeographa lamceolella
+SP641,SP641,Hyblaeidae,Hyblaea,Hyblaea puera
+SP642,SP642,Noctuidae,Hydraecia,Hydraecia micacea
+SP643,SP643,Hesperiidae,Hylephila,Hylephila phyleus
+SP644,SP644,Sphingidae,Hyles,Hyles euphorbiae
+SP645,SP645,Sphingidae,Hyles,Hyles lineata
+SP646,SP646,Crambidae,Hymenia,Hymenia perspectalis
+SP647,SP647,Erebidae,Hypena,Hypena jussalis
+SP648,SP1267,Erebidae,Hypena,Hypena laceratalis
+SP649,SP649,Erebidae,Hypena,Hypena opulenta
+SP650,SP651,Erebidae,Hypena,Hypena strigata
+SP651,SP651,Erebidae,Hypena,Hypena strigatus
+SP652,SP652,Erebidae,Hypena,Hypena subidalis
+SP653,SP653,Crambidae,Hyperectis,Hyperectis dioctias
+SP654,SP655,Erebidae,Hyphantria,Hyphantrea cunea
+SP655,SP655,Erebidae,Hyphantria,Hyphantria cunea
+SP656,SP656,Erebidae,Hypocala,Hypocala deflorata
+SP657,SP657,Nymphalidae,Hypolimnas,Hypolimnas misippus
+SP658,SP661,Pyralidae,Hypsopygia,Hyposopygia mauritialis
+SP659,SP659,Pyralidae,Hypsipyla,Hypsipyla grandella
+SP660,SP660,Pyralidae,Hypsopygia,Hypsopygia costalis
+SP661,SP661,Pyralidae,Hypsopygia,Hypsopygia mauritialis
+SP662,SP662,Geometridae,Idaea,Idaea dimidiata
+SP663,SP663,Geometridae,Idaea,Idaea inquinata
+SP664,SP664,Immidae,Imma,Imma mylias
+SP665,SP665,Papilionidae,Iphiclides,Iphiclides podalirius
+SP666,SP666,Geometridae,Iridopsis,Iridopsis fragilaria
+SP667,SP667,Erebidae,Ischyja,Ischyja manlia
+SP668,SP668,Gelechiidae,Isophrictis,Isophrictis striatella
+SP669,SP669,Tortricidae,Isotenes,Isotenes miserana
+SP670,SP925,Cosmopterigidae,Periploca,Ithome concolorella
+SP671,SP671,Cosmopterigidae,Ithome,Ithome lassula
+SP672,SP672,Nymphalidae,Junonia,Junonia atlites
+SP673,SP673,Gelechiidae,Keiferia,Keiferia lycopersicella
+SP674,SP674,Gracillariidae,Ketapangia,Ketapangia leucochorda
+SP675,SP675,Hepialidae,Korscheltellus,Korscheltellus lupulina
+SP676,SP1307,Psychidae,Chaliopsis,Kotochalia junodi
+SP677,SP677,Nymphalidae,Ladoga,Ladoga camilla
+SP678,SP678,Lycaenidae,Lampides,Lampides boeticus
+SP679,SP1236,Incurvariidae,Incurvaria,Lampronia corticella
+SP680,SP1236,Incurvariidae,Incurvaria,Lampronia rubiella
+SP681,SP1285,Crambidae,Lamprosema,Lamprosema charesalis
+SP682,SP683,Pterophoridae,Lantanophaga,Lantanophaga pusillidactyla
+SP683,SP683,Pterophoridae,Lantanophaga,Lantanophaga pusillidactylus
+SP684,SP385,Tortricidae,Cydia,Laspeyresia milleniana
+SP685,SP389,Tortricidae,Cydia,Laspeyresia pomonella
+SP686,SP686,Noctuidae,Lateroligia,Lateroligia ophiogramma
+SP687,SP687,Lasiocampidae,Lebeda,Lebeda nobilis
+SP688,SP688,Lecithoceridae,Lecithocera,Lecithocera micromela
+SP689,SP689,Psychidae,Lepidoscia,Lepidoscia heliochares
+SP690,SP690,Psychidae,Lepidoscia,Lepidoscia protorna
+SP691,SP691,Glyphipterigidae,Lepidotarphius,Lepidotarphius perornatella
+SP692,SP692,Erebidae,Leptocneria,Leptocneria reducta
+SP693,SP693,Oecophoridae,Leptocroca,Leptocroca sanguinolenta
+SP694,SP694,Pieridae,Leptosia,Leptosia nina
+SP695,SP695,Noctuidae,Leucania,Leucania comma
+SP696,SP696,Noctuidae,Leucania,Leucania inconspicua
+SP697,SP1274,Noctuidae,Leucania,Leucania insecuta
+SP698,SP698,Noctuidae,Leucania,Leucania loreyi
+SP699,SP702,Noctuidae,Leucania,Leucania loreyimima
+SP700,SP1300,Noctuidae,Leucania,Leucania opalisans
+SP701,SP1284,Noctuidae,Mythimna,Leucania scottii
+SP702,SP702,Noctuidae,Leucania,Leucania stenographa
+SP703,SP703,Noctuidae,Leucania,Leucania striata
+SP704,SP704,Crambidae,Leucinodes,Leucinodes orbonalis
+SP705,SP705,Geometridae,Leuciris,Leuciris fimbriaria
+SP706,SP1271,Noctuidae,Athetis,Leucocosmia nonagrica
+SP707,SP707,Erebidae,Leucoma,Leucoma salicis
+SP708,SP708,Lyonetiidae,Leucoptera,Leucoptera coffeella
+SP709,SP709,Lyonetiidae,Leucoptera,Leucoptera laburnella
+SP710,SP710,Lyonetiidae,Leucoptera,Leucoptera malifoliella
+SP711,SP711,Lyonetiidae,Leucoptera,Leucoptera sinuella
+SP712,SP712,Lyonetiidae,Leucoptera,Leucoptera spartifoliella
+SP713,SP713,Tineidae,Lindera,Lindera tessellatella
+SP714,SP714,Crambidae,Lineodes,Lineodes elcodes
+SP715,SP715,Crambidae,Lineodes,Lineodes integra
+SP716,SP716,Crambidae,Lineodes,Lineodes ochrea
+SP717,SP717,Pterophoridae,Lioptilodes,Lioptilodes albistriolatus
+SP718,SP718,Pterophoridae,Lioptilodes,Lioptilodes parvus
+SP719,SP719,Pyralidae,Lipographis,Lipographis subosseella
+SP720,SP720,Noctuidae,Lithophane,Lithophane leautieri
+SP721,SP721,Erebidae,Litoprosopus,Litoprosopus haitiensis
+SP722,SP722,Tortricidae,Lobesia,Lobesia botrana
+SP723,SP724,Tortricidae,Lobesiodes,Lobesia euphorbiana
+SP724,SP724,Tortricidae,Lobesiodes,Lobesiodes euphorbiana
+SP725,SP725,Tortricidae,Lorita,Lorita baccharivora
+SP726,SP726,Tortricidae,Lorita,Lorita scarificata
+SP727,SP727,Crambidae,Loxomorpha,Loxomorpha flavidissimalis
+SP728,SP728,Crambidae,Loxostege,Loxostege sticticalis
+SP729,SP728,Crambidae,Loxostege,Loxostege stricticalis
+SP730,SP730,Tortricidae,Lozotaenia,Lozotaenia cedrivora
+SP731,SP731,Lycaenidae,Luthrodes,Luthrodes pandava
+SP732,SP732,Erebidae,Lycomorphodes,Lycomorphodes sordida
+SP733,SP733,Noctuidae,Lycophotia,Lycophotia porphyrea
+SP734,SP734,Erebidae,Lymantria,Lymantria dispar
+SP735,SP735,Erebidae,Lymantria,Lymantria mathura
+SP736,SP736,Erebidae,Lymantria,Lymantria monacha
+SP737,SP737,Erebidae,Macaldenia,Macaldenia palumba
+SP738,SP738,Geometridae,Macaria,Macaria abydata
+SP739,SP739,Geometridae,Macaria,Macaria liturata
+SP740,SP1282,Geometridae,Digrammia,Macaria pallidata
+SP741,SP741,Geometridae,Macaria,Macaria wauaria
+SP742,SP742,Gracillariidae,Macarostola,Macarostola ida
+SP743,SP743,Erebidae,Macristis,Macristis geminipunctalis
+SP744,SP744,Sphingidae,Macroglossum,Macroglossum pyrrhosticta
+SP745,SP744,Sphingidae,Macroglossum,Macroglossum pyrrhostictum
+SP746,SP746,Pyralidae,Macrorrhinia,Macrorrhinia endonephele
+SP747,SP747,Gracillariidae,Macrosaccus,Macrosaccus robiniella
+SP748,SP748,Sphingidae,Manduca,Manduca quinquemaculatus
+SP749,SP749,Nolidae,Manoba,Manoba brunellus
+SP750,SP750,Crambidae,Marasmia,Marasmia trapezalis
+SP751,SP728,Crambidae,Loxostege,Margaritia sticticalis
+SP752,SP752,Lecithoceridae,Martyringa,Martyringa xeraula
+SP753,SP754,Crambidae,Maruca,Maruca testulalis
+SP754,SP754,Crambidae,Maruca,Maruca vitrata
+SP755,SP755,Noctuidae,Megalographa,Megalographa biloba
+SP756,SP757,Pterophoridae,Megalorhipida,Megalorhipida leucodactyla
+SP757,SP757,Pterophoridae,Megalorhipida,Megalorhipida leucodactylus
+SP758,SP758,Erebidae,Melipotis,Melipotis indomita
+SP759,SP759,Pyralidae,Melitara,Melitara dentata
+SP760,SP760,Pyralidae,Melitara,Melitara junctolineella
+SP761,SP761,Pyralidae,Melitara,Melitara prodenialis
+SP762,SP762,Sesiidae,Melittia,Melittia oedipus
+SP763,SP763,Tortricidae,Merophyas,Merophyas divulsana
+SP764,SP764,Noctuidae,Mesapamea,Mesapamea secalis
+SP765,SP765,Gelechiidae,Mesophleps,Mesophleps palpigera
+SP766,SP1273,Oecophoridae,Borkhausenia,Metalampra italica
+SP767,SP767,Gelechiidae,Metzneria,Metzneria lappella
+SP768,SP768,Gelechiidae,Metzneria,Metzneria paucipunctella
+SP769,SP1298,Limacodidae,Oxyplax,Miresa pallivitta
+SP770,SP770,Gelechiidae,Mirificarma,Mirificarma eburnella
+SP771,SP771,Momphidae,Mompha,Mompha epilobiella
+SP772,SP772,Momphidae,Mompha,Mompha locupletella
+SP773,SP773,Momphidae,Mompha,Mompha raschkiella
+SP774,SP774,Momphidae,Mompha,Mompha subbistrigella
+SP775,SP775,Momphidae,Mompha,Mompha terminella
+SP776,SP776,Momphidae,Mompha,Mompha trithalama
+SP777,SP777,Limacodidae,Monema,Monema flavescens
+SP778,SP778,Tineidae,Monopis,Monopis argillacea
+SP779,SP779,Tineidae,Monopis,Monopis crocicapitella
+SP780,SP780,Tineidae,Monopis,Monopis ethelella
+SP781,SP785,Tineidae,Monopis,Monopis ferruginella
+SP782,SP782,Tineidae,Monopis,Monopis longella
+SP783,SP783,Tineidae,Monopis,Monopis meliorella
+SP784,SP784,Tineidae,Monopis,Monopis monachella
+SP785,SP785,Tineidae,Monopis,Monopis obviella
+SP786,SP786,Pyralidae,Moodna,Moodna bisinuella
+SP787,SP787,Pyralidae,Morosaphycita,Morosaphycita oculiferella
+SP788,SP788,Pyralidae,Musotima,Musotima nitidalis
+SP789,SP789,Pyralidae,Musotima,Musotima ochropteralis
+SP790,SP790,Pyralidae,Mussidia,Mussidia nigrivenella
+SP791,SP791,Pyralidae,Myrlaea,Myrlaea marmorata
+SP792,SP792,Noctuidae,Mythimna,Mythimna languida
+SP793,SP702,Noctuidae,Leucania,Mythimna loreyimima
+SP794,SP1274,Noctuidae,Leucania,Mythimna obsoleta
+SP795,SP795,Noctuidae,Mythimna,Mythimna separata
+SP796,SP796,Noctuidae,Mythimna,Mythimna unipuncta
+SP797,SP797,Crambidae,Nacoleia,Nacoleia charesalis
+SP798,SP798,Crambidae,Nacoleia,Nacoleia octasema
+SP799,SP799,Tineidae,Nemapogon,Nemapogon cloacella
+SP800,SP800,Tineidae,Nemapogon,Nemapogon granella
+SP801,SP800,Tineidae,Nemapogon,Nemapogon granellus
+SP802,SP802,Tineidae,Nemapogon,Nemapogon picarella
+SP803,SP803,Tineidae,Nemapogon,Nemapogon variatella
+SP804,SP805,Noctuidae,Neogalea,Neogalea esula
+SP805,SP805,Noctuidae,Neogalea,Neogalea sunia
+SP806,SP806,Crambidae,Neoleucinodes,Neoleucinodes elegantalis
+SP807,SP807,Crambidae,Neoleucinodes,Neoleucinodes torvis
+SP808,SP807,Crambidae,Neoleucinodes,Neoleucinoides torvus
+SP809,SP809,Cosmopterigidae,Neomariania,Neomariania rebeli
+SP810,SP810,Pyralidae,Neomusotima,Neomusotima conspurcatalis
+SP811,SP811,Gracillariidae,Neurostrota,Neurostrota gunniella
+SP812,SP812,Tineidae,Neurothaumasia,Neurothaumasia ankerella
+SP813,SP813,Tineidae,Niditinea,Niditinea fuscella
+SP814,SP814,Crambidae,Niphograpta,Niphograpta albiguttalis
+SP815,SP815,Noctuidae,Niphonyx,Niphonyx segregata
+SP816,SP816,Noctuidae,Noctua,Noctua comes
+SP817,SP817,Noctuidae,Noctua,Noctua janthina
+SP818,SP818,Noctuidae,Noctua,Noctua pronuba
+SP819,SP819,Nolidae,Nola,Nola cucullatella
+SP820,SP820,Crambidae,Nomophila,Nomophila noctuella
+SP821,SP821,Tortricidae,Notocelia,Notocelia cynosbatella
+SP822,SP822,Tortricidae,Notocelia,Notocelia rosaecolana
+SP823,SP823,Erebidae,Nyctemera,Nyctemera amicus
+SP824,SP824,Erebidae,Nyctemera,Nyctemera apicalis
+SP825,SP1229,Nymphalidae,Aglais,Nymphalis io
+SP826,SP1277,Nymphalidae,Aglais,Nymphalis urticae
+SP827,SP894,Crambidae,Parapoynx,Nymphula crisonalis
+SP828,SP466,Crambidae,Elophila,Nymphula enixalis
+SP829,SP829,Crambidae,Nymphula,Nymphula manilensis
+SP830,SP519,Nepticulidae,Etainia,Obrussa sericopeza
+SP831,SP831,Ypsolophidae,Ochsenheimeria,Ochsenheimeria vacculella
+SP832,SP832,Yponomeutidae,Ocnerostoma,Ocnerostoma piniariella
+SP833,SP833,Pyralidae,Ocrasa,Ocrasa nostralis
+SP834,SP834,Autostichidae,Oecia,Oecia oecophila
+SP835,SP835,Oecophoridae,Oecophora,Oecophora bractella
+SP836,SP836,Autostichidae,Oegoconia,Oegoconia caradjai
+SP837,SP839,Autostichidae,Oegoconia,Oegoconia deauratella
+SP838,SP839,Autostichidae,Oegoconia,Oegoconia novimundi
+SP839,SP839,Autostichidae,Oegoconia,Oegoconia quadripuncta
+SP840,SP840,Psychidae,Oiketicus,Oiketicus kirbyi
+SP841,SP841,Tineidae,Oinophila,Oinophila v-flava
+SP842,SP841,Tineidae,Oinophila,Oinophila v-flavum
+SP843,SP843,Noctuidae,Oligia,Oligia latruncula
+SP844,SP844,Noctuidae,Oligia,Oligia strigilis
+SP845,SP845,Crambidae,Oligostigma,Oligostigma polydectalis
+SP846,SP846,Crambidae,Omiodes,Omiodes indicata
+SP847,SP1231,Noctuidae,Anchoscelis,Omphaloscelis lunosa
+SP848,SP848,Crambidae,Omphisa,Omphisa anastomosalis
+SP849,SP849,Geometridae,Operophtera,Operophtera brumata
+SP850,SP850,Erebidae,Ophiusa,Ophiusa disjungens
+SP851,SP851,Erebidae,Ophiusa,Ophiusa tirhaca
+SP852,SP852,Erebidae,Ophiusa,Ophiusa trapezium
+SP853,SP853,Xyloryctidae,Opisina,Opisina arenosella
+SP854,SP854,Tineidae,Opogona,Opogona aurisquamosa
+SP855,SP855,Tineidae,Opogona,Opogona comptella
+SP856,SP856,Tineidae,Opogona,Opogona omoscopa
+SP857,SP857,Tineidae,Opogona,Opogona purpuriella
+SP858,SP858,Tineidae,Opogona,Opogona sacchari
+SP859,SP859,Oecophoridae,Opsitycha,Opsitycha squalidella
+SP860,SP860,Erebidae,Oraesia,Oraesia emarginata
+SP861,SP861,Erebidae,Oraesia,Oraesia excavata
+SP862,SP862,Erebidae,Orgyia,Orgyia antiqua
+SP863,SP863,Erebidae,Orgyia,Orgyia thyellina
+SP864,SP1304,Erebidae,Clethrogyna,Orgyia turbata
+SP865,SP865,Gelechiidae,Ornativalva,Ornativalva erubescens
+SP866,SP1025,Crambidae,Salbia,Orphanostigma haemorhoidalis
+SP867,SP1025,Crambidae,Salbia,Orphanostigma haemorrhoidalis
+SP868,SP868,Crambidae,Ostrinia,Ostrinia furnacalis
+SP869,SP869,Crambidae,Ostrinia,Ostrinia nubilalis
+SP870,SP542,Erebidae,Eudocima,Othreis fullonia
+SP871,SP871,Erebidae,Oxyodes,Oxyodes scrobiculata
+SP872,SP872,Euteliidae,Paectes,Paectes arcigera
+SP873,SP872,Euteliidae,Paectes,Paectes nana
+SP874,SP874,Crambidae,Palpita,Palpita flegia
+SP875,SP875,Crambidae,Palpita,Palpita persimilis
+SP876,SP876,Crambidae,Palpita,Palpita vitrealis
+SP877,SP877,Tortricidae,Pandemis,Pandemis cerasana
+SP878,SP878,Tortricidae,Pandemis,Pandemis heparana
+SP879,SP879,Erebidae,Pandesma,Pandesma anysa
+SP880,SP880,Erebidae,Pantydia,Pantydia sparsa
+SP881,SP881,Papilionidae,Papilio,Papilio demodocus
+SP882,SP882,Papilionidae,Papilio,Papilio demoleus
+SP883,SP883,Papilionidae,Papilio,Papilio helenus
+SP884,SP884,Papilionidae,Papilio,Papilio polytes
+SP885,SP885,Papilionidae,Papilio,Papilio xuthus
+SP886,SP886,Crambidae,Paracorsia,Paracorsia repandalis
+SP887,SP887,Pyralidae,Paralipsa,Paralipsa gularis
+SP888,SP888,Sesiidae,Paranthrene,Paranthrene tabaniformis
+SP889,SP889,Nymphalidae,Parantica,Parantica aglea
+SP890,SP1286,Crambidae,Parapediasia,Parapediasia teterrella
+SP891,SP1286,Crambidae,Parapediasia,Parapediasia teterrellus
+SP892,SP896,Crambidae,Parapoynx,Paraponyx fluctuosalis
+SP893,SP893,Crambidae,Parapoynx,Parapoynx bilinealis
+SP894,SP894,Crambidae,Parapoynx,Parapoynx crisonalis
+SP895,SP895,Crambidae,Parapoynx,Parapoynx diminutalis
+SP896,SP896,Crambidae,Parapoynx,Parapoynx fluctuosalis
+SP897,SP897,Crambidae,Parapoynx,Parapoynx obscuralis
+SP898,SP898,Crambidae,Parapoynx,Parapoynx polydectalis
+SP899,SP899,Limacodidae,Parasa,Parasa lepida
+SP900,SP900,Erebidae,Parascotia,Parascotia fuliginaria
+SP901,SP901,Yponomeutidae,Paraswammerdamia,Paraswammerdamia albicapitella
+SP902,SP902,Yponomeutidae,Paraswammerdamia,Paraswammerdamia lutarea
+SP903,SP902,Yponomeutidae,Paraswammerdamia,Paraswammerdamia nebulella
+SP904,SP904,Nolidae,Pardasena,Pardasena virgulana
+SP905,SP905,Gracillariidae,Parectopa,Parectopa robiniella
+SP906,SP906,Erebidae,Pareuchaetes,Pareuchaetes aurata
+SP907,SP907,Erebidae,Pareuchaetes,Pareuchaetes insulata
+SP908,SP908,Erebidae,Pareuchaetes,Pareuchaetes pseudoinsulata
+SP909,SP909,Tineidae,Parochmastis,Parochmastis hilderi
+SP910,SP910,Geometridae,Pasiphila,Pasiphila rectangulata
+SP911,SP911,Castniidae,Paysandisia,Paysandisia archon
+SP912,SP912,Gelechiidae,Pectinophora,Pectinophora gossypiella
+SP913,SP1266,Gelechiidae,Pectinophora,Pectinophora scutigera
+SP914,SP914,Tortricidae,Pelochrista,Pelochrista medullana
+SP915,SP915,Pyralidae,Pempelia,Pempelia genistella
+SP916,SP916,Euteliidae,Penicillaria,Penicillaria jocosatrix
+SP917,SP918,Sesiidae,Pennisetia,Pennisetia hylaeformis
+SP918,SP918,Sesiidae,Pennisetia,Pennisetia hylaeiformis
+SP919,SP920,Sesiidae,Pennisetia,Pennisetia marginata
+SP920,SP920,Sesiidae,Pennisetia,Pennisetia marginatum
+SP921,SP921,Geometridae,Peribatodes,Peribatodes perversaria
+SP922,SP922,Erebidae,Pericyma,Pericyma cruegeri
+SP923,SP923,Noctuidae,Peridroma,Peridroma saucia
+SP924,SP708,Lyonetiidae,Leucoptera,Perileucoptera coffeella
+SP925,SP925,Cosmopterigidae,Periploca,Periploca orichalcella
+SP926,SP926,Elachistidae,Perittia,Perittia herrichiella
+SP927,SP927,Elachistidae,Perittia,Perittia lonicerae
+SP928,SP928,Geometridae,Perixera,Perixera illepidaria
+SP929,SP929,Geometridae,Perizoma,Perizoma alchemillata
+SP930,SP930,Elachistidae,Petrochroa,Petrochroa dimorpha
+SP931,SP931,Noctuidae,Phalaenoides,Phalaenoides glycinae
+SP932,SP932,Tineidae,Phereoeca,Phereoeca allutella
+SP933,SP933,Tineidae,Phereoeca,Phereoeca praecox
+SP934,SP934,Oecophoridae,Philobota,Philobota chionoptera
+SP935,SP935,Limacodidae,Phobetron,Phobetron hipparchia
+SP936,SP936,Pieridae,Phoebis,Phoebis agarithe
+SP937,SP117,Pieridae,Aphrissa,Phoebis orbis
+SP938,SP938,Geometridae,Phrissogonus,Phrissogonus laticostata
+SP939,SP939,Tortricidae,Phtheochroa,Phtheochroa pulvillana
+SP940,SP940,Gelechiidae,Phthorimaea,Phthorimaea absoluta
+SP941,SP942,Gelechiidae,Phthorimaea,Phthorimaea openculella
+SP942,SP942,Gelechiidae,Phthorimaea,Phthorimaea operculella
+SP943,SP943,Gracillariidae,Phyllocnistis,Phyllocnistis citrella
+SP944,SP944,Gracillariidae,Phyllocnistis,Phyllocnistis vitegenella
+SP945,SP944,Gracillariidae,Phyllocnistis,Phyllocnistis vitigenella
+SP946,SP946,Gracillariidae,Phyllonorycter,Phyllonorycter blancardella
+SP947,SP947,Gracillariidae,Phyllonorycter,Phyllonorycter emberizaepenella
+SP948,SP948,Gracillariidae,Phyllonorycter,Phyllonorycter geniculella
+SP949,SP949,Gracillariidae,Phyllonorycter,Phyllonorycter issikii
+SP950,SP950,Gracillariidae,Phyllonorycter,Phyllonorycter joannisi
+SP951,SP951,Gracillariidae,Phyllonorycter,Phyllonorycter leucographella
+SP952,SP951,Gracillariidae,Phyllonorycter,Phyllonorycter leucographellus
+SP953,SP953,Gracillariidae,Phyllonorycter,Phyllonorycter medicaginella
+SP954,SP954,Gracillariidae,Phyllonorycter,Phyllonorycter mespilella
+SP955,SP955,Gracillariidae,Phyllonorycter,Phyllonorycter messaniella
+SP956,SP956,Gracillariidae,Phyllonorycter,Phyllonorycter platani
+SP957,SP747,Gracillariidae,Macrosaccus,Phyllonorycter robiniella
+SP958,SP958,Erebidae,Physula,Physula albipunctilla
+SP959,SP959,Pieridae,Pieris,Pieris brassicae
+SP960,SP960,Pieridae,Pieris,Pieris canidia
+SP961,SP961,Pieridae,Pieris,Pieris rapae
+SP962,SP962,Crambidae,Piletocera,Piletocera bufalis
+SP963,SP963,Crambidae,Pilocrocis,Pilocrocis ramentalis
+SP964,SP964,Gelechiidae,Platyedra,Platyedra subcinerea
+SP965,SP965,Tortricidae,Platynota,Platynota rostrana
+SP966,SP966,Tortricidae,Platynota,Platynota stultana
+SP967,SP968,Pterophoridae,Platyptilia,Platyptilia isodactyla
+SP968,SP968,Pterophoridae,Platyptilia,Platyptilia isodactylus
+SP969,SP969,Geometridae,Plesiomorpha,Plesiomorpha flaviceps
+SP970,SP970,Geometridae,Pleuroprucha,Pleuroprucha asthenaria
+SP971,SP971,Pyralidae,Plodia,Plodia interpunctella
+SP972,SP972,Plutellidae,Plutella,Plutella porrectella
+SP973,SP973,Plutellidae,Plutella,Plutella xylostella
+SP974,SP974,Erebidae,Polydesma,Polydesma boarmoides
+SP975,SP975,Erebidae,Polydesma,Polydesma umbricola
+SP976,SP976,Lycaenidae,Polyommatus,Polyommatus icarus
+SP977,SP977,Gracillariidae,Polysoma,Polysoma eumetalla
+SP978,SP17,Noctuidae,Acontia,Ponometia candefacta
+SP979,SP1272,Noctuidae,Acontia,Ponometia exigua
+SP980,SP980,Pieridae,Pontia,Pontia daplidice
+SP981,SP981,Gracillariidae,Porphyrosela,Porphyrosela hardenbergiella
+SP982,SP982,Gracillariidae,Porphyrosela,Porphyrosela minuta
+SP983,SP983,Tineidae,Praeacedes,Praeacedes atomosella
+SP984,SP984,Praydidae,Prays,Prays citri
+SP985,SP985,Praydidae,Prays,Prays fraxinella
+SP986,SP986,Praydidae,Prays,Prays nephelomima
+SP987,SP987,Praydidae,Prays,Prays oleae
+SP988,SP988,Praydidae,Prays,Prays peregrina
+SP989,SP989,Nymphalidae,Prepona,Prepona laertes
+SP990,SP990,Oecophoridae,Promalactis,Promalactis suzukiella
+SP991,SP1059,Zygaenidae,Sinica,Pryeria sinica
+SP992,SP738,Geometridae,Macaria,Psamatodes abydata
+SP993,SP796,Noctuidae,Mythimna,Pseudaletia unipunctata
+SP994,SP994,Geometridae,Pseudocoremia,Pseudocoremia suavis
+SP995,SP995,Opostegidae,Pseudopostega,Pseudopostega zelopa
+SP996,SP996,Crambidae,Pseudopyrausta,Pseudopyrausta santatalis
+SP997,SP997,Sphingidae,Psilogramma,Psilogramma increta
+SP998,SP997,Sphingidae,Psilogramma,Psilogramma incretas
+SP999,SP999,Sphingidae,Psilogramma,Psilogramma menephron
+SP1000,SP1000,Psychidae,Psyche,Psyche casta
+SP1001,SP1001,Tineidae,Psychoides,Psychoides filicivora
+SP1002,SP1002,Pterolonchidae,Pterolonche,Pterolonche inspersa
+SP1003,SP1003,Erebidae,Ptichodis,Ptichodis immunis
+SP1004,SP1004,Crambidae,Pygospila,Pygospila tyres
+SP1005,SP1005,Pyralidae,Pyralis,Pyralis farinalis
+SP1006,SP1006,Pyralidae,Pyralis,Pyralis manihotalis
+SP1007,SP1007,Oecophoridae,Pyramidobela,Pyramidobela angelarum
+SP1008,SP1008,Crambidae,Pyrausta,Pyrausta inornatalis
+SP1009,SP1009,Crambidae,Pyrausta,Pyrausta panopealis
+SP1010,SP1010,Crambidae,Pyrausta,Pyrausta perelegans
+SP1011,SP81,Cosmopterigidae,Anatrachyntis,Pyroderces rileyi
+SP1012,SP1012,Sesiidae,Pyropteron,Pyropteron doryliformis
+SP1013,SP1013,Erebidae,Pyrrharctia,Pyrrharctia isabella
+SP1014,SP1014,Gelechiidae,Recurvaria,Recurvaria nanella
+SP1015,SP1263,Erebidae,Mocis,Remigia conveniens
+SP1016,SP1016,Crambidae,Rhectocraspeda,Rhectocraspeda periusalis
+SP1017,SP1017,Noctuidae,Rhizedra,Rhizedra lutosa
+SP1018,SP1018,Tortricidae,Rhopobota,Rhopobota naevana
+SP1019,SP1018,Tortricidae,Rhopobota,Rhopobota unipuntana
+SP1020,SP1020,Tortricidae,Rhyacionia,Rhyacionia buoliana
+SP1021,SP1021,Nolidae,Rhynchopalpus,Rhynchopalpus brunella
+SP1022,SP1022,Pyralidae,Ribua,Ribua innoxia
+SP1023,SP1023,Saturniidae,Rothschildia,Rothschildia orizaba
+SP1024,SP1024,Erebidae,Rusicada,Rusicada privata
+SP1025,SP1025,Crambidae,Salbia,Salbia haemorrhoidalis
+SP1026,SP1265,Crambidae,Samea,Samea castellalis
+SP1027,SP1027,Crambidae,Samea,Samea multiplicalis
+SP1028,SP1028,Crambidae,Sameodes,Sameodes cancellalis
+SP1029,SP1029,Saturniidae,Samia,Samia cynthia
+SP1030,SP1030,Lecithoceridae,Sarisophora,Sarisophora leucoscia
+SP1031,SP1031,Saturniidae,Saturnia,Saturnia pyri
+SP1032,SP1032,Tineidae,Scardia,Scardia amurensis
+SP1033,SP1033,Crambidae,Sceliodes,Sceliodes laisalis
+SP1034,SP1034,Schreckensteiniidae,Schreckensteinia,Schreckensteinia festaliella
+SP1035,SP1035,Pyralidae,Sciota,Sciota adelphella
+SP1036,SP1036,Crambidae,Sclerocona,Sclerocona acutella
+SP1037,SP1037,Geometridae,Scopula,Scopula personata
+SP1038,SP1038,Gelechiidae,Scrobipalpa,Scrobipalpa aptatella
+SP1039,SP1039,Gelechiidae,Scrobipalpa,Scrobipalpa atriplicella
+SP1040,SP1040,Gelechiidae,Scrobipalpa,Scrobipalpa obsoletella
+SP1041,SP1041,Gelechiidae,Scrobipalpa,Scrobipalpa ocellatella
+SP1042,SP1042,Scythrididae,Scythris,Scythris buszkoi
+SP1043,SP1043,Scythrididae,Scythris,Scythris limbella
+SP1044,SP1044,Scythrididae,Scythris,Scythris sinensis
+SP1045,SP1045,Peleopodidae,Scythropiodes,Scythropiodes issikii
+SP1046,SP1046,Noctuidae,Sedina,Sedina buettneri
+SP1047,SP1047,Tortricidae,Selania,Selania leplastriana
+SP1048,SP749,Nolidae,Manoba,Selca brunella
+SP1049,SP1049,Papilionidae,Sericinus,Sericinus montela
+SP1050,SP1050,Erebidae,Serrodes,Serrodes mediopallens
+SP1051,SP1051,Noctuidae,Sesamia,Sesamia inferens
+SP1052,SP1052,Noctuidae,Sesamia,Sesamia nonagrioides
+SP1053,SP1053,Sesiidae,Sesia,Sesia apiformis
+SP1054,SP1054,Tineidae,Setomorpha,Setomorpha rutella
+SP1055,SP1055,Limacodidae,Sibine,Sibine apicalis
+SP1056,SP6,Limacodidae,Acharia,Sibine stimulea
+SP1057,SP274,Geometridae,Chloroclystis,Sigilliclystis insigillata
+SP1058,SP1058,Erebidae,Simplicia,Simplicia cornicalis
+SP1059,SP1059,Zygaenidae,Sinica,Sinica sinica
+SP1060,SP1060,Crambidae,Sisyracera,Sisyracera inabsconsalis
+SP1061,SP1061,Crambidae,Sitochroa,Sitochroa palealis
+SP1062,SP1063,Gelechiidae,Sitotroga,Sitotroga cerealela
+SP1063,SP1063,Gelechiidae,Sitotroga,Sitotroga cerealella
+SP1064,SP1064,Geometridae,Sphacelodes,Sphacelodes vulneraria
+SP1065,SP1065,Pterophoridae,Sphenarches,Sphenarches anisodactylus
+SP1066,SP1066,Sphingidae,Sphinx,Sphinx pinastri
+SP1067,SP1067,Oecophoridae,Sphyrelata,Sphyrelata amotella
+SP1068,SP1068,Tortricidae,Spilonota,Spilonota laricana
+SP1069,SP1068,Tortricidae,Spilonota,Spilonota lariciana
+SP1070,SP1070,Tortricidae,Spilonota,Spilonota ocellana
+SP1071,SP1071,Noctuidae,Spodoptera,Spodoptera cilium
+SP1072,SP1072,Noctuidae,Spodoptera,Spodoptera dolichos
+SP1073,SP1073,Noctuidae,Spodoptera,Spodoptera eridania
+SP1074,SP1074,Noctuidae,Spodoptera,Spodoptera exempta
+SP1075,SP1075,Noctuidae,Spodoptera,Spodoptera exigua
+SP1076,SP1076,Noctuidae,Spodoptera,Spodoptera frugiperda
+SP1077,SP1077,Noctuidae,Spodoptera,Spodoptera littoralis
+SP1078,SP1078,Noctuidae,Spodoptera,Spodoptera litura
+SP1079,SP1079,Noctuidae,Spodoptera,Spodoptera mauritia
+SP1080,SP1080,Crambidae,Spoladea,Spoladea recurvalis
+SP1081,SP1283,Noctuidae,Acontia,Spragueia margana
+SP1082,SP1082,Tortricidae,Statherotis,Statherotis discana
+SP1083,SP1083,Stathmopodidae,Stathmopoda,Stathmopoda auriferella
+SP1084,SP1084,Stathmopodidae,Stathmopoda,Stathmopoda cephalaea
+SP1085,SP1085,Stathmopodidae,Stathmopoda,Stathmopoda melanochra
+SP1086,SP1303,Gelechiidae,Stegasta,Stegasta bosqueella
+SP1087,SP1087,Lyonetiidae,Stegommata,Stegommata leptomitella
+SP1088,SP1088,Lyonetiidae,Stegommata,Stegommata sulfuratella
+SP1089,SP1089,Gelechiidae,Stenolechia,Stenolechia bathrodyas
+SP1090,SP1090,Depressariidae,Stenoma,Stenoma catenifer
+SP1091,SP1092,Pterophoridae,Stenoptilia,Stenoptilia millieridactyla
+SP1092,SP1092,Pterophoridae,Stenoptilia,Stenoptilia millieridactylus
+SP1093,SP1093,Pterophoridae,Stenoptilia,Stenoptilia zophodactylus
+SP1094,SP1094,Pterophoridae,Stenoptilodes,Stenoptilodes brevipennis
+SP1095,SP1095,Pterophoridae,Stenoptilodes,Stenoptilodes littoralis
+SP1096,SP1096,Pterophoridae,Stenoptilodes,Stenoptilodes taprobanes
+SP1097,SP1097,Pyralidae,Stericta,Stericta carbonalis
+SP1098,SP1098,Euteliidae,Stictoptera,Stictoptera cucullioides
+SP1099,SP1099,Euteliidae,Stictoptera,Stictoptera poecilosoma
+SP1100,SP1100,Nepticulidae,Stigmella,Stigmella anomalella
+SP1101,SP1101,Nepticulidae,Stigmella,Stigmella atricapitella
+SP1102,SP1102,Nepticulidae,Stigmella,Stigmella aurella
+SP1103,SP1103,Nepticulidae,Stigmella,Stigmella centifoliella
+SP1104,SP459,Nepticulidae,Ectoedemia,Stigmella heringella
+SP1105,SP1105,Nepticulidae,Stigmella,Stigmella microtheriella
+SP1106,SP1106,Nepticulidae,Stigmella,Stigmella minusculella
+SP1107,SP1107,Nepticulidae,Stigmella,Stigmella multispicata
+SP1108,SP1108,Nepticulidae,Stigmella,Stigmella oxyacanthella
+SP1109,SP1109,Nepticulidae,Stigmella,Stigmella pyri
+SP1110,SP1110,Nepticulidae,Stigmella,Stigmella speciosa
+SP1111,SP1111,Nepticulidae,Stigmella,Stigmella suberivora
+SP1112,SP707,Erebidae,Leucoma,Stilpnotia salicis
+SP1113,SP1113,Autostichidae,Stoeberhinus,Stoeberhinus testaceus
+SP1114,SP1114,Gracillariidae,Stomphastis,Stomphastis thraustica
+SP1115,SP1115,Tortricidae,Strepsicrates,Strepsicrates infensa
+SP1116,SP1116,Tortricidae,Strepsicrates,Strepsicrates macropetana
+SP1117,SP1117,Tortricidae,Strepsicrates,Strepsicrates semicanella
+SP1118,SP1118,Tortricidae,Strepsicrates,Strepsicrates smithiana
+SP1119,SP1119,Lycaenidae,Strymon,Strymon bazochii
+SP1120,SP1152,Lycaenidae,Thecla,Strymon limenia
+SP1121,SP1121,Pyralidae,Stylopalpia,Stylopalpia luniferella
+SP1122,SP1121,Pyralidae,Stylopalpia,Stylopalpis lunigerella
+SP1123,SP1123,Hesperiidae,Suastus,Suastus gremius
+SP1124,SP902,Yponomeutidae,Paraswammerdamia,Swammerdamia caesiella
+SP1125,SP902,Yponomeutidae,Paraswammerdamia,Swammerdamia lutaria
+SP1126,SP1126,Yponomeutidae,Swammerdamia,Swammerdamia pyrella
+SP1127,SP927,Elachistidae,Perittia,Swezeyula lonicerae
+SP1128,SP1128,Gelechiidae,Symmetrischema,Symmetrischema capsica
+SP1129,SP1129,Gelechiidae,Symmetrischema,Symmetrischema costaricanum
+SP1130,SP1130,Gelechiidae,Symmetrischema,Symmetrischema striatella
+SP1131,SP1131,Gelechiidae,Symmetrischema,Symmetrischema tangolias
+SP1132,SP1132,Autostichidae,Symmoca,Symmoca signatella
+SP1133,SP1133,Sesiidae,Synanthedon,Synanthedon andrenaeformis
+SP1134,SP1134,Sesiidae,Synanthedon,Synanthedon myopaeformis
+SP1135,SP1136,Sesiidae,Synanthedon,Synanthedon tipuliforme
+SP1136,SP1136,Sesiidae,Synanthedon,Synanthedon tipuliformis
+SP1137,SP1278,Gelechiidae,Aproaerema,Syncopacma polychromella
+SP1138,SP1138,Crambidae,Syngamia,Syngamia florella
+SP1139,SP1139,Noctuidae,Syngrapha,Syngrapha interrogationis
+SP1140,SP1140,Erebidae,Syntomeida,Syntomeida epilais
+SP1141,SP1141,Oecophoridae,Tachystola,Tachystola acroxantha
+SP1142,SP1142,Oecophoridae,Tachystola,Tachystola hemisema
+SP1143,SP1143,Euteliidae,Targalla,Targalla delatrix
+SP1144,SP1144,Noctuidae,Tathorhynchus,Tathorhynchus exsiccata
+SP1145,SP1145,Choreutidae,Tebenna,Tebenna micalis
+SP1146,SP1146,Gelechiidae,Tecia,Tecia solanivora
+SP1147,SP1147,Erebidae,Teia,Teia anartoides
+SP1148,SP1148,Crambidae,Terastia,Terastia meticulosalis
+SP1149,SP1149,Tortricidae,Thaumatotibia,Thaumatotibia leucotreta
+SP1150,SP1150,Notodontidae,Thaumetopoea,Thaumetopoea pityocampa
+SP1151,SP1151,Notodontidae,Thaumetopoea,Thaumetopoea processionea
+SP1152,SP1152,Lycaenidae,Thecla,Thecla limenia
+SP1153,SP1153,Geometridae,Thera,Thera britannica
+SP1154,SP1154,Geometridae,Thera,Thera cupressata
+SP1155,SP1155,Geometridae,Thera,Thera juniperata
+SP1156,SP1156,Zygaenidae,Theresimima,Theresimima ampellophaga
+SP1157,SP1268,Sphingidae,Theretra,Theretra latreillei
+SP1158,SP1158,Sphingidae,Theretra,Theretra nessus
+SP1159,SP1159,Nymphalidae,Thessalia,Thessalia theona
+SP1160,SP1160,Hesperiidae,Thymelicus,Thymelicus lineola
+SP1161,SP1161,Hesperiidae,Thymelicus,Thymelicus sylvestris
+SP1162,SP1162,Geometridae,Thyrinteina,Thyrinteina arnobia
+SP1163,SP1163,Noctuidae,Thysanoplusia,Thysanoplusia orichalcea
+SP1164,SP1164,Tineidae,Tinea,Tinea columbariella
+SP1165,SP1165,Tineidae,Tinea,Tinea dubiella
+SP1166,SP1166,Tineidae,Tinea,Tinea flavescentella
+SP1167,SP319,Coleophoridae,Coleophora,Tinea laricella
+SP1168,SP1168,Tineidae,Tinea,Tinea murariella
+SP1169,SP1169,Tineidae,Tinea,Tinea pallescentella
+SP1170,SP1170,Tineidae,Tinea,Tinea pellionella
+SP1171,SP1171,Tineidae,Tinea,Tinea translucens
+SP1172,SP1172,Tineidae,Tineola,Tineola bisselliella
+SP1173,SP1173,Lycaenidae,Tmolus,Tmolus echion
+SP1174,SP1174,Lycaenidae,Tongeia,Tongeia filicaudis
+SP1175,SP1175,Stathmopodidae,Tortilia,Tortilia charadritis
+SP1176,SP1176,Pyralidae,Trachylepidia,Trachylepidia fructicassiella
+SP1177,SP1177,Oecophoridae,Trachypepla,Trachypepla indolescens
+SP1178,SP1178,Tineidae,Triaxomera,Triaxomera parasitella
+SP1179,SP74,Noctuidae,Anarta,Trichoclea edwardsii
+SP1180,SP73,Noctuidae,Anarta,Trichoclea postica
+SP1181,SP1181,Tineidae,Trichophaga,Trichophaga mormopis
+SP1182,SP1182,Tineidae,Trichophaga,Trichophaga tapetzella
+SP1183,SP1183,Noctuidae,Trichoplusia,Trichoplusia ni
+SP1184,SP1292,Noctuidae,Vittaplusia,Trichoplusia vittata
+SP1185,SP1185,Bombycidae,Trilocha,Trilocha varians
+SP1186,SP1186,Cosmopterigidae,Trissodoris,Trissodoris honorariella
+SP1187,SP1187,Pyralidae,Tucumania,Tucumania tapiacola
+SP1188,SP940,Gelechiidae,Phthorimaea,Tuta absoluta
+SP1189,SP1294,Psychidae,Typhonia,Typhonia beatricis
+SP1190,SP1191,Erebidae,Tyria,Tyria jacobaea
+SP1191,SP1191,Erebidae,Tyria,Tyria jacobaeae
+SP1192,SP1192,Erebidae,Tyta,Tyta luctuosa
+SP1193,SP1193,Pyralidae,Unadilla,Unadilla maturella
+SP1194,SP1194,Nolidae,Uraba,Uraba lugens
+SP1195,SP1195,Crambidae,Uresiphita,Uresiphita ornithopteralis
+SP1196,SP1196,Crambidae,Usingeriessa,Usingeriessa onyxalis
+SP1197,SP1197,Erebidae,Utetheisa,Utetheisa ornatrix
+SP1198,SP1198,Nymphalidae,Vanessa,Vanessa atalanta
+SP1199,SP1199,Nymphalidae,Vanessa,Vanessa cardui
+SP1200,SP1200,Nymphalidae,Vanessa,Vanessa carye
+SP1201,SP1201,Nymphalidae,Vanessa,Vanessa virginiensis
+SP1202,SP1202,Pyralidae,Vitula,Vitula biviella
+SP1203,SP1203,Pyralidae,Vitula,Vitula edmandsii
+SP1204,SP135,Pyralidae,Arcola,Vogtia malloi
+SP1205,SP1205,Pterophoridae,Wheeleria,Wheeleria spilodactylus
+SP1206,SP1207,Noctuidae,Xestia,Xestia adela
+SP1207,SP1207,Noctuidae,Xestia,Xestia c-nigrum
+SP1208,SP1208,Noctuidae,Xestia,Xestia xanthographa
+SP1209,SP1209,Crambidae,Xubida,Xubida infusellus
+SP1210,SP1210,Tineidae,Xylesthia,Xylesthia pruniramiella
+SP1211,SP1211,Tineidae,Xystrologa,Xystrologa grenadella
+SP1212,SP1239,Yponomeutidae,Yponomeuta,Yponomeuta cagnagella
+SP1213,SP1214,Yponomeutidae,Yponomeuta,Yponomeuta malinellus
+SP1214,SP1214,Yponomeutidae,Yponomeuta,Yponomeuta padella
+SP1215,SP1215,Yponomeutidae,Yponomeuta,Yponomeuta plumbella
+SP1216,SP1216,Ypsolophidae,Ypsolopha,Ypsolopha dentella
+SP1217,SP1302,Plutellidae,Ypsolophus,Ypsolopha ustella
+SP1218,SP1218,Crambidae,Zebronia,Zebronia phenice
+SP1219,SP1220,Tortricidae,Zeiraphera,Zeiraphera diniana
+SP1220,SP1220,Tortricidae,Zeiraphera,Zeiraphera griseana
+SP1221,SP1221,Yponomeutidae,Zelleria,Zelleria oleastrella
+SP1222,SP1222,Cossidae,Zeuzera,Zeuzera pyrina
+SP1223,SP1224,Lycaenidae,Zizina,Zizina oti
+SP1224,SP1224,Lycaenidae,Zizina,Zizina otis
+SP1225,SP1225,Lycaenidae,Zizula,Zizula hylax
+SP1226,SP1226,Tortricidae,Zomariana,Zomariana doxasticana
+SP1227,SP1227,Pyralidae,Zophodia,Zophodia lucidalis
+SP1228,SP1228,Zygaenidae,Zygaena,Zygaena orana
+SP1229,SP1229,Nymphalidae,Aglais,Aglais io
+SP1230,SP1230,Noctuidae,Leptologia,Leptologia lota
+SP1231,SP1231,Noctuidae,Anchoscelis,Anchoscelis lunosa
+SP1232,SP1232,Elachistidae,Chrysoclista,Chrysoclista linneela
+SP1233,SP1233,Coleophoridae,Coleophora,Coleophora anatipennella
+SP1234,SP1234,Oecophoridae,Callima,Callima formosella
+SP1235,SP1235,Depressariidae,Depressaria,Depressaria apiella
+SP1236,SP1236,Incurvariidae,Incurvaria,Incurvaria rubiella
+SP1237,SP1237,Crambidae,Mimudea,Mimudea puralis
+SP1238,SP1238,Crambidae,Pyrausta,Pyrausta testalis
+SP1239,SP1239,Yponomeutidae,Yponomeuta,Yponomeuta cagnagellus
+SP1240,SP1240,Cosmopterigidae,Aphthonetus,Aphthonetus triaula
+SP1241,SP1241,Pyralidae,Assara,Assara albicostalis
+SP1242,SP1242,Gracillariidae,Caloptilia,Caloptilia mabaella
+SP1243,SP1243,Nolidae,Earias,Earias roseifera
+SP1244,SP1244,Elachistidae,Elachista,Elachista synethes
+SP1245,SP1245,Erebidae,Eudocima,Eudocima materna
+SP1246,SP1246,Crambidae,Eudonia,Eudonia psammitis
+SP1247,SP1247,Noctuidae,Helicoverpa,Helicoverpa punctigera
+SP1248,SP1248,Cosmopterigidae,Pyroderces,Pyroderces aellotricha
+SP1249,SP1249,Crambidae,Sceliodes,Sceliodes cordalis
+SP1250,SP1250,Sesiidae,Sesia,Sesia siningensis
+SP1251,SP1251,Gracillariidae,Spulerina,Spulerina isonoma
+SP1252,SP1252,Pyralidae,Tirathaba,Tirathaba rufivena
+SP1253,SP1253,Cossidae,Polyphagozerra,Polyphagozerra coffeae
+SP1254,SP1254,Crambidae,Eumorphobotys,Eumorphobotys eumorphalis
+SP1255,SP1255,Crambidae,Palpita,Palpita hypohomalia
+SP1256,SP1256,Erebidae,Lemyra,Lemyra rhodophilodes
+SP1257,SP1257,Geometridae,Comostola,Comostola laesaria
+SP1258,SP1258,Geometridae,Problepsis,Problepsis phoebearia
+SP1259,SP1259,Limacodidae,Parasa,Parasa pastoralis
+SP1260,SP1260,Notodontidae,Euhampsonia,Euhampsonia serratifera
+SP1261,SP1261,Zygaenidae,Histia,Histia flabellicornis
+SP1262,SP1262,Gelechiidae,Monochroa,Monochroa hornigi
+SP1263,SP1263,Erebidae,Mocis,Mocis conveniens
+SP1264,SP1264,Nymphalidae,Dione,Dione vanillae
+SP1265,SP1265,Crambidae,Samea,Samea ecclesialis
+SP1266,SP1266,Gelechiidae,Pectinophora,Pectinophora fusculella
+SP1267,SP1267,Erebidae,Hypena,Hypena commixtalis
+SP1268,SP1268,Sphingidae,Theretra,Theretra latreillii
+SP1269,SP1269,Pyralidae,Homoeosoma,Homoeosoma stenotea
+SP1270,SP1270,Erebidae,Sphrageidus,Sphrageidus similis
+SP1271,SP1271,Noctuidae,Athetis,Athetis nonagrica
+SP1272,SP1272,Noctuidae,Acontia,Acontia exigua
+SP1273,SP1273,Oecophoridae,Borkhausenia,Borkhausenia italica
+SP1274,SP1274,Noctuidae,Leucania,Leucania obsoleta
+SP1275,SP1275,Tortricidae,Syndemis,Syndemis cedricola
+SP1276,SP1276,Cosmopterigidae,Pyroderces,Pyroderces incertulella
+SP1277,SP1277,Nymphalidae,Aglais,Aglais urticae
+SP1278,SP1278,Gelechiidae,Aproaerema,Aproaerema polychromella
+SP1279,SP1279,Noctuidae,Notioplusia,Notioplusia illustrata
+SP1280,SP1280,Gracillariidae,Parectopa,Parectopa alysidota
+SP1281,SP1281,Oecophoridae,Schiffermuelleria,Schiffermuelleria amasiella
+SP1282,SP1282,Geometridae,Digrammia,Digrammia pallidata
+SP1283,SP1283,Noctuidae,Acontia,Acontia margana
+SP1284,SP1284,Noctuidae,Mythimna,Mythimna scottii
+SP1285,SP1285,Crambidae,Lamprosema,Lamprosema chagosalis
+SP1286,SP1286,Crambidae,Parapediasia,Parapediasia teterellus
+SP1287,SP1287,Erebidae,Zale,Zale minerea
+SP1288,SP1288,Gelechiidae,Aproaerema,Aproaerema simplexella
+SP1289,SP1289,Tortricidae,Ancylis,Ancylis impatiens
+SP1290,SP1290,Depressariidae,Depressaria,Depressaria discipunctella
+SP1291,SP1291,Noctuidae,Chloantha,Chloantha hyperici
+SP1292,SP1292,Noctuidae,Vittaplusia,Vittaplusia vittata
+SP1293,SP1293,Cosmopterigidae,Bifascioides,Bifascioides leucomelanella
+SP1294,SP1294,Psychidae,Typhonia,Typhonia melana
+SP1295,SP1295,Glyphipterigidae,Acrolepia,Acrolepia jaspidata
+SP1296,SP1296,Cosmopterigidae,Stagmatophora,Stagmatophora serratella
+SP1297,SP1297,Cosmopterigidae,Stagmatophora,Stagmatophora intermediella
+SP1298,SP1298,Limacodidae,Oxyplax,Oxyplax pallivitta
+SP1299,SP1299,Crambidae,Diatraea,Diatraea rufescens
+SP1300,SP1300,Noctuidae,Leucania,Leucania lobrega
+SP1301,SP1301,Tortricidae,Epinotia,Epinotia celtisana
+SP1302,SP1302,Plutellidae,Ypsolophus,Ypsolophus ustella
+SP1303,SP1303,Gelechiidae,Stegasta,Stegasta basqueella
+SP1304,SP1304,Erebidae,Clethrogyna,Clethrogyna turbata
+SP1305,SP1305,Tortricidae,Cydia,Cydia saltitans
+SP1306,SP1306,Pyralidae,Homoeographa,Homoeographa lanceolella
+SP1307,SP1307,Psychidae,Chaliopsis,Chaliopsis junodi
