@@ -27,7 +27,7 @@ UpdatedReferences.rename(columns={"RevisedReference": "BibliographicReference", 
 
 # 4) Organize Columns and Check names
 
-# 4.1 Observation Data
+# 4.1 Records Data
 RecordsData_merged = RecordsData_merged[
     ['Species','AcceptedSpecies',
     'NAME_0', 'Realm',
@@ -54,17 +54,11 @@ Taxonomy['SpeciesID'] = 'SP' + (Taxonomy.index +1).astype(str)
 # Creating the SpeciesID column, which will be used as the primary key for the Taxonomy table. 
 # This code will make the IDs to start with SP1 and complete with the number of rows.
 
-# 5.4) Realms
+# 5.3) Realms
 Realms['RealmID'] = 'RLM' + (Realms.index +1).astype(str) 
 # Creating the RealmID column, which will be used as the primary key for the Realms table. 
 # This code will make the IDs to start with RLM1 and complete with the number of rows.
 
-# 5.3) Observations
-
-RecordsData_merged.reset_index(drop=True, inplace=True)
-RecordsData_merged['RecordID'] = 'REC' + (RecordsData_merged.index +1).astype(str) 
-# Creating the RecordID column, which will be used as the primary key for the Observations table. 
-# This code will make the IDs to start with REC1 and complete with the number of rows.
 
 # 6) Link ID's and Keys
 
@@ -78,7 +72,7 @@ Taxonomy['AcceptedSpeciesID'] = Taxonomy['AcceptedSpecies'].map(species_to_id)
 Taxonomy_final = Taxonomy[['SpeciesID', 'AcceptedSpeciesID', 
                             'Family', 'Genus', 'Species']].copy()
 
-# 6.2) Observations
+# 6.2) Records
 
 # 6.2.1) AreaID
 RecordsData_Final = RecordsData_merged.merge(Regions, left_on='AreaName', right_on='AreaName', how='left') 
@@ -104,8 +98,17 @@ RecordsData_Final = RecordsData_Final.merge(Taxonomy, left_on='Species', right_o
 RecordsData_Final.drop(columns=['AcceptedSpeciesID', 'AcceptedSpecies_x', 'AcceptedSpecies_y','Family', 'Genus', 'Species'], inplace=True) 
 # Drop the AcceptedSpecies column and respective information keeping only the SpeciesID
 
-# 6.2.5) Reorder Columns
-RecordsData_Final = RecordsData_Final[['RecordID',
+# 6.2.5) Create RecordsID 
+
+RecordsData_Final.reset_index(drop=True, inplace=True)
+RecordsData_Final['RecordID'] = 'REC' + (RecordsData_Final.index +1).astype(str) 
+# Creating the RecordID column, which will be used as the primary key for the Observations table. 
+# This code will make the IDs to start with REC1 and complete with the number of rows. 
+ 
+
+# 6.2.6) Reorder Columns
+RecordsData_Final = RecordsData_Final[[
+    'RecordID',
     'SpeciesID',
     'AreaID', 'RealmID', 
     'Cryptogenic', 'IntentionalRelease', 'Introduced', 'Dispersal', 'Established', 'Eradicated', 'Year', 
