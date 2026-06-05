@@ -70,7 +70,7 @@ species_to_id = dict(zip(Taxonomy['Species'], Taxonomy['SpeciesID']))
 Taxonomy['AcceptedSpeciesID'] = Taxonomy['AcceptedSpecies'].map(species_to_id)
 
 Taxonomy_final = Taxonomy[['SpeciesID', 'AcceptedSpeciesID', 
-                            'Family', 'Genus', 'Species']].copy()
+                            'Family', 'Genus', 'Species', 'AcceptedSpecies']].copy()
 
 # 6.2) Records
 
