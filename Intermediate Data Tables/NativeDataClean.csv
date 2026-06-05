@@ -14,6 +14,12 @@ Acentria ephemerella;Asia;Palearctic;2024;Turner, R. et al. (2024). Internationa
 Achaea ablunaris;South America;Neotropical;1992;Frank, J., McCoy, E. (1992). Introduction to the Behavioral Ecology of Immigration. The Immigration of Insects to Florida, with a Tabulation of Records Published Since 1970. The Florida Entomologist.75(1): 1-28
 Achaea ablunaris;South America;Panamanian;1992;Frank, J., McCoy, E. (1992). Introduction to the Behavioral Ecology of Immigration. The Immigration of Insects to Florida, with a Tabulation of Records Published Since 1970. The Florida Entomologist.75(1): 1-28
 Achaea ablunaris;South America;Neotropical;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
+Achaea janata;Australia;Australian;1978;Edwards, E. (1978). A review of the genus Archaea in Australia (Lepidoptera: Noctuidae). Journal of the Australian Entomological Society. 17: 329-340
+Achaea janata;Oceania;Australian;1978;Edwards, E. (1978). A review of the genus Archaea in Australia (Lepidoptera: Noctuidae). Journal of the Australian Entomological Society. 17: 329-340
+Achaea janata;Oceania;Nearctic;1978;Edwards, E. (1978). A review of the genus Archaea in Australia (Lepidoptera: Noctuidae). Journal of the Australian Entomological Society. 17: 329-340
+Achaea janata;South America;Neotropical;1978;Edwards, E. (1978). A review of the genus Archaea in Australia (Lepidoptera: Noctuidae). Journal of the Australian Entomological Society. 17: 329-340
+Achaea janata;Asia;Oriental;1978;Edwards, E. (1978). A review of the genus Archaea in Australia (Lepidoptera: Noctuidae). Journal of the Australian Entomological Society. 17: 329-340
+Achaea janata;North America;Nearctic;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
 Acharia stimulea;North America;Nearctic;2022;Cooley, T., Reardon, R. (2022). Field Guide to the Slug Moths (Lepidoptera: Limacodidae) of West Virginia. Forest Service U.S. Department of Agriculture. 84pp
 Acharia stimulea;North America;Panamanian;2022;Cooley, T., Reardon, R. (2022). Field Guide to the Slug Moths (Lepidoptera: Limacodidae) of West Virginia. Forest Service U.S. Department of Agriculture. 84pp
 Acharia stimulea;North America;Nearctic;2023;Goudarzi, M. (2023). Structure, function, and evolution of nettle caterpillar (Lepidoptera: Limacodidae) venom toxins. The Australian Entomologist. 50(3): 351-356
@@ -1075,6 +1081,7 @@ Cryphia algae;Europe;Palearctic;2020;Roy, D. et al. (2020). DAISIE - Delivering 
 Cryphia algae;Africa;Saharo-Arabian;2015;Gomboc, S., Koren, T. (2015). The distribution of Cryphia ochsi Boursin, 1940 and Cryphia algae (Fabricius, 1775)(Lepidoptera: Noctuidae) in Slovenia and Croatia. Acta Entomologica Slovenica. 23(2): 117-34
 Cryphia algae;Asia;Sino-Japanese;2020;Roy, D. et al. (2020). DAISIE - Delivering Alien Invasive Species Inventories for Europe. Available at: http://www.europe-aliens.org/
 Cryphia algae;Europe;Palearctic;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
+Crypsiptya coclesalis;Asia;Oriental;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
 Crypsithyrodes concolorella;Asia;Oriental;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
 Crypsithyrodes concolorella;Africa;Afrotropical;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
 Crypsithyrodes concolorella;Australia;Australian;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
@@ -1755,6 +1762,7 @@ Grapholita molesta;Asia;Palearctic;2020;Fuentes, N. et al. (2020). Multi-taxa in
 Grapholita molesta;Europe;Palearctic;2020;Fuentes, N. et al. (2020). Multi-taxa inventory of naturalized species in Chile (including native Chilean species introduced in other areas of the national territory outside of their original range). NeoBiota. 60: 25-41
 Grapholita molesta;Asia;Palearctic;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
 Grapholita molesta;Asia;Oriental;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
+Grapholita prunivora;North America;Nearctic;2000;Mantey, K. et al. (2000). Laboratory rearing of lesser appleworm (Lepidoptera: Tortricidae). Journal of economic entomology. 93(3): 1021-1024
 Gymnoscelis rufifasciata;Asia;Palearctic;1991;Argaman, Q., Wysoki, M. (1991). The flower-eating Gymnoscelis (Lep. Geometridae) in Israel. Tropical Pest Management. 37(2): 185
 Gymnoscelis rufifasciata;Europe;Palearctic;1991;Argaman, Q., Wysoki, M. (1991). The flower-eating Gymnoscelis (Lep. Geometridae) in Israel. Tropical Pest Management. 37(2): 185
 Gymnoscelis rufifasciata;Europe;Palearctic;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
@@ -1824,6 +1832,19 @@ Helicoverpa armigera;Europe;Palearctic;2024;Turner, R. et al. (2024). Internatio
 Helicoverpa armigera;Asia;Oriental;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
 Helicoverpa armigera;Africa;Afrotropical;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
 Helicoverpa armigera;Australia;Australian;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
+Helicoverpa assulta;Africa;Afrotropical;1992;Cork, A. et al. (1992). Female sex pheromone of oriental tobacco budworm, Helicoverpa assulta (Guenee)(Lepidoptera: Noctuidae): Identification and field testing. Journal of Chemical Ecology. 18: 403-418
+Helicoverpa assulta;Australia;Australian;1992;Cork, A. et al. (1992). Female sex pheromone of oriental tobacco budworm, Helicoverpa assulta (Guenee)(Lepidoptera: Noctuidae): Identification and field testing. Journal of Chemical Ecology. 18: 403-418
+Helicoverpa assulta;Asia;Oriental;1992;Cork, A. et al. (1992). Female sex pheromone of oriental tobacco budworm, Helicoverpa assulta (Guenee)(Lepidoptera: Noctuidae): Identification and field testing. Journal of Chemical Ecology. 18: 403-418
+Helicoverpa assulta;Asia;Palearctic;1992;Cork, A. et al. (1992). Female sex pheromone of oriental tobacco budworm, Helicoverpa assulta (Guenee)(Lepidoptera: Noctuidae): Identification and field testing. Journal of Chemical Ecology. 18: 403-418
+Helicoverpa assulta;Asia;Sino-Japanese;1992;Cork, A. et al. (1992). Female sex pheromone of oriental tobacco budworm, Helicoverpa assulta (Guenee)(Lepidoptera: Noctuidae): Identification and field testing. Journal of Chemical Ecology. 18: 403-418
+Helicoverpa assulta;Africa;Afrotropical;2022;Edde, P. (2022). Arthropod pests of tobacco (Nicotiana tabacum L.). In: Edde, P. (2022). Field crop arthropod pests of economic importance. 2-73
+Helicoverpa assulta;Asia;Oriental;2022;Edde, P. (2022). Arthropod pests of tobacco (Nicotiana tabacum L.). In: Edde, P. (2022). Field crop arthropod pests of economic importance. 2-73
+Helicoverpa assulta;Australia;Australian;2022;Edde, P. (2022). Arthropod pests of tobacco (Nicotiana tabacum L.). In: Edde, P. (2022). Field crop arthropod pests of economic importance. 2-73
+Helicoverpa assulta;Oceania;Oceanian;2022;Edde, P. (2022). Arthropod pests of tobacco (Nicotiana tabacum L.). In: Edde, P. (2022). Field crop arthropod pests of economic importance. 2-73
+Helicoverpa assulta;Asia;Palearctic;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
+Helicoverpa assulta;Asia;Oriental;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
+Helicoverpa assulta;Africa;Afrotropical;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
+Helicoverpa assulta;Australia;Australian;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
 Helicoverpa punctigera;Asia;Oriental;2025;PaDIL (2025). The Pest and Disease Image Library (PaDIL). Available at: https://www.padil.gov.au/
 Helicoverpa punctigera;Australia;Australian;2025;PaDIL (2025). The Pest and Disease Image Library (PaDIL). Available at: https://www.padil.gov.au/
 Helicoverpa punctigera;Oceania;Oceanian;2025;PaDIL (2025). The Pest and Disease Image Library (PaDIL). Available at: https://www.padil.gov.au/
@@ -1888,6 +1909,18 @@ Hileithia decostalis;South America;Neotropical;2024;Turner, R. et al. (2024). In
 Hipparchia statilinus;Asia;Palearctic;2011;Tennent, W. (2011). Hipparchia statilinus. The IUCN Red List of Threatened Species. 2011: e.T160360A5364211
 Hipparchia statilinus;Europe;Palearctic;2011;Tennent, W. (2011). Hipparchia statilinus. The IUCN Red List of Threatened Species. 2011: e.T160360A5364211
 Hipparchia statilinus;Africa;Saharo-Arabian;2011;Tennent, W. (2011). Hipparchia statilinus. The IUCN Red List of Threatened Species. 2011: e.T160360A5364211
+Hippotion celerio;Africa;Afrotropical;2018;Kaleka, A. et al. (2018). Studies on genus Hippotion Huebner (Sphingidae: Lepidoptera) from India. Journal of Entomological Research. 42(1): 129-134
+Hippotion celerio;Australia;Australian;2018;Kaleka, A. et al. (2018). Studies on genus Hippotion Huebner (Sphingidae: Lepidoptera) from India. Journal of Entomological Research. 42(1): 129-134
+Hippotion celerio;Asia;Oriental;2018;Kaleka, A. et al. (2018). Studies on genus Hippotion Huebner (Sphingidae: Lepidoptera) from India. Journal of Entomological Research. 42(1): 129-134
+Hippotion celerio;Europe;Palearctic;2018;Kaleka, A. et al. (2018). Studies on genus Hippotion Huebner (Sphingidae: Lepidoptera) from India. Journal of Entomological Research. 42(1): 129-134
+Hippotion celerio;Europe;Palearctic;2023;Latha, V., Nagashree. (2023). Hippotion celerio: an unfamiliar guest in our balcony. Insect Environment. 26(1): 32-34
+Hippotion celerio;Africa;Saharo-Arabian;2018;Kaleka, A. et al. (2018). Studies on genus Hippotion Huebner (Sphingidae: Lepidoptera) from India. Journal of Entomological Research. 42(1): 129-134
+Hippotion celerio;Africa;Saharo-Arabian;2023;Latha, V., Nagashree. (2023). Hippotion celerio: an unfamiliar guest in our balcony. Insect Environment. 26(1): 32-34
+Hippotion celerio;Africa;Afrotropical;2023;Latha, V., Nagashree. (2023). Hippotion celerio: an unfamiliar guest in our balcony. Insect Environment. 26(1): 32-34
+Hippotion celerio;Africa;Madagascan;2023;Latha, V., Nagashree. (2023). Hippotion celerio: an unfamiliar guest in our balcony. Insect Environment. 26(1): 32-34
+Hippotion celerio;Asia;Saharo-Arabian;2023;Latha, V., Nagashree. (2023). Hippotion celerio: an unfamiliar guest in our balcony. Insect Environment. 26(1): 32-34
+Hippotion celerio;Asia;Oriental;2023;Latha, V., Nagashree. (2023). Hippotion celerio: an unfamiliar guest in our balcony. Insect Environment. 26(1): 32-34
+Hippotion celerio;Australia;Australian;2023;Latha, V., Nagashree. (2023). Hippotion celerio: an unfamiliar guest in our balcony. Insect Environment. 26(1): 32-34
 Hippotion rosetta;Australia;Australian;1987;Holloway, J. (1987). Moths of Borneo 3. Superfamily Bombycoidea: Families Lasiocampidae, Eupterotidae, Bombycidae, Brahmaeidae, Saturnidae, Sphingidae. Southene Sdn Bhd. Available at: https://www.mothsofborneo.com/part-3/
 Hippotion rosetta;Oceania;Oceanian;1987;Holloway, J. (1987). Moths of Borneo 3. Superfamily Bombycoidea: Families Lasiocampidae, Eupterotidae, Bombycidae, Brahmaeidae, Saturnidae, Sphingidae. Southene Sdn Bhd. Available at: https://www.mothsofborneo.com/part-3/
 Hippotion rosetta;Asia;Oriental;1987;Holloway, J. (1987). Moths of Borneo 3. Superfamily Bombycoidea: Families Lasiocampidae, Eupterotidae, Bombycidae, Brahmaeidae, Saturnidae, Sphingidae. Southene Sdn Bhd. Available at: https://www.mothsofborneo.com/part-3/
@@ -3309,8 +3342,6 @@ Tathorhynchus exsiccata;Australia;Australian;2024;Turner, R. et al. (2024). Inte
 Tebenna micalis;Europe;Palearctic;2020;Roy, D. et al. (2020). DAISIE - Delivering Alien Invasive Species Inventories for Europe. Available at: http://www.europe-aliens.org/
 Tecia solanivora;North America;Panamanian;2024;CAB International (CABI) (2024). CABI Invasive Species Compendium. Available at: https://www.cabidigitallibrary.org/product/QI
 Tecia solanivora;South America;Neotropical;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
-Teia anartoides;Australia;Australian;2024;CAB International (CABI) (2024). CABI Invasive Species Compendium. Available at: https://www.cabidigitallibrary.org/product/QI
-Teia anartoides;Australia;Australian;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
 Terastia meticulosalis;Africa;Afrotropical;1958;Zimmerman, E. (1958). Insects of Hawaii. Volume 8, Lepidoptera: Pyraloidea. Hawaii: University of Hawaii Press, Honolulu, Hawaii, United States of America
 Terastia meticulosalis;Australia;Australian;1958;Zimmerman, E. (1958). Insects of Hawaii. Volume 8, Lepidoptera: Pyraloidea. Hawaii: University of Hawaii Press, Honolulu, Hawaii, United States of America
 Terastia meticulosalis;South America;Neotropical;1958;Zimmerman, E. (1958). Insects of Hawaii. Volume 8, Lepidoptera: Pyraloidea. Hawaii: University of Hawaii Press, Honolulu, Hawaii, United States of America
@@ -3350,6 +3381,11 @@ Thessalia theona;North America;Nearctic;2023;Wahlberg, E. (Ed.) (2023). The Nymp
 Thessalia theona;South America;Neotropical;2023;Wahlberg, E. (Ed.) (2023). The Nymphalidae Systematics Group - The butterflies. Available at: Nymphalidae.com
 Thessalia theona;North America;Panamanian;2016;Erenler, H. et al. (2016). Butterfly Diversity at Lost Canyon Nature Reserve, Nicaragua, including a new country record. Revista Nicaraguense de Entomologia. 106
 Thessalia theona;North America;Nearctic;2024;Turner, R. et al. (2024). International Non-native Insect Establishment Data (0.2.1) [Data set]. Zenodo
+Thyas coronata;Australia;Australian;2008;Kawazu, K. et al. (2008). Lepidoptera captured on the East China Sea in 2005 and predicted migration sources. Entomological Science. 11(3): 315-322
+Thyas coronata;Asia;Oriental;2008;Kawazu, K. et al. (2008). Lepidoptera captured on the East China Sea in 2005 and predicted migration sources. Entomological Science. 11(3): 315-322
+Thyas coronata;Asia;Sino-Japanese;2008;Kawazu, K. et al. (2008). Lepidoptera captured on the East China Sea in 2005 and predicted migration sources. Entomological Science. 11(3): 315-322
+Thyas coronata;Asia;Oriental;2025;PaDIL (2025). The Pest and Disease Image Library (PaDIL). Available at: https://www.padil.gov.au/
+Thyas coronata;Oceania;Oceanian;2025;PaDIL (2025). The Pest and Disease Image Library (PaDIL). Available at: https://www.padil.gov.au/
 Thymelicus lineola;Asia;Oriental;1966;Burns, J. (1966). Expanding distribution and evolutionary potential of Thymelicus lineola (Lepidoptera: Hesperiidae), an introduced skipper, with special reference to its appearance in British Columbia. The Canadian Entomologist. 98(8): 859-866
 Thymelicus lineola;Asia;Palearctic;1966;Burns, J. (1966). Expanding distribution and evolutionary potential of Thymelicus lineola (Lepidoptera: Hesperiidae), an introduced skipper, with special reference to its appearance in British Columbia. The Canadian Entomologist. 98(8): 859-866
 Thymelicus lineola;Europe;Palearctic;1966;Burns, J. (1966). Expanding distribution and evolutionary potential of Thymelicus lineola (Lepidoptera: Hesperiidae), an introduced skipper, with special reference to its appearance in British Columbia. The Canadian Entomologist. 98(8): 859-866
@@ -3446,6 +3482,10 @@ Utetheisa ornatrix;North America;Nearctic;2010;Filho, J. et al. (2010). The thre
 Utetheisa ornatrix;South America;Neotropical;2010;Filho, J. et al. (2010). The three phases of the ensemble forecasting of niche models: geographic range and shifts in climatically suitable areas of Utetheisa ornatrix (Lepidoptera, Arctiidae). Revista Brasileira de Entomologia. 54(3): 339-349
 Utetheisa ornatrix;North America;Panamanian;2010;Filho, J. et al. (2010). The three phases of the ensemble forecasting of niche models: geographic range and shifts in climatically suitable areas of Utetheisa ornatrix (Lepidoptera, Arctiidae). Revista Brasileira de Entomologia. 54(3): 339-349
 Utetheisa ornatrix;South America;Panamanian;2010;Filho, J. et al. (2010). The three phases of the ensemble forecasting of niche models: geographic range and shifts in climatically suitable areas of Utetheisa ornatrix (Lepidoptera, Arctiidae). Revista Brasileira de Entomologia. 54(3): 339-349
+Utetheisa pulchelloides;Asia;Oriental;2017;Freitas, A. (2017). Scientific Note: Biological notes on Utetheisa pulchelloides (Erebidae) in Tuamotu, French Polynesia. Tropical Lepidoptera Research. 27(2): 115-116
+Utetheisa pulchelloides;Asia;Sino-Japanese;2017;Freitas, A. (2017). Scientific Note: Biological notes on Utetheisa pulchelloides (Erebidae) in Tuamotu, French Polynesia. Tropical Lepidoptera Research. 27(2): 115-116
+Utetheisa pulchelloides;Australia;Australian;2017;Freitas, A. (2017). Scientific Note: Biological notes on Utetheisa pulchelloides (Erebidae) in Tuamotu, French Polynesia. Tropical Lepidoptera Research. 27(2): 115-116
+Utetheisa pulchelloides;Oceania;Oceanian;2017;Freitas, A. (2017). Scientific Note: Biological notes on Utetheisa pulchelloides (Erebidae) in Tuamotu, French Polynesia. Tropical Lepidoptera Research. 27(2): 115-116
 Vanessa atalanta;North America;Nearctic;2020;Walker, A. (2020). Vanessa atalanta. The IUCN Red List of Threatened Species. 2020: e.T174225A172421220
 Vanessa atalanta;Asia;Palearctic;2020;Walker, A. (2020). Vanessa atalanta. The IUCN Red List of Threatened Species. 2020: e.T174225A172421220
 Vanessa atalanta;Europe;Palearctic;2020;Walker, A. (2020). Vanessa atalanta. The IUCN Red List of Threatened Species. 2020: e.T174225A172421220
