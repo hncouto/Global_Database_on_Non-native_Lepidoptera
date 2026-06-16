@@ -75,42 +75,51 @@ Taxonomy_final = Taxonomy[['SpeciesID', 'AcceptedSpeciesID',
 # 6.2) Records
 
 # 6.2.1) AreaID
-RecordsData_Final = RecordsData_merged.merge(Regions, left_on='AreaName', right_on='AreaName', how='left') 
+RecordsData_Updated = RecordsData_merged.merge(Regions, left_on='AreaName', right_on='AreaName', how='left') 
 # Merge with the Regions dataframe to attribute the respective AreaID
-RecordsData_Final.drop(columns=['AreaName', 'Country', 'Continent'], inplace=True) 
+RecordsData_Updated.drop(columns=['Country', 'Continent'], inplace=True) 
 # Drop the AreaName column and respective information keeping only the AreaID
 
 # 6.2.2) RealmID
-RecordsData_Final = RecordsData_Final.merge(Realms, left_on='Realm', right_on='Realm', how='left') 
+RecordsData_Updated = RecordsData_Updated.merge(Realms, left_on='Realm', right_on='Realm', how='left') 
 # Merge with the Realms dataframe to attribute the respective RealmID
-RecordsData_Final.drop(columns=['Realm'], inplace=True) 
-# Drop the Realm column and respective information keeping only the RealmID
+
 
 # 6.2.3) ReferenceID
-RecordsData_Final = RecordsData_Final.merge(UpdatedReferences, left_on='BibliographicReference', right_on='BibliographicReference', how='left') 
+RecordsData_Updated = RecordsData_Updated.merge(UpdatedReferences, left_on='BibliographicReference', right_on='BibliographicReference', how='left') 
 # Merge with the UpdatedReferences dataframe to attribute the respective ReferenceID
-RecordsData_Final.drop(columns=['BibliographicReference', 'ReferenceYear_x', 'ReferenceYear_y'], inplace=True) 
+RecordsData_Updated.drop(columns=['ReferenceYear_x', 'ReferenceYear_y'], inplace=True) 
 # Drop the BibliographicReference column and respective information keeping only the ReferenceID
 
 # 6.2.4) SpeciesID
-RecordsData_Final = RecordsData_Final.merge(Taxonomy, left_on='Species', right_on='Species', how='left') 
+RecordsData_Updated = RecordsData_Updated.merge(Taxonomy, left_on='Species', right_on='Species', how='left') 
 # Merge with the Taxonomy dataframe to attribute the respective SpeciesID
-RecordsData_Final.drop(columns=['AcceptedSpeciesID', 'AcceptedSpecies_x', 'AcceptedSpecies_y','Family', 'Genus', 'Species'], inplace=True) 
+RecordsData_Updated.drop(columns=['AcceptedSpeciesID', 'AcceptedSpecies_x', 'AcceptedSpecies_y','Family', 'Genus'], inplace=True) 
 # Drop the AcceptedSpecies column and respective information keeping only the SpeciesID
 
 # 6.2.5) Create RecordsID 
 
-RecordsData_Final.reset_index(drop=True, inplace=True)
-RecordsData_Final['RecordID'] = 'REC' + (RecordsData_Final.index +1).astype(str) 
+RecordsData_Updated.reset_index(drop=True, inplace=True)
+RecordsData_Updated['RecordID'] = 'REC' + (RecordsData_Updated.index +1).astype(str) 
 # Creating the RecordID column, which will be used as the primary key for the Observations table. 
 # This code will make the IDs to start with REC1 and complete with the number of rows. 
  
 
 # 6.2.6) Reorder Columns
-RecordsData_Final = RecordsData_Final[[
+RecordsData_Updated = RecordsData_Updated[[
+    'RecordID',
+    'SpeciesID', 'Species',
+    'AreaID', 'AreaName',
+    'RealmID', 'Realm',
+    'Cryptogenic', 'IntentionalRelease', 'Introduced', 'Dispersal', 'Established', 'Eradicated', 'Year', 
+    'ReferenceID', 'BibliographicReference']].copy()
+
+# 6.2.7) Cleaned Columns
+RecordsData_Final = RecordsData_Updated[[
     'RecordID',
     'SpeciesID',
-    'AreaID', 'RealmID', 
+    'AreaID',
+    'RealmID',
     'Cryptogenic', 'IntentionalRelease', 'Introduced', 'Dispersal', 'Established', 'Eradicated', 'Year', 
     'ReferenceID']].copy()
 
@@ -149,7 +158,7 @@ Natives_DB = Natives_DB[['SpeciesID', 'Continent', 'RealmID', 'ReferenceID']]
 
 # 7.1) Clean Tables
 NativeData_merged.to_csv(r'../Transformed Data/NativesClean.csv', sep=';', index=False)
-RecordsData_Final.to_csv(r'../Transformed Data/RecordsClean.csv', sep=';', index=False)
+RecordsData_Updated.to_csv(r'../Transformed Data/RecordsClean.csv', sep=';', index=False)
 UpdatedReferences.to_csv(r'../Transformed Data/ReferencesClean.csv', sep=';', index=False)
 Regions.to_csv(r'../Transformed Data/RegionsClean.csv', sep=';', index=False)
 Realms.to_csv(r'../Transformed Data/RealmsClean.csv', sep=';', index=False)
