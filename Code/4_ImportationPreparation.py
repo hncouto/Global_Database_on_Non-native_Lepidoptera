@@ -1,12 +1,11 @@
 # 1) Required Libraries
 
 import pandas as pd #used to format the data on to the final schema and to work with the dataframes.
-
 # 2) Required Data
 
 RecordsData = pd.read_csv(r'../Intermediate Data Tables/RecordsClean.csv', sep=';', encoding="utf-8")
 NativeData = pd.read_csv(r"../Intermediate Data Tables/NativeDataClean.csv", sep=";", encoding="utf-8")
-References = pd.read_csv(r"../Data Raw/Updated Data/RevisedRaferences.csv", sep=";", encoding="utf-8")
+References = pd.read_csv(r"../Data Raw/Updated Data/RevisedReferences.csv", sep=";", encoding="utf-8")
 Regions = pd.read_csv(r'../Data Raw/RegionsTableData.csv', sep=';', encoding='utf-8')
 Realms = pd.read_csv(r'../Data Raw/RealmsTableData.csv', sep=';', encoding='utf-8')
 Taxonomy = pd.read_csv(r'../Transformed Data/TaxonomyClean.csv', sep=';', encoding='utf-8')
@@ -14,10 +13,12 @@ Taxonomy = pd.read_csv(r'../Transformed Data/TaxonomyClean.csv', sep=';', encodi
 # 3) Update References
 
 RecordsData_merged = RecordsData.merge(References, on=["Reference", "ReferenceYear"], how="left")
+RecordsData_merged['RevisedReference'] = RecordsData_merged['RevisedReference'].fillna(RecordsData_merged['Reference'])
 RecordsData_merged.drop(columns=["Reference", "ReferenceYear"], inplace=True)
 RecordsData_merged.rename(columns={"RevisedReference": "BibliographicReference", "RevisedReferenceYear": "ReferenceYear"}, inplace=True)
 
 NativeData_merged = NativeData.merge(References, on=["Reference", "ReferenceYear"], how="left")
+NativeData_merged['RevisedReference'] = NativeData_merged['RevisedReference'].fillna(NativeData_merged['Reference'])
 NativeData_merged.drop(columns=["Reference", "ReferenceYear"], inplace=True)
 NativeData_merged.rename(columns={"RevisedReference": "BibliographicReference", "RevisedReferenceYear": "ReferenceYear"}, inplace=True)
 
