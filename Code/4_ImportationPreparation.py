@@ -14,17 +14,19 @@ Taxonomy = pd.read_csv(r'../Transformed Data/TaxonomyClean.csv', sep=';', encodi
 
 RecordsData_merged = RecordsData.merge(References, on=["Reference", "ReferenceYear"], how="left")
 RecordsData_merged['RevisedReference'] = RecordsData_merged['RevisedReference'].fillna(RecordsData_merged['Reference'])
+RecordsData_merged['RevisedReferenceYear'] = RecordsData_merged['RevisedReferenceYear'].fillna(RecordsData_merged['ReferenceYear'])
 RecordsData_merged.drop(columns=["Reference", "ReferenceYear"], inplace=True)
 RecordsData_merged.rename(columns={"RevisedReference": "BibliographicReference", "RevisedReferenceYear": "ReferenceYear"}, inplace=True)
 
 NativeData_merged = NativeData.merge(References, on=["Reference", "ReferenceYear"], how="left")
 NativeData_merged['RevisedReference'] = NativeData_merged['RevisedReference'].fillna(NativeData_merged['Reference'])
+NativeData_merged['RevisedReferenceYear'] = NativeData_merged['RevisedReferenceYear'].fillna(NativeData_merged['ReferenceYear'])
 NativeData_merged.drop(columns=["Reference", "ReferenceYear"], inplace=True)
 NativeData_merged.rename(columns={"RevisedReference": "BibliographicReference", "RevisedReferenceYear": "ReferenceYear"}, inplace=True)
 
-UpdatedReferences = References[['RevisedReference', 'RevisedReferenceYear']].drop_duplicates()
+UpdatedReferences = pd.concat([NativeData_merged[["BibliographicReference", "ReferenceYear"]].copy(), RecordsData_merged[["BibliographicReference", "ReferenceYear"]].copy()]) 
+UpdatedReferences = UpdatedReferences[['BibliographicReference', 'ReferenceYear']].drop_duplicates()
 UpdatedReferences.reset_index(drop=True, inplace=True)
-UpdatedReferences.rename(columns={"RevisedReference": "BibliographicReference", "RevisedReferenceYear": "ReferenceYear"}, inplace=True)
 
 # 4) Organize Columns and Check names
 

@@ -141,7 +141,7 @@ RecordsList['AcceptedSpecies'] = RecordsList['AcceptedSpecies'].apply(lambda x: 
 RecordsList[RecordsList['AcceptedSpecies'].isna()]['Species'].unique()
 RecordsList[RecordsList['AcceptedSpecies'].isna()].shape[0]
 
-# Considering that there were only 23 taxonomy cases, corresponding to only 28 records, that could not be resolved by the applied methodology it was opted to drop these cases. 
+# Considering that there were only 33 taxonomy cases, corresponding to only 42 records, that could not be resolved by the applied methodology it was opted to drop these cases. 
 
 RecordsClean = RecordsList.copy()
 RecordsClean.dropna(subset=['AcceptedSpecies'], inplace=True)
