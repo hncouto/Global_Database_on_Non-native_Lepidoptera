@@ -16,7 +16,7 @@ RecordsData = pd.read_csv(r"../Database Tables/Obs_Records_DB.csv", sep=",", enc
 # 3) SQLite Database Creation
 
 # 3.1) Create Connection
-con = sqlite3.connect("../Database/WDNnL.db") 
+con = sqlite3.connect("../Database/GNOLEP.db") 
 # Create a connector to the database file or a file if it doesn't exist
 con.execute("PRAGMA foreign_keys = ON") 
 # Enable foreign keys in the new database
@@ -239,11 +239,11 @@ con.close()
 #Close the connection to the database
 
 # 5) Export Database
-os.rename(r'../Database/WDNnL.db', r'../Database/WDNnL.sqlite') 
-#Rename the WDNnL.db file to WDNnL.sqlite for better readability
+os.rename(r'../Database/GNOLEP.db', r'../Database/GNOLEP.sqlite') 
+#Rename the GNOLEP.db file to GNOLEP.sqlite for better readability
 
-con = sqlite3.connect("../Database/WDNnL.sqlite") 
-#Connect to the WDNnL.sqlite database
+con = sqlite3.connect("../Database/GNOLEP.sqlite") 
+#Connect to the GNOLEP.sqlite database
 cur = con.cursor() 
 #Create a cursor to execute SQL commands
 
