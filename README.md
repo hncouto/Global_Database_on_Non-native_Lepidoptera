@@ -1,6 +1,6 @@
-# Worldwide Database on Non-native Lepidoptera (WDNnL) 
+# Global Database on Non-native Lepidoptera (GNOLEP) 
 
-Repository for the code on the development of the Worldwide Database on Non-native Lepidoptera. 
+Repository for the code on the development of the Global Database on Non-native Lepidoptera. 
 
 
 ## Overview
