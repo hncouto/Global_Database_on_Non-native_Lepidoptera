@@ -1,4 +1,4 @@
-AreaID,AreaName,Country,Continent
+GNOLEP:areaID,dwc:verbatimLocality,dwc:country,dwc:continent
 ATA.1_1,Antarctica,Antarctica,Antarctica
 NOR.2_1,Norway Antactic Islands,Norway,Antarctica
 FRA.4_1,French Antarctic Islands,France,Antarctica

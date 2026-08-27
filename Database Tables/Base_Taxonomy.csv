@@ -1,4 +1,4 @@
-SpeciesID,AcceptedSpeciesID,Family,Genus,Species
+GNOLEP:speciesID,GNOLEP:acceptedSpeciesID,dwc:family,dwc:genus,dwc:scientificName
 SP1,SP1,Pieridae,Abaeis,Abaeis nicippe
 SP2,SP2,Nepticulidae,Acalyptris,Acalyptris platani
 SP3,SP3,Crambidae,Acentria,Acentria ephemerella

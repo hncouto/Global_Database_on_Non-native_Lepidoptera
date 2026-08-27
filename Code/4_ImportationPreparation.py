@@ -157,16 +157,83 @@ Natives_DB.drop(columns=['BibliographicReference', 'ReferenceYear'], inplace=Tru
 # 6.4.4) Reorder Columns
 Natives_DB = Natives_DB[['SpeciesID', 'Continent', 'RealmID', 'ReferenceID']]
 
-# 7) Exportation
 
-# 7.1) Clean Tables
+# 7) DarwinCore Standardization
+# While it is not possible to update all the database to DarwinCore standard, we updated each table to the best of our ability.
+# All data that was updated to DarwinCore standard is identified as "dwc:" in the code, while the remaining data is identified as "GNOLEP:"
+NativeData_merged.rename(columns={'Species': 'dwc:scientificName', 
+                                  'Continent': 'dwc:continent', 
+                                  'Realm': 'dwc:referencesYear',
+                                  'BibliographicReference':'dwc:associatedReferences',
+                                  'ReferenceYear':'GNOLEP:referenceYear'}, inplace=True)
+
+RecordsData_Updated.rename(columns={'RecordID':'GNOLEP:recordID', 
+                                    'SpeciesID':'GNOLEP:speciesID', 
+                                    'Species':'dwc:scientificName', 
+                                    'AreaID':'GNOLEP:areaID', 
+                                    'AreaName':'dwc:verbatimLocality', 
+                                    'RealmID':'GNOLEP:realmID',
+                                    'Realm':'GNOLEP:realm', 
+                                    'Cryptogenic': 'GNOLEP:cryptogenic', 
+                                    'IntentionalRelease':'GNOLEP:intentionalRelease', 
+                                    'Introduced':'GNOLEP:introduced', 
+                                    'Dispersal':'GNOLEP:dispersal',
+                                    'Established':'GNOLEP:established', 
+                                    'Eradicated':'GNOLEP:eradicated', 
+                                    'Year':'dwc:year', 
+                                    'ReferenceID':'GNOLEP:referenceID',
+                                    'BibliographicReference':'dwc:associatedReferences'}, inplace=True)
+
+UpdatedReferences.rename(columns={'BibliographicReference': 'dwc:associatedReferences', 
+                                  'ReferenceYear': 'GNOLEP:referenceYear',
+                                  'ReferenceID': 'GNOLEP:referenceID'}, inplace=True)
+
+Regions.rename(columns={'AreaID': 'GNOLEP:areaID', 
+                        'AreaName': 'dwc:verbatimLocality', 
+                        'Country': 'dwc:country', 
+                        'Continent': 'dwc:continent'}, inplace=True)
+
+Realms.rename(columns={'Realm': 'GNOLEP:realm', 
+                       'RealmID': 'GNOLEP:realmID'}, inplace=True)
+
+Taxonomy_final.rename(columns={'SpeciesID':'GNOLEP:speciesID',
+                               'AcceptedSpeciesID': 'GNOLEP:acceptedSpeciesID', 
+                               'Family': 'dwc:family', 
+                               'Genus': 'dwc:genus', 
+                               'Species': 'dwc:scientificName'}, inplace=True)
+
+RecordsData_Final.rename(columns={'RecordID': 'GNOLEP:recordID', 
+                                  'SpeciesID': 'GNOLEP:speciesID', 
+                                  'AreaID': 'GNOLEP:areaID',
+                                  'RealmID': 'GNOLEP:realmID', 
+                                  'Cryptogenic': 'GNOLEP:cryptogenic', 
+                                  'IntentionalRelease': 'GNOLEP:intentionalRelease',
+                                  'Introduced': 'GNOLEP:introduced', 
+                                  'Dispersal': 'GNOLEP:dispersal', 
+                                  'Established': 'GNOLEP:established',
+                                  'Eradicated': 'GNOLEP:eradicated', 
+                                  'Year': 'dwc:year', 
+                                  'ReferenceID': 'GNOLEP:referenceID'}, inplace=True)
+
+References_Final.rename(columns={'ReferenceID': 'GNOLEP:referenceID', 
+                                 'BibliographicReference': 'dwc:associatedReferences', 
+                                 'ReferenceYear': 'GNOLEP:referenceYear'}, inplace=True)
+
+Natives_DB.rename(columns={'SpeciesID': 'GNOLEP:speciesID', 
+                           'Continent': 'dwc:continent', 
+                           'RealmID': 'GNOLEP:realmID', 
+                           'ReferenceID': 'GNOLEP:referenceID'}, inplace=True)
+
+# 8) Exportation
+
+# 8.1) Clean Tables
 NativeData_merged.to_csv(r'../Transformed Data/NativesClean.csv', sep=';', index=False)
 RecordsData_Updated.to_csv(r'../Transformed Data/RecordsClean.csv', sep=';', index=False)
 UpdatedReferences.to_csv(r'../Transformed Data/ReferencesClean.csv', sep=';', index=False)
 Regions.to_csv(r'../Transformed Data/RegionsClean.csv', sep=';', index=False)
 Realms.to_csv(r'../Transformed Data/RealmsClean.csv', sep=';', index=False)
 
-# 7.2) Database Tables
+# 8.2) Database Tables
 Taxonomy_final.to_csv(r'../Database Tables/Base_Taxonomy.csv', sep=',', index=False)
 RecordsData_Final.to_csv(r'../Database Tables/Obs_Records_DB.csv', sep=',', index=False)
 Regions.to_csv(r'../Database Tables/Geography_Regions.csv', sep=',', index=False)

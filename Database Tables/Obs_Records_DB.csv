@@ -1,4 +1,4 @@
-RecordID,SpeciesID,AreaID,RealmID,Cryptogenic,IntentionalRelease,Introduced,Dispersal,Established,Eradicated,Year,ReferenceID
+GNOLEP:recordID,GNOLEP:speciesID,GNOLEP:areaID,GNOLEP:realmID,GNOLEP:cryptogenic,GNOLEP:intentionalRelease,GNOLEP:introduced,GNOLEP:dispersal,GNOLEP:established,GNOLEP:eradicated,dwc:year,GNOLEP:referenceID
 REC1,SP1,USA.2_1,RLM9,0.0,0.0,1.0,,1.0,0.0,2013.0,REF724
 REC2,SP1,USA.2_1,RLM9,,,1.0,,1.0,0.0,,REF428
 REC3,SP1,USA.2_1,RLM9,0.0,0.0,1.0,,1.0,0.0,,REF725

@@ -1,4 +1,4 @@
-SpeciesID,Continent,RealmID,ReferenceID
+GNOLEP:speciesID,dwc:continent,GNOLEP:realmID,GNOLEP:referenceID
 SP1,South America,RLM1,REF1
 SP2,Asia,RLM11,REF2
 SP2,Europe,RLM11,REF3
