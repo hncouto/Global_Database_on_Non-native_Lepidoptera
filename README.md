@@ -99,6 +99,11 @@ Run `4_ImportationPreparation.py` to create the final structured relational data
 Run `5_DatabaseCreation.py` to import each individual table to the final sqlite database file, that will be available at: `Database/GNOLEP.sqlite`
 
 
+## Database Schema and Data Model
+
+<img width="425" height="217" alt="image" src="https://github.com/user-attachments/assets/8c830948-4142-4d04-b40a-ce924e148680" />
+
+
 ## How to Contribute
 
 To contribute and include data that is missing please feel free to enter in contact with the authors.
