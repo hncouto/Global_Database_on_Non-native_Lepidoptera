@@ -132,4 +132,4 @@ We would like to thank André Calado, Claudia Gomes and João Neto for support d
 
 - Couto, H., Rebelo, R., Grosso-Silva, J., Cardoso, P., Capinha, C. (2026). The lepidopteran hitchhiker’s guide to the globe: the spread and dispersal of non-native moths and butterflies. Global Ecology and Biogeography. 35, 8: e70292. https://doi.org/10.1111/geb.70292 ; https://doi.org/10.5281/zenodo.21620831
 
-- https://github.com/hncouto/GNOLEP-R-Package
+- The GNOLEP R Package: https://github.com/hncouto/GNOLEP-R-Package
