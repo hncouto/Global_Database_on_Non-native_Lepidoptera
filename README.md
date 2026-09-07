@@ -1,5 +1,8 @@
 [![DOI](https://zenodo.org/badge/993284668.svg)](https://doi.org/10.5281/zenodo.22305226)
 
+<img width="280" height="154" alt="GNOLEP_LOGO" src="https://github.com/user-attachments/assets/c6d00314-a303-4c01-a12c-4f13362c7890" />
+
+
 # Global Database on Non-native Lepidoptera (GNOLEP) 
 
 Repository for the code, development and data of the **Global Database on Non-native Lepidoptera (GNOLEP)**. 
